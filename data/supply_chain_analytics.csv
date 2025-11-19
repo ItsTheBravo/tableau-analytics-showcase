@@ -1,0 +1,1001 @@
+order_id,order_date,customer_name,customer_country,product_name,category,supplier_name,warehouse_name,quantity_ordered,unit_price,total_price,shipment_id,transporter_name,shipment_date,delivery_date,delivery_status
+10001,2024-07-09,NIO Inc,India,Medical Tablet,Healthcare,Quantum Supplies,Middle East Hub,168,236.19,39679.92,SHP10001,DHL Express,2024-07-13,2024-07-15,Delivered
+10002,2024-12-03,Intel Corp,Japan,Lithium Battery,Energy,Quantum Supplies,Middle East Hub,142,196.65,27924.3,SHP10002,Maersk Shipping,2024-12-06,2024-12-07,Delivered
+10003,2025-02-25,Microsoft Devices,India,Fuel Injector,Automotive,Nova Industrial,West Coast DC,65,269.51,17518.149999999998,SHP10003,DHL Express,2025-03-02,2025-03-03,Delivered
+10004,2025-05-21,Siemens AG,India,Fuel Injector,Automotive,Nova Industrial,Central Europe DC,175,269.51,47164.25,SHP10004,Maersk Shipping,2025-05-23,2025-05-29,Delayed
+10005,2024-12-08,Huawei Tech,India,Medical Tablet,Healthcare,Quantum Supplies,East Coast DC,122,236.19,28815.18,SHP10005,UPS Global,2024-12-09,2024-12-09,Delivered
+10006,2024-07-22,Ford Motors,South Korea,Inverter,Energy,Nova Industrial,Asia Hub,126,370.02,46622.52,SHP10006,UPS Global,2024-07-26,2024-07-28,Delivered
+10007,2025-03-17,Ford Motors,South Korea,ECG Sensor,Healthcare,GreenLeaf Components,Central Europe DC,36,311.75,11223.0,SHP10007,FedEx Logistics,2025-03-22,2025-03-23,Delivered
+10008,2024-09-08,Amazon Robotics,Germany,Energy Meter,Energy,GreenLeaf Components,Central Europe DC,33,305.35,10076.550000000001,SHP10008,Maersk Shipping,2024-09-12,2024-09-18,Delayed
+10009,2025-01-04,Amazon Robotics,Germany,Fuel Injector,Automotive,Nova Industrial,Asia Hub,12,269.51,3234.12,SHP10009,UPS Global,2025-01-09,2025-01-10,Delivered
+10010,2024-01-18,Tesla Motors,UK,Brake Module,Automotive,Global Tech Parts,Central Europe DC,107,224.49,24020.43,SHP10010,FedEx Logistics,2024-01-20,2024-01-25,Delivered
+10011,2025-04-09,Samsung Electronics,China,Brake Module,Automotive,Global Tech Parts,Asia Hub,46,224.49,10326.54,SHP10011,UPS Global,2025-04-14,2025-04-21,Delayed
+10012,2024-08-04,Amazon Robotics,Germany,Smart Thermometer,Healthcare,Nova Industrial,East Coast DC,159,156.69,24913.71,SHP10012,FedEx Logistics,2024-08-05,2024-08-07,Delivered
+10013,2025-06-14,Apple Inc,UK,Inverter,Energy,Nova Industrial,Central Europe DC,63,370.02,23311.26,SHP10013,Maersk Shipping,2025-06-18,2025-06-22,Delivered
+10014,2024-08-03,General Electric,China,Light Controller,Home Automation,BlueWave Materials,Asia Hub,145,117.98,17107.100000000002,SHP10014,Maersk Shipping,2024-08-06,2024-08-08,Delivered
+10015,2025-01-11,Philips Healthcare,UK,Blood Pressure Monitor,Healthcare,GreenLeaf Components,West Coast DC,46,82.65,3801.9,SHP10015,Maersk Shipping,2025-01-12,2025-01-19,Delayed
+10016,2024-05-12,BYD Auto,USA,Lithium Battery,Energy,Quantum Supplies,East Coast DC,99,196.65,19468.350000000002,SHP10016,DHL Express,2024-05-17,2024-05-21,Delivered
+10017,2025-05-06,Sony Corp,Netherlands,ECG Sensor,Healthcare,GreenLeaf Components,Asia Hub,145,311.75,45203.75,SHP10017,FedEx Logistics,2025-05-11,2025-05-17,Delayed
+10018,2024-12-04,Apple Inc,UK,Voice Assistant,Home Automation,Nova Industrial,West Coast DC,124,103.19,12795.56,SHP10018,DHL Express,2024-12-07,2024-12-07,Delivered
+10019,2025-05-01,NIO Inc,India,WiFi Module,Electronics,BlueWave Materials,Central Europe DC,75,358.42,26881.5,SHP10019,DHL Express,2025-05-06,2025-05-06,Delivered
+10020,2024-12-27,Toyota Motors,South Korea,Energy Meter,Energy,GreenLeaf Components,Middle East Hub,75,305.35,22901.25,SHP10020,UPS Global,2024-12-30,2025-01-02,Delivered
+10021,2024-01-30,Toyota Motors,South Korea,Sensor Module,Electronics,Nova Industrial,Central Europe DC,104,43.17,4489.68,SHP10021,DHL Express,2024-02-02,2024-02-07,Delivered
+10022,2025-06-08,Intel Corp,Japan,Fuel Injector,Automotive,Nova Industrial,Central Europe DC,59,269.51,15901.09,SHP10022,Maersk Shipping,2025-06-11,2025-06-18,Delayed
+10023,2024-11-19,Ford Motors,South Korea,Light Controller,Home Automation,BlueWave Materials,Middle East Hub,193,117.98,22770.14,SHP10023,DHL Express,2024-11-22,2024-11-23,Delivered
+10024,2025-08-22,Huawei Tech,India,Voice Assistant,Home Automation,Nova Industrial,Asia Hub,5,103.19,515.95,SHP10024,UPS Global,2025-08-26,2025-08-28,Delivered
+10025,2025-08-13,Huawei Tech,India,Lithium Battery,Energy,Quantum Supplies,Middle East Hub,67,196.65,13175.550000000001,SHP10025,UPS Global,2025-08-14,2025-08-17,Delivered
+10026,2024-03-13,Siemens AG,India,WiFi Module,Electronics,BlueWave Materials,West Coast DC,68,358.42,24372.56,SHP10026,Maersk Shipping,2024-03-14,2024-03-15,Delivered
+10027,2025-04-14,Intel Corp,Japan,Brake Module,Automotive,Global Tech Parts,Asia Hub,145,224.49,32551.050000000003,SHP10027,FedEx Logistics,2025-04-15,2025-04-17,Delivered
+10028,2024-12-13,Panasonic Corp,Netherlands,PCB Board,Electronics,Quantum Supplies,East Coast DC,48,435.1,20884.800000000003,SHP10028,Maersk Shipping,2024-12-15,2024-12-22,Delayed
+10029,2024-04-10,Microsoft Devices,India,Oximeter,Healthcare,Sunrise Electronics,Asia Hub,18,192.69,3468.42,SHP10029,Maersk Shipping,2024-04-15,2024-04-17,Delivered
+10030,2025-04-02,Siemens AG,India,Thermostat,Home Automation,Sunrise Electronics,Central Europe DC,111,418.73,46479.03,SHP10030,Maersk Shipping,2025-04-04,2025-04-04,Delivered
+10031,2025-06-11,LG Electronics,Germany,Engine Sensor,Automotive,Global Tech Parts,Middle East Hub,169,162.56,27472.64,SHP10031,FedEx Logistics,2025-06-12,2025-06-16,Delivered
+10032,2024-01-10,Philips Healthcare,UK,Medical Tablet,Healthcare,Quantum Supplies,Asia Hub,7,236.19,1653.33,SHP10032,FedEx Logistics,2024-01-12,2024-01-13,Delivered
+10033,2024-04-14,Apple Inc,UK,EV Charger,Automotive,Sunrise Electronics,Middle East Hub,70,103.95,7276.5,SHP10033,UPS Global,2024-04-16,2024-04-17,Delivered
+10034,2025-02-21,Bosch GmbH,UK,Medical Tablet,Healthcare,Quantum Supplies,East Coast DC,14,236.19,3306.66,SHP10034,FedEx Logistics,2025-02-26,2025-03-05,Delayed
+10035,2024-10-01,Huawei Tech,India,GPS Unit,Automotive,GreenLeaf Components,West Coast DC,134,156.25,20937.5,SHP10035,DHL Express,2024-10-03,2024-10-04,Delivered
+10036,2025-03-23,Intel Corp,Japan,Microcontroller,Electronics,Sunrise Electronics,Middle East Hub,132,90.66,11967.119999999999,SHP10036,FedEx Logistics,2025-03-24,2025-03-31,Delayed
+10037,2024-09-23,Microsoft Devices,India,Fuel Injector,Automotive,Nova Industrial,Middle East Hub,62,269.51,16709.62,SHP10037,FedEx Logistics,2024-09-26,2024-10-01,Delivered
+10038,2025-05-29,BYD Auto,USA,Solar Panel,Energy,Quantum Supplies,Asia Hub,29,476.1,13806.900000000001,SHP10038,UPS Global,2025-06-03,2025-06-07,Delivered
+10039,2024-08-27,Tesla Motors,UK,Lithium Battery,Energy,Quantum Supplies,West Coast DC,63,196.65,12388.95,SHP10039,FedEx Logistics,2024-08-29,2024-09-01,Delivered
+10040,2025-02-16,Huawei Tech,India,Solar Panel,Energy,Quantum Supplies,Middle East Hub,145,476.1,69034.5,SHP10040,FedEx Logistics,2025-02-18,2025-02-21,Delivered
+10041,2024-02-20,Medtronic,India,PCB Board,Electronics,Quantum Supplies,West Coast DC,177,435.1,77012.7,SHP10041,FedEx Logistics,2024-02-22,2024-02-25,Delivered
+10042,2025-03-29,Cisco Systems,UK,WiFi Module,Electronics,BlueWave Materials,Middle East Hub,119,358.42,42651.98,SHP10042,DHL Express,2025-04-01,2025-04-07,Delayed
+10043,2024-04-01,Amazon Robotics,Germany,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,92,485.41,44657.72,SHP10043,FedEx Logistics,2024-04-02,2024-04-03,Delivered
+10044,2024-12-17,Philips Healthcare,UK,Energy Meter,Energy,GreenLeaf Components,East Coast DC,48,305.35,14656.800000000001,SHP10044,UPS Global,2024-12-19,2024-12-25,Delayed
+10045,2025-04-21,NIO Inc,India,Blood Pressure Monitor,Healthcare,GreenLeaf Components,East Coast DC,139,82.65,11488.35,SHP10045,FedEx Logistics,2025-04-25,2025-04-28,Delivered
+10046,2024-12-09,Intel Corp,Japan,GPS Unit,Automotive,GreenLeaf Components,Middle East Hub,92,156.25,14375.0,SHP10046,Maersk Shipping,2024-12-12,2024-12-15,Delivered
+10047,2024-05-09,General Electric,China,Lithium Battery,Energy,Quantum Supplies,East Coast DC,80,196.65,15732.0,SHP10047,DHL Express,2024-05-11,2024-05-16,Delivered
+10048,2024-11-11,LG Electronics,Germany,Light Controller,Home Automation,BlueWave Materials,Middle East Hub,57,117.98,6724.860000000001,SHP10048,UPS Global,2024-11-13,2024-11-19,Delayed
+10049,2025-03-15,Philips Healthcare,UK,Smart Switch,Home Automation,Quantum Supplies,East Coast DC,101,24.98,2522.98,SHP10049,Maersk Shipping,2025-03-16,2025-03-17,Delivered
+10050,2025-01-08,Amazon Robotics,Germany,Voice Assistant,Home Automation,Nova Industrial,West Coast DC,70,103.19,7223.3,SHP10050,DHL Express,2025-01-12,2025-01-17,Delivered
+10051,2025-03-01,Philips Healthcare,UK,Oximeter,Healthcare,Sunrise Electronics,Central Europe DC,145,192.69,27940.05,SHP10051,Maersk Shipping,2025-03-06,2025-03-09,Delivered
+10052,2024-11-20,Medtronic,India,Brake Module,Automotive,Global Tech Parts,West Coast DC,99,224.49,22224.510000000002,SHP10052,Maersk Shipping,2024-11-22,2024-11-24,Delivered
+10053,2025-07-22,Microsoft Devices,India,GPS Unit,Automotive,GreenLeaf Components,Asia Hub,61,156.25,9531.25,SHP10053,FedEx Logistics,2025-07-25,2025-07-31,Delayed
+10054,2024-03-28,Apple Inc,UK,Microcontroller,Electronics,Sunrise Electronics,Central Europe DC,188,90.66,17044.079999999998,SHP10054,FedEx Logistics,2024-03-31,2024-04-02,Delivered
+10055,2024-11-09,Toyota Motors,South Korea,PCB Board,Electronics,Quantum Supplies,East Coast DC,173,435.1,75272.3,SHP10055,FedEx Logistics,2024-11-13,2024-11-18,Delivered
+10056,2024-10-15,Microsoft Devices,India,PCB Board,Electronics,Quantum Supplies,West Coast DC,48,435.1,20884.800000000003,SHP10056,Maersk Shipping,2024-10-16,2024-10-19,Delivered
+10057,2024-10-06,Ford Motors,South Korea,Power Cable,Energy,Sunrise Electronics,Middle East Hub,125,90.67,11333.75,SHP10057,DHL Express,2024-10-11,2024-10-13,Delivered
+10058,2024-08-17,Siemens AG,India,Smart Thermometer,Healthcare,Nova Industrial,West Coast DC,172,156.69,26950.68,SHP10058,Maersk Shipping,2024-08-19,2024-08-25,Delayed
+10059,2025-03-31,NIO Inc,India,Fuel Injector,Automotive,Nova Industrial,Central Europe DC,111,269.51,29915.61,SHP10059,UPS Global,2025-04-03,2025-04-10,Delayed
+10060,2025-01-25,Philips Healthcare,UK,Brake Module,Automotive,Global Tech Parts,Central Europe DC,82,224.49,18408.18,SHP10060,Maersk Shipping,2025-01-26,2025-01-26,Delivered
+10061,2024-11-24,Siemens AG,India,PCB Board,Electronics,Quantum Supplies,West Coast DC,107,435.1,46555.700000000004,SHP10061,UPS Global,2024-11-25,2024-12-01,Delayed
+10062,2025-01-17,Amazon Robotics,Germany,Lithium Battery,Energy,Quantum Supplies,Asia Hub,69,196.65,13568.85,SHP10062,Maersk Shipping,2025-01-22,2025-01-24,Delivered
+10063,2025-07-12,Panasonic Corp,Netherlands,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,186,306.54,57016.44,SHP10063,UPS Global,2025-07-14,2025-07-19,Delivered
+10064,2025-03-02,Sony Corp,Netherlands,GPS Unit,Automotive,GreenLeaf Components,Asia Hub,193,156.25,30156.25,SHP10064,UPS Global,2025-03-07,2025-03-14,Delayed
+10065,2024-06-22,Siemens AG,India,ECG Sensor,Healthcare,GreenLeaf Components,Central Europe DC,71,311.75,22134.25,SHP10065,DHL Express,2024-06-24,2024-06-26,Delivered
+10066,2025-02-16,NIO Inc,India,Power Cable,Energy,Sunrise Electronics,Middle East Hub,134,90.67,12149.78,SHP10066,FedEx Logistics,2025-02-20,2025-02-27,Delayed
+10067,2024-12-30,Amazon Robotics,Germany,Voice Assistant,Home Automation,Nova Industrial,Middle East Hub,164,103.19,16923.16,SHP10067,UPS Global,2024-12-31,2025-01-04,Delivered
+10068,2025-04-05,Microsoft Devices,India,Oximeter,Healthcare,Sunrise Electronics,Middle East Hub,11,192.69,2119.59,SHP10068,DHL Express,2025-04-06,2025-04-12,Delayed
+10069,2024-05-07,Medtronic,India,Inverter,Energy,Nova Industrial,West Coast DC,136,370.02,50322.72,SHP10069,FedEx Logistics,2024-05-10,2024-05-15,Delivered
+10070,2024-06-18,Cisco Systems,UK,Inverter,Energy,Nova Industrial,East Coast DC,127,370.02,46992.54,SHP10070,UPS Global,2024-06-21,2024-06-21,Delivered
+10071,2024-05-10,Bosch GmbH,UK,Microcontroller,Electronics,Sunrise Electronics,West Coast DC,20,90.66,1813.1999999999998,SHP10071,DHL Express,2024-05-13,2024-05-17,Delivered
+10072,2024-11-08,Bosch GmbH,UK,Light Controller,Home Automation,BlueWave Materials,Middle East Hub,137,117.98,16163.26,SHP10072,DHL Express,2024-11-11,2024-11-18,Delayed
+10073,2025-08-22,Huawei Tech,India,Power Cable,Energy,Sunrise Electronics,Middle East Hub,195,90.67,17680.65,SHP10073,DHL Express,2025-08-24,2025-08-27,Delivered
+10074,2025-02-27,Panasonic Corp,Netherlands,Smart Thermometer,Healthcare,Nova Industrial,Asia Hub,125,156.69,19586.25,SHP10074,FedEx Logistics,2025-03-04,2025-03-06,Delivered
+10075,2025-07-20,NIO Inc,India,Microcontroller,Electronics,Sunrise Electronics,Central Europe DC,93,90.66,8431.38,SHP10075,UPS Global,2025-07-23,2025-07-24,Delivered
+10076,2025-07-17,Huawei Tech,India,Smart Switch,Home Automation,Quantum Supplies,Asia Hub,81,24.98,2023.38,SHP10076,FedEx Logistics,2025-07-20,2025-07-20,Delivered
+10077,2025-04-15,BYD Auto,USA,Oximeter,Healthcare,Sunrise Electronics,Central Europe DC,141,192.69,27169.29,SHP10077,DHL Express,2025-04-18,2025-04-19,Delivered
+10078,2024-07-21,Cisco Systems,UK,GPS Unit,Automotive,GreenLeaf Components,Central Europe DC,89,156.25,13906.25,SHP10078,FedEx Logistics,2024-07-26,2024-07-26,Delivered
+10079,2024-04-21,Sony Corp,Netherlands,Power Cable,Energy,Sunrise Electronics,West Coast DC,144,90.67,13056.48,SHP10079,DHL Express,2024-04-26,2024-04-27,Delivered
+10080,2025-04-01,NIO Inc,India,ECG Sensor,Healthcare,GreenLeaf Components,West Coast DC,59,311.75,18393.25,SHP10080,Maersk Shipping,2025-04-03,2025-04-05,Delivered
+10081,2025-04-16,NIO Inc,India,Thermostat,Home Automation,Sunrise Electronics,Central Europe DC,134,418.73,56109.82,SHP10081,Maersk Shipping,2025-04-18,2025-04-25,Delayed
+10082,2024-09-15,Toyota Motors,South Korea,Engine Sensor,Automotive,Global Tech Parts,Asia Hub,167,162.56,27147.52,SHP10082,UPS Global,2024-09-18,2024-09-22,Delivered
+10083,2025-06-28,Huawei Tech,India,PCB Board,Electronics,Quantum Supplies,East Coast DC,92,435.1,40029.200000000004,SHP10083,DHL Express,2025-07-01,2025-07-07,Delayed
+10084,2024-12-29,BYD Auto,USA,Smart Thermometer,Healthcare,Nova Industrial,East Coast DC,28,156.69,4387.32,SHP10084,Maersk Shipping,2025-01-01,2025-01-08,Delayed
+10085,2025-07-02,Cisco Systems,UK,Medical Tablet,Healthcare,Quantum Supplies,Middle East Hub,182,236.19,42986.58,SHP10085,FedEx Logistics,2025-07-05,2025-07-12,Delayed
+10086,2025-02-15,Samsung Electronics,China,Engine Sensor,Automotive,Global Tech Parts,Central Europe DC,48,162.56,7802.88,SHP10086,FedEx Logistics,2025-02-20,2025-02-26,Delayed
+10087,2024-03-11,Amazon Robotics,Germany,Smart Switch,Home Automation,Quantum Supplies,Asia Hub,49,24.98,1224.02,SHP10087,FedEx Logistics,2024-03-16,2024-03-21,Delivered
+10088,2024-04-19,Cisco Systems,UK,Medical Tablet,Healthcare,Quantum Supplies,Central Europe DC,184,236.19,43458.96,SHP10088,FedEx Logistics,2024-04-23,2024-04-28,Delivered
+10089,2024-09-14,LG Electronics,Germany,Brake Module,Automotive,Global Tech Parts,Asia Hub,98,224.49,22000.02,SHP10089,FedEx Logistics,2024-09-18,2024-09-19,Delivered
+10090,2025-05-11,Toyota Motors,South Korea,Microcontroller,Electronics,Sunrise Electronics,Central Europe DC,160,90.66,14505.599999999999,SHP10090,DHL Express,2025-05-16,2025-05-20,Delivered
+10091,2025-06-01,Panasonic Corp,Netherlands,Door Sensor,Home Automation,GreenLeaf Components,Middle East Hub,95,485.41,46113.950000000004,SHP10091,FedEx Logistics,2025-06-02,2025-06-09,Delayed
+10092,2024-06-24,Bosch GmbH,UK,Engine Sensor,Automotive,Global Tech Parts,Asia Hub,152,162.56,24709.12,SHP10092,Maersk Shipping,2024-06-29,2024-07-04,Delivered
+10093,2025-05-01,Cisco Systems,UK,Power Cable,Energy,Sunrise Electronics,West Coast DC,84,90.67,7616.28,SHP10093,Maersk Shipping,2025-05-05,2025-05-11,Delayed
+10094,2024-10-16,BYD Auto,USA,Voice Assistant,Home Automation,Nova Industrial,Middle East Hub,187,103.19,19296.53,SHP10094,DHL Express,2024-10-19,2024-10-23,Delivered
+10095,2024-05-11,Ford Motors,South Korea,Smart Thermometer,Healthcare,Nova Industrial,Middle East Hub,147,156.69,23033.43,SHP10095,Maersk Shipping,2024-05-16,2024-05-17,Delivered
+10096,2024-08-02,Amazon Robotics,Germany,Sensor Module,Electronics,Nova Industrial,Central Europe DC,195,43.17,8418.15,SHP10096,DHL Express,2024-08-07,2024-08-11,Delivered
+10097,2025-03-13,Siemens AG,India,Inverter,Energy,Nova Industrial,East Coast DC,74,370.02,27381.48,SHP10097,UPS Global,2025-03-15,2025-03-22,Delayed
+10098,2025-06-10,LG Electronics,Germany,Smart Switch,Home Automation,Quantum Supplies,East Coast DC,91,24.98,2273.18,SHP10098,FedEx Logistics,2025-06-15,2025-06-15,Delivered
+10099,2025-01-31,Cisco Systems,UK,Smart Switch,Home Automation,Quantum Supplies,Asia Hub,16,24.98,399.68,SHP10099,DHL Express,2025-02-05,2025-02-06,Delivered
+10100,2024-10-06,BYD Auto,USA,Voice Assistant,Home Automation,Nova Industrial,Asia Hub,143,103.19,14756.17,SHP10100,Maersk Shipping,2024-10-07,2024-10-08,Delivered
+10101,2024-06-17,NIO Inc,India,Thermostat,Home Automation,Sunrise Electronics,East Coast DC,177,418.73,74115.21,SHP10101,FedEx Logistics,2024-06-22,2024-06-22,Delivered
+10102,2024-10-11,Philips Healthcare,UK,Microcontroller,Electronics,Sunrise Electronics,East Coast DC,137,90.66,12420.42,SHP10102,DHL Express,2024-10-13,2024-10-15,Delivered
+10103,2024-01-16,Tesla Motors,UK,ECG Sensor,Healthcare,GreenLeaf Components,West Coast DC,151,311.75,47074.25,SHP10103,UPS Global,2024-01-21,2024-01-21,Delivered
+10104,2024-07-22,Cisco Systems,UK,Light Controller,Home Automation,BlueWave Materials,Middle East Hub,90,117.98,10618.2,SHP10104,FedEx Logistics,2024-07-26,2024-07-29,Delivered
+10105,2024-11-29,BYD Auto,USA,Power Cable,Energy,Sunrise Electronics,Central Europe DC,77,90.67,6981.59,SHP10105,FedEx Logistics,2024-12-04,2024-12-08,Delivered
+10106,2024-10-05,Samsung Electronics,China,Oximeter,Healthcare,Sunrise Electronics,West Coast DC,150,192.69,28903.5,SHP10106,FedEx Logistics,2024-10-06,2024-10-09,Delivered
+10107,2025-06-05,Huawei Tech,India,Blood Pressure Monitor,Healthcare,GreenLeaf Components,West Coast DC,161,82.65,13306.650000000001,SHP10107,UPS Global,2025-06-09,2025-06-13,Delivered
+10108,2025-04-29,Ford Motors,South Korea,Sensor Module,Electronics,Nova Industrial,Central Europe DC,154,43.17,6648.18,SHP10108,Maersk Shipping,2025-05-03,2025-05-04,Delivered
+10109,2024-08-04,LG Electronics,Germany,Microcontroller,Electronics,Sunrise Electronics,Asia Hub,22,90.66,1994.52,SHP10109,DHL Express,2024-08-08,2024-08-09,Delivered
+10110,2024-06-11,Microsoft Devices,India,Fuel Injector,Automotive,Nova Industrial,West Coast DC,194,269.51,52284.939999999995,SHP10110,Maersk Shipping,2024-06-16,2024-06-22,Delayed
+10111,2024-08-27,Samsung Electronics,China,Oximeter,Healthcare,Sunrise Electronics,Central Europe DC,48,192.69,9249.119999999999,SHP10111,FedEx Logistics,2024-08-29,2024-09-03,Delivered
+10112,2025-07-04,LG Electronics,Germany,Microcontroller,Electronics,Sunrise Electronics,Central Europe DC,188,90.66,17044.079999999998,SHP10112,UPS Global,2025-07-06,2025-07-11,Delivered
+10113,2024-01-03,Apple Inc,UK,Voice Assistant,Home Automation,Nova Industrial,Middle East Hub,149,103.19,15375.31,SHP10113,DHL Express,2024-01-04,2024-01-04,Delivered
+10114,2024-05-21,General Electric,China,Brake Module,Automotive,Global Tech Parts,West Coast DC,65,224.49,14591.85,SHP10114,UPS Global,2024-05-24,2024-05-25,Delivered
+10115,2024-07-09,BYD Auto,USA,Brake Module,Automotive,Global Tech Parts,East Coast DC,161,224.49,36142.89,SHP10115,FedEx Logistics,2024-07-13,2024-07-17,Delivered
+10116,2025-08-20,Medtronic,India,Energy Meter,Energy,GreenLeaf Components,Middle East Hub,190,305.35,58016.50000000001,SHP10116,DHL Express,2025-08-23,2025-08-29,Delayed
+10117,2024-12-10,Siemens AG,India,Oximeter,Healthcare,Sunrise Electronics,Middle East Hub,140,192.69,26976.6,SHP10117,FedEx Logistics,2024-12-11,2024-12-12,Delivered
+10118,2024-08-01,Microsoft Devices,India,Thermostat,Home Automation,Sunrise Electronics,West Coast DC,99,418.73,41454.270000000004,SHP10118,Maersk Shipping,2024-08-05,2024-08-08,Delivered
+10119,2024-03-17,NIO Inc,India,Voice Assistant,Home Automation,Nova Industrial,Asia Hub,39,103.19,4024.41,SHP10119,Maersk Shipping,2024-03-21,2024-03-26,Delivered
+10120,2025-07-12,NIO Inc,India,Medical Tablet,Healthcare,Quantum Supplies,Central Europe DC,154,236.19,36373.26,SHP10120,FedEx Logistics,2025-07-15,2025-07-18,Delivered
+10121,2024-07-31,Cisco Systems,UK,GPS Unit,Automotive,GreenLeaf Components,Central Europe DC,144,156.25,22500.0,SHP10121,UPS Global,2024-08-01,2024-08-04,Delivered
+10122,2024-01-07,Siemens AG,India,Solar Panel,Energy,Quantum Supplies,West Coast DC,123,476.1,58560.3,SHP10122,UPS Global,2024-01-08,2024-01-15,Delayed
+10123,2025-06-06,NIO Inc,India,Brake Module,Automotive,Global Tech Parts,Middle East Hub,130,224.49,29183.7,SHP10123,FedEx Logistics,2025-06-07,2025-06-09,Delivered
+10124,2025-06-20,BYD Auto,USA,Door Sensor,Home Automation,GreenLeaf Components,Asia Hub,41,485.41,19901.81,SHP10124,UPS Global,2025-06-23,2025-06-26,Delivered
+10125,2025-07-02,Sony Corp,Netherlands,Brake Module,Automotive,Global Tech Parts,West Coast DC,49,224.49,11000.01,SHP10125,FedEx Logistics,2025-07-06,2025-07-06,Delivered
+10126,2025-07-30,Apple Inc,UK,Medical Tablet,Healthcare,Quantum Supplies,Middle East Hub,111,236.19,26217.09,SHP10126,Maersk Shipping,2025-07-31,2025-08-02,Delivered
+10127,2025-07-02,Medtronic,India,Energy Meter,Energy,GreenLeaf Components,Middle East Hub,186,305.35,56795.100000000006,SHP10127,Maersk Shipping,2025-07-05,2025-07-08,Delivered
+10128,2024-12-13,Toyota Motors,South Korea,Smart Thermometer,Healthcare,Nova Industrial,Middle East Hub,121,156.69,18959.489999999998,SHP10128,UPS Global,2024-12-15,2024-12-21,Delayed
+10129,2024-09-21,LG Electronics,Germany,Door Sensor,Home Automation,GreenLeaf Components,Asia Hub,25,485.41,12135.25,SHP10129,Maersk Shipping,2024-09-24,2024-09-30,Delayed
+10130,2024-07-06,General Electric,China,EV Charger,Automotive,Sunrise Electronics,Asia Hub,57,103.95,5925.150000000001,SHP10130,UPS Global,2024-07-09,2024-07-13,Delivered
+10131,2024-06-02,Siemens AG,India,WiFi Module,Electronics,BlueWave Materials,Middle East Hub,168,358.42,60214.560000000005,SHP10131,UPS Global,2024-06-05,2024-06-09,Delivered
+10132,2025-02-14,NIO Inc,India,PCB Board,Electronics,Quantum Supplies,Middle East Hub,83,435.1,36113.3,SHP10132,DHL Express,2025-02-18,2025-02-24,Delayed
+10133,2025-08-16,Samsung Electronics,China,Medical Tablet,Healthcare,Quantum Supplies,Central Europe DC,144,236.19,34011.36,SHP10133,Maersk Shipping,2025-08-18,2025-08-23,Delivered
+10134,2024-08-06,LG Electronics,Germany,Voice Assistant,Home Automation,Nova Industrial,East Coast DC,124,103.19,12795.56,SHP10134,UPS Global,2024-08-10,2024-08-16,Delayed
+10135,2024-07-13,Apple Inc,UK,Energy Meter,Energy,GreenLeaf Components,West Coast DC,10,305.35,3053.5,SHP10135,DHL Express,2024-07-16,2024-07-21,Delivered
+10136,2025-04-11,Samsung Electronics,China,Brake Module,Automotive,Global Tech Parts,East Coast DC,106,224.49,23795.940000000002,SHP10136,FedEx Logistics,2025-04-12,2025-04-14,Delivered
+10137,2024-02-06,Cisco Systems,UK,Smart Switch,Home Automation,Quantum Supplies,Central Europe DC,60,24.98,1498.8,SHP10137,UPS Global,2024-02-10,2024-02-15,Delivered
+10138,2024-04-30,Medtronic,India,Medical Tablet,Healthcare,Quantum Supplies,East Coast DC,179,236.19,42278.01,SHP10138,FedEx Logistics,2024-05-01,2024-05-02,Delivered
+10139,2024-08-04,Amazon Robotics,Germany,Voice Assistant,Home Automation,Nova Industrial,Middle East Hub,86,103.19,8874.34,SHP10139,FedEx Logistics,2024-08-05,2024-08-09,Delivered
+10140,2024-08-18,Huawei Tech,India,GPS Unit,Automotive,GreenLeaf Components,Middle East Hub,87,156.25,13593.75,SHP10140,FedEx Logistics,2024-08-21,2024-08-21,Delivered
+10141,2025-03-15,Panasonic Corp,Netherlands,WiFi Module,Electronics,BlueWave Materials,Central Europe DC,65,358.42,23297.3,SHP10141,DHL Express,2025-03-16,2025-03-16,Delivered
+10142,2024-07-09,Intel Corp,Japan,Brake Module,Automotive,Global Tech Parts,West Coast DC,113,224.49,25367.370000000003,SHP10142,Maersk Shipping,2024-07-12,2024-07-15,Delivered
+10143,2025-07-06,Samsung Electronics,China,Microcontroller,Electronics,Sunrise Electronics,East Coast DC,105,90.66,9519.3,SHP10143,UPS Global,2025-07-09,2025-07-10,Delivered
+10144,2024-03-31,Sony Corp,Netherlands,Thermostat,Home Automation,Sunrise Electronics,East Coast DC,136,418.73,56947.28,SHP10144,UPS Global,2024-04-05,2024-04-06,Delivered
+10145,2024-08-06,Medtronic,India,Microcontroller,Electronics,Sunrise Electronics,West Coast DC,99,90.66,8975.34,SHP10145,Maersk Shipping,2024-08-08,2024-08-12,Delivered
+10146,2024-06-30,Samsung Electronics,China,LED Driver,Electronics,Sunrise Electronics,East Coast DC,98,306.54,30040.920000000002,SHP10146,UPS Global,2024-07-03,2024-07-03,Delivered
+10147,2024-12-04,Toyota Motors,South Korea,Inverter,Energy,Nova Industrial,West Coast DC,80,370.02,29601.6,SHP10147,FedEx Logistics,2024-12-09,2024-12-10,Delivered
+10148,2024-05-14,Philips Healthcare,UK,Light Controller,Home Automation,BlueWave Materials,East Coast DC,144,117.98,16989.12,SHP10148,FedEx Logistics,2024-05-15,2024-05-21,Delayed
+10149,2024-01-27,Siemens AG,India,Engine Sensor,Automotive,Global Tech Parts,Middle East Hub,130,162.56,21132.8,SHP10149,FedEx Logistics,2024-01-29,2024-01-29,Delivered
+10150,2025-07-25,Intel Corp,Japan,EV Charger,Automotive,Sunrise Electronics,Middle East Hub,9,103.95,935.5500000000001,SHP10150,UPS Global,2025-07-29,2025-08-01,Delivered
+10151,2024-08-22,Panasonic Corp,Netherlands,Oximeter,Healthcare,Sunrise Electronics,Central Europe DC,88,192.69,16956.72,SHP10151,FedEx Logistics,2024-08-23,2024-08-24,Delivered
+10152,2024-09-23,Amazon Robotics,Germany,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,120,485.41,58249.200000000004,SHP10152,UPS Global,2024-09-24,2024-10-01,Delayed
+10153,2024-11-12,Ford Motors,South Korea,Solar Panel,Energy,Quantum Supplies,Asia Hub,154,476.1,73319.40000000001,SHP10153,DHL Express,2024-11-13,2024-11-14,Delivered
+10154,2025-03-26,Samsung Electronics,China,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,70,306.54,21457.800000000003,SHP10154,Maersk Shipping,2025-03-27,2025-04-01,Delivered
+10155,2024-12-16,Cisco Systems,UK,Sensor Module,Electronics,Nova Industrial,Central Europe DC,106,43.17,4576.02,SHP10155,UPS Global,2024-12-21,2024-12-27,Delayed
+10156,2025-08-06,Bosch GmbH,UK,Voice Assistant,Home Automation,Nova Industrial,Central Europe DC,24,103.19,2476.56,SHP10156,Maersk Shipping,2025-08-09,2025-08-12,Delivered
+10157,2024-02-24,Samsung Electronics,China,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Middle East Hub,16,82.65,1322.4,SHP10157,UPS Global,2024-02-25,2024-03-01,Delivered
+10158,2024-12-15,LG Electronics,Germany,Voice Assistant,Home Automation,Nova Industrial,Middle East Hub,143,103.19,14756.17,SHP10158,Maersk Shipping,2024-12-19,2024-12-24,Delivered
+10159,2024-03-22,Apple Inc,UK,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,29,485.41,14076.890000000001,SHP10159,Maersk Shipping,2024-03-25,2024-03-29,Delivered
+10160,2025-02-21,Cisco Systems,UK,Voice Assistant,Home Automation,Nova Industrial,Asia Hub,100,103.19,10319.0,SHP10160,UPS Global,2025-02-22,2025-02-28,Delayed
+10161,2024-06-28,Sony Corp,Netherlands,Medical Tablet,Healthcare,Quantum Supplies,Central Europe DC,135,236.19,31885.65,SHP10161,Maersk Shipping,2024-07-02,2024-07-02,Delivered
+10162,2024-06-06,Microsoft Devices,India,Voice Assistant,Home Automation,Nova Industrial,East Coast DC,133,103.19,13724.27,SHP10162,Maersk Shipping,2024-06-11,2024-06-17,Delayed
+10163,2025-06-20,Apple Inc,UK,Smart Thermometer,Healthcare,Nova Industrial,East Coast DC,51,156.69,7991.19,SHP10163,UPS Global,2025-06-24,2025-07-01,Delayed
+10164,2024-06-11,Samsung Electronics,China,Solar Panel,Energy,Quantum Supplies,West Coast DC,37,476.1,17615.7,SHP10164,DHL Express,2024-06-15,2024-06-16,Delivered
+10165,2025-06-11,Huawei Tech,India,Oximeter,Healthcare,Sunrise Electronics,Asia Hub,70,192.69,13488.3,SHP10165,UPS Global,2025-06-14,2025-06-14,Delivered
+10166,2024-05-21,Panasonic Corp,Netherlands,LED Driver,Electronics,Sunrise Electronics,Asia Hub,156,306.54,47820.240000000005,SHP10166,DHL Express,2024-05-22,2024-05-28,Delayed
+10167,2024-01-18,Microsoft Devices,India,Energy Meter,Energy,GreenLeaf Components,West Coast DC,88,305.35,26870.800000000003,SHP10167,DHL Express,2024-01-23,2024-01-30,Delayed
+10168,2024-05-16,NIO Inc,India,Lithium Battery,Energy,Quantum Supplies,Middle East Hub,121,196.65,23794.65,SHP10168,Maersk Shipping,2024-05-18,2024-05-21,Delivered
+10169,2025-03-05,LG Electronics,Germany,Light Controller,Home Automation,BlueWave Materials,Central Europe DC,190,117.98,22416.2,SHP10169,FedEx Logistics,2025-03-07,2025-03-09,Delivered
+10170,2024-05-14,Philips Healthcare,UK,Smart Switch,Home Automation,Quantum Supplies,Central Europe DC,143,24.98,3572.14,SHP10170,UPS Global,2024-05-16,2024-05-18,Delivered
+10171,2024-03-19,Medtronic,India,Fuel Injector,Automotive,Nova Industrial,Asia Hub,28,269.51,7546.28,SHP10171,Maersk Shipping,2024-03-22,2024-03-23,Delivered
+10172,2024-01-05,Philips Healthcare,UK,Lithium Battery,Energy,Quantum Supplies,Central Europe DC,27,196.65,5309.55,SHP10172,UPS Global,2024-01-08,2024-01-12,Delivered
+10173,2024-12-21,Philips Healthcare,UK,Oximeter,Healthcare,Sunrise Electronics,Asia Hub,165,192.69,31793.85,SHP10173,DHL Express,2024-12-23,2024-12-24,Delivered
+10174,2025-02-21,LG Electronics,Germany,Light Controller,Home Automation,BlueWave Materials,East Coast DC,41,117.98,4837.18,SHP10174,Maersk Shipping,2025-02-25,2025-03-03,Delayed
+10175,2024-03-12,Ford Motors,South Korea,Engine Sensor,Automotive,Global Tech Parts,East Coast DC,112,162.56,18206.72,SHP10175,FedEx Logistics,2024-03-15,2024-03-21,Delayed
+10176,2024-09-29,Sony Corp,Netherlands,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Asia Hub,95,82.65,7851.750000000001,SHP10176,UPS Global,2024-09-30,2024-10-04,Delivered
+10177,2024-09-29,General Electric,China,Light Controller,Home Automation,BlueWave Materials,Central Europe DC,190,117.98,22416.2,SHP10177,Maersk Shipping,2024-09-30,2024-09-30,Delivered
+10178,2025-07-01,Siemens AG,India,Medical Tablet,Healthcare,Quantum Supplies,Central Europe DC,170,236.19,40152.3,SHP10178,FedEx Logistics,2025-07-06,2025-07-12,Delayed
+10179,2025-05-01,Philips Healthcare,UK,Medical Tablet,Healthcare,Quantum Supplies,Asia Hub,139,236.19,32830.409999999996,SHP10179,DHL Express,2025-05-03,2025-05-06,Delivered
+10180,2025-03-31,Panasonic Corp,Netherlands,Inverter,Energy,Nova Industrial,Middle East Hub,47,370.02,17390.94,SHP10180,UPS Global,2025-04-03,2025-04-06,Delivered
+10181,2024-02-21,Ford Motors,South Korea,Engine Sensor,Automotive,Global Tech Parts,Asia Hub,50,162.56,8128.0,SHP10181,UPS Global,2024-02-23,2024-02-27,Delivered
+10182,2025-08-02,Bosch GmbH,UK,Lithium Battery,Energy,Quantum Supplies,West Coast DC,184,196.65,36183.6,SHP10182,UPS Global,2025-08-05,2025-08-06,Delivered
+10183,2024-09-08,Tesla Motors,UK,Light Controller,Home Automation,BlueWave Materials,Middle East Hub,10,117.98,1179.8,SHP10183,Maersk Shipping,2024-09-13,2024-09-15,Delivered
+10184,2025-08-09,Siemens AG,India,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,143,485.41,69413.63,SHP10184,Maersk Shipping,2025-08-14,2025-08-15,Delivered
+10185,2025-04-14,Apple Inc,UK,Voice Assistant,Home Automation,Nova Industrial,West Coast DC,24,103.19,2476.56,SHP10185,DHL Express,2025-04-17,2025-04-17,Delivered
+10186,2024-02-17,General Electric,China,GPS Unit,Automotive,GreenLeaf Components,East Coast DC,111,156.25,17343.75,SHP10186,FedEx Logistics,2024-02-22,2024-02-27,Delivered
+10187,2024-08-10,LG Electronics,Germany,Light Controller,Home Automation,BlueWave Materials,Middle East Hub,126,117.98,14865.480000000001,SHP10187,DHL Express,2024-08-13,2024-08-20,Delayed
+10188,2024-10-11,Amazon Robotics,Germany,Engine Sensor,Automotive,Global Tech Parts,Middle East Hub,35,162.56,5689.6,SHP10188,DHL Express,2024-10-16,2024-10-19,Delivered
+10189,2024-05-22,Sony Corp,Netherlands,Fuel Injector,Automotive,Nova Industrial,Asia Hub,45,269.51,12127.949999999999,SHP10189,FedEx Logistics,2024-05-26,2024-05-27,Delivered
+10190,2025-04-20,Siemens AG,India,Light Controller,Home Automation,BlueWave Materials,East Coast DC,15,117.98,1769.7,SHP10190,Maersk Shipping,2025-04-23,2025-04-24,Delivered
+10191,2025-04-10,Philips Healthcare,UK,Lithium Battery,Energy,Quantum Supplies,Central Europe DC,33,196.65,6489.45,SHP10191,Maersk Shipping,2025-04-12,2025-04-14,Delivered
+10192,2024-01-14,Philips Healthcare,UK,Light Controller,Home Automation,BlueWave Materials,West Coast DC,39,117.98,4601.22,SHP10192,UPS Global,2024-01-15,2024-01-19,Delivered
+10193,2025-02-25,Medtronic,India,GPS Unit,Automotive,GreenLeaf Components,East Coast DC,125,156.25,19531.25,SHP10193,DHL Express,2025-03-01,2025-03-08,Delayed
+10194,2025-04-28,Samsung Electronics,China,Microcontroller,Electronics,Sunrise Electronics,Central Europe DC,127,90.66,11513.82,SHP10194,Maersk Shipping,2025-04-29,2025-05-04,Delivered
+10195,2025-02-19,Huawei Tech,India,Power Cable,Energy,Sunrise Electronics,Asia Hub,147,90.67,13328.49,SHP10195,DHL Express,2025-02-21,2025-02-25,Delivered
+10196,2024-08-12,Tesla Motors,UK,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Middle East Hub,175,82.65,14463.750000000002,SHP10196,Maersk Shipping,2024-08-13,2024-08-18,Delivered
+10197,2024-12-18,Intel Corp,Japan,Inverter,Energy,Nova Industrial,Asia Hub,7,370.02,2590.14,SHP10197,Maersk Shipping,2024-12-23,2024-12-23,Delivered
+10198,2024-12-01,Siemens AG,India,Sensor Module,Electronics,Nova Industrial,West Coast DC,185,43.17,7986.450000000001,SHP10198,DHL Express,2024-12-05,2024-12-05,Delivered
+10199,2025-07-15,Microsoft Devices,India,Medical Tablet,Healthcare,Quantum Supplies,West Coast DC,131,236.19,30940.89,SHP10199,FedEx Logistics,2025-07-17,2025-07-23,Delayed
+10200,2024-03-04,BYD Auto,USA,Microcontroller,Electronics,Sunrise Electronics,West Coast DC,161,90.66,14596.26,SHP10200,FedEx Logistics,2024-03-05,2024-03-12,Delayed
+10201,2024-02-01,Sony Corp,Netherlands,Power Cable,Energy,Sunrise Electronics,Central Europe DC,186,90.67,16864.62,SHP10201,Maersk Shipping,2024-02-03,2024-02-07,Delivered
+10202,2025-08-07,Ford Motors,South Korea,Smart Switch,Home Automation,Quantum Supplies,Central Europe DC,198,24.98,4946.04,SHP10202,FedEx Logistics,2025-08-12,2025-08-13,Delivered
+10203,2025-04-07,Bosch GmbH,UK,Thermostat,Home Automation,Sunrise Electronics,Middle East Hub,48,418.73,20099.04,SHP10203,FedEx Logistics,2025-04-09,2025-04-14,Delivered
+10204,2024-08-02,NIO Inc,India,Fuel Injector,Automotive,Nova Industrial,Asia Hub,139,269.51,37461.89,SHP10204,FedEx Logistics,2024-08-03,2024-08-08,Delivered
+10205,2024-08-03,Toyota Motors,South Korea,Solar Panel,Energy,Quantum Supplies,Middle East Hub,101,476.1,48086.100000000006,SHP10205,UPS Global,2024-08-07,2024-08-10,Delivered
+10206,2024-02-19,Siemens AG,India,WiFi Module,Electronics,BlueWave Materials,West Coast DC,59,358.42,21146.780000000002,SHP10206,UPS Global,2024-02-23,2024-03-01,Delayed
+10207,2024-01-29,Apple Inc,UK,Blood Pressure Monitor,Healthcare,GreenLeaf Components,East Coast DC,100,82.65,8265.0,SHP10207,Maersk Shipping,2024-02-02,2024-02-06,Delivered
+10208,2025-05-12,General Electric,China,Medical Tablet,Healthcare,Quantum Supplies,Middle East Hub,36,236.19,8502.84,SHP10208,Maersk Shipping,2025-05-16,2025-05-16,Delivered
+10209,2024-05-10,Toyota Motors,South Korea,Brake Module,Automotive,Global Tech Parts,Central Europe DC,127,224.49,28510.23,SHP10209,UPS Global,2024-05-11,2024-05-12,Delivered
+10210,2025-04-25,Bosch GmbH,UK,LED Driver,Electronics,Sunrise Electronics,Central Europe DC,165,306.54,50579.100000000006,SHP10210,DHL Express,2025-04-28,2025-05-03,Delivered
+10211,2025-04-27,Bosch GmbH,UK,Engine Sensor,Automotive,Global Tech Parts,West Coast DC,106,162.56,17231.36,SHP10211,DHL Express,2025-05-02,2025-05-09,Delayed
+10212,2025-07-13,Sony Corp,Netherlands,GPS Unit,Automotive,GreenLeaf Components,Middle East Hub,169,156.25,26406.25,SHP10212,UPS Global,2025-07-15,2025-07-15,Delivered
+10213,2024-10-16,BYD Auto,USA,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Central Europe DC,125,82.65,10331.25,SHP10213,DHL Express,2024-10-17,2024-10-18,Delivered
+10214,2025-02-08,Intel Corp,Japan,Inverter,Energy,Nova Industrial,West Coast DC,133,370.02,49212.659999999996,SHP10214,DHL Express,2025-02-13,2025-02-13,Delivered
+10215,2024-07-27,NIO Inc,India,EV Charger,Automotive,Sunrise Electronics,East Coast DC,173,103.95,17983.350000000002,SHP10215,DHL Express,2024-07-31,2024-08-06,Delayed
+10216,2024-03-17,Intel Corp,Japan,Oximeter,Healthcare,Sunrise Electronics,Asia Hub,193,192.69,37189.17,SHP10216,DHL Express,2024-03-21,2024-03-21,Delivered
+10217,2024-07-27,BYD Auto,USA,Microcontroller,Electronics,Sunrise Electronics,Middle East Hub,181,90.66,16409.46,SHP10217,UPS Global,2024-07-29,2024-08-03,Delivered
+10218,2025-02-01,Intel Corp,Japan,GPS Unit,Automotive,GreenLeaf Components,West Coast DC,31,156.25,4843.75,SHP10218,Maersk Shipping,2025-02-03,2025-02-04,Delivered
+10219,2025-07-10,Apple Inc,UK,ECG Sensor,Healthcare,GreenLeaf Components,Central Europe DC,39,311.75,12158.25,SHP10219,UPS Global,2025-07-11,2025-07-17,Delayed
+10220,2025-03-09,NIO Inc,India,ECG Sensor,Healthcare,GreenLeaf Components,East Coast DC,164,311.75,51127.0,SHP10220,Maersk Shipping,2025-03-12,2025-03-13,Delivered
+10221,2024-12-25,Samsung Electronics,China,Energy Meter,Energy,GreenLeaf Components,Asia Hub,59,305.35,18015.65,SHP10221,Maersk Shipping,2024-12-30,2025-01-02,Delivered
+10222,2024-08-05,Microsoft Devices,India,Smart Switch,Home Automation,Quantum Supplies,West Coast DC,77,24.98,1923.46,SHP10222,FedEx Logistics,2024-08-07,2024-08-13,Delayed
+10223,2024-09-22,Panasonic Corp,Netherlands,Door Sensor,Home Automation,GreenLeaf Components,East Coast DC,5,485.41,2427.05,SHP10223,UPS Global,2024-09-25,2024-10-02,Delayed
+10224,2024-05-01,General Electric,China,Medical Tablet,Healthcare,Quantum Supplies,West Coast DC,24,236.19,5668.5599999999995,SHP10224,DHL Express,2024-05-04,2024-05-05,Delivered
+10225,2024-02-22,Samsung Electronics,China,WiFi Module,Electronics,BlueWave Materials,East Coast DC,157,358.42,56271.94,SHP10225,FedEx Logistics,2024-02-25,2024-02-28,Delivered
+10226,2024-08-06,Huawei Tech,India,GPS Unit,Automotive,GreenLeaf Components,Asia Hub,155,156.25,24218.75,SHP10226,FedEx Logistics,2024-08-07,2024-08-07,Delivered
+10227,2025-06-22,Amazon Robotics,Germany,WiFi Module,Electronics,BlueWave Materials,Asia Hub,147,358.42,52687.740000000005,SHP10227,DHL Express,2025-06-26,2025-07-01,Delivered
+10228,2025-05-31,Huawei Tech,India,WiFi Module,Electronics,BlueWave Materials,Central Europe DC,200,358.42,71684.0,SHP10228,Maersk Shipping,2025-06-03,2025-06-10,Delayed
+10229,2024-10-15,BYD Auto,USA,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Central Europe DC,30,82.65,2479.5,SHP10229,FedEx Logistics,2024-10-19,2024-10-21,Delivered
+10230,2024-11-03,Panasonic Corp,Netherlands,Brake Module,Automotive,Global Tech Parts,East Coast DC,181,224.49,40632.69,SHP10230,DHL Express,2024-11-08,2024-11-09,Delivered
+10231,2024-11-01,NIO Inc,India,GPS Unit,Automotive,GreenLeaf Components,West Coast DC,8,156.25,1250.0,SHP10231,Maersk Shipping,2024-11-04,2024-11-06,Delivered
+10232,2025-01-03,Toyota Motors,South Korea,ECG Sensor,Healthcare,GreenLeaf Components,West Coast DC,171,311.75,53309.25,SHP10232,Maersk Shipping,2025-01-07,2025-01-11,Delivered
+10233,2024-10-17,Tesla Motors,UK,WiFi Module,Electronics,BlueWave Materials,West Coast DC,138,358.42,49461.96,SHP10233,UPS Global,2024-10-19,2024-10-26,Delayed
+10234,2025-05-28,Panasonic Corp,Netherlands,Thermostat,Home Automation,Sunrise Electronics,Asia Hub,58,418.73,24286.34,SHP10234,UPS Global,2025-05-29,2025-06-02,Delivered
+10235,2024-03-09,Tesla Motors,UK,Sensor Module,Electronics,Nova Industrial,West Coast DC,186,43.17,8029.62,SHP10235,FedEx Logistics,2024-03-12,2024-03-15,Delivered
+10236,2024-09-10,Cisco Systems,UK,Power Cable,Energy,Sunrise Electronics,Asia Hub,25,90.67,2266.75,SHP10236,UPS Global,2024-09-14,2024-09-19,Delivered
+10237,2025-06-15,General Electric,China,Light Controller,Home Automation,BlueWave Materials,Asia Hub,39,117.98,4601.22,SHP10237,Maersk Shipping,2025-06-17,2025-06-23,Delayed
+10238,2025-08-23,Tesla Motors,UK,Thermostat,Home Automation,Sunrise Electronics,Middle East Hub,148,418.73,61972.04,SHP10238,Maersk Shipping,2025-08-27,2025-08-27,Delivered
+10239,2024-08-28,Intel Corp,Japan,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Central Europe DC,91,82.65,7521.150000000001,SHP10239,Maersk Shipping,2024-08-31,2024-09-04,Delivered
+10240,2024-05-03,Ford Motors,South Korea,Smart Thermometer,Healthcare,Nova Industrial,West Coast DC,18,156.69,2820.42,SHP10240,Maersk Shipping,2024-05-07,2024-05-12,Delivered
+10241,2024-07-30,Philips Healthcare,UK,Solar Panel,Energy,Quantum Supplies,Asia Hub,72,476.1,34279.200000000004,SHP10241,Maersk Shipping,2024-07-31,2024-08-05,Delivered
+10242,2024-01-30,Panasonic Corp,Netherlands,Thermostat,Home Automation,Sunrise Electronics,Asia Hub,28,418.73,11724.44,SHP10242,DHL Express,2024-02-02,2024-02-05,Delivered
+10243,2025-07-30,Microsoft Devices,India,Lithium Battery,Energy,Quantum Supplies,East Coast DC,85,196.65,16715.25,SHP10243,DHL Express,2025-08-01,2025-08-01,Delivered
+10244,2025-02-19,BYD Auto,USA,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Central Europe DC,49,82.65,4049.8500000000004,SHP10244,Maersk Shipping,2025-02-22,2025-02-23,Delivered
+10245,2025-02-21,Ford Motors,South Korea,LED Driver,Electronics,Sunrise Electronics,Central Europe DC,142,306.54,43528.68,SHP10245,Maersk Shipping,2025-02-23,2025-02-23,Delivered
+10246,2024-05-24,BYD Auto,USA,PCB Board,Electronics,Quantum Supplies,Middle East Hub,153,435.1,66570.3,SHP10246,Maersk Shipping,2024-05-29,2024-06-02,Delivered
+10247,2025-06-28,BYD Auto,USA,Sensor Module,Electronics,Nova Industrial,Asia Hub,183,43.17,7900.110000000001,SHP10247,Maersk Shipping,2025-07-02,2025-07-02,Delivered
+10248,2025-01-24,Ford Motors,South Korea,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,170,485.41,82519.7,SHP10248,UPS Global,2025-01-28,2025-01-28,Delivered
+10249,2025-01-06,Samsung Electronics,China,Solar Panel,Energy,Quantum Supplies,East Coast DC,174,476.1,82841.40000000001,SHP10249,DHL Express,2025-01-09,2025-01-12,Delivered
+10250,2024-04-09,BYD Auto,USA,Oximeter,Healthcare,Sunrise Electronics,Asia Hub,88,192.69,16956.72,SHP10250,DHL Express,2024-04-14,2024-04-16,Delivered
+10251,2024-05-21,LG Electronics,Germany,Inverter,Energy,Nova Industrial,Asia Hub,26,370.02,9620.52,SHP10251,UPS Global,2024-05-22,2024-05-25,Delivered
+10252,2025-05-07,Cisco Systems,UK,Solar Panel,Energy,Quantum Supplies,Asia Hub,50,476.1,23805.0,SHP10252,Maersk Shipping,2025-05-11,2025-05-11,Delivered
+10253,2024-08-28,Sony Corp,Netherlands,Inverter,Energy,Nova Industrial,Asia Hub,16,370.02,5920.32,SHP10253,DHL Express,2024-09-01,2024-09-05,Delivered
+10254,2024-06-27,Siemens AG,India,WiFi Module,Electronics,BlueWave Materials,Asia Hub,188,358.42,67382.96,SHP10254,FedEx Logistics,2024-07-02,2024-07-08,Delayed
+10255,2025-04-14,Intel Corp,Japan,Voice Assistant,Home Automation,Nova Industrial,West Coast DC,33,103.19,3405.27,SHP10255,Maersk Shipping,2025-04-17,2025-04-18,Delivered
+10256,2024-02-22,Panasonic Corp,Netherlands,Sensor Module,Electronics,Nova Industrial,Middle East Hub,29,43.17,1251.93,SHP10256,UPS Global,2024-02-26,2024-02-29,Delivered
+10257,2024-08-21,Apple Inc,UK,Light Controller,Home Automation,BlueWave Materials,Middle East Hub,83,117.98,9792.34,SHP10257,FedEx Logistics,2024-08-25,2024-08-26,Delivered
+10258,2024-07-14,Intel Corp,Japan,Fuel Injector,Automotive,Nova Industrial,Central Europe DC,139,269.51,37461.89,SHP10258,FedEx Logistics,2024-07-18,2024-07-18,Delivered
+10259,2025-03-05,Intel Corp,Japan,Smart Switch,Home Automation,Quantum Supplies,Middle East Hub,172,24.98,4296.56,SHP10259,FedEx Logistics,2025-03-06,2025-03-13,Delayed
+10260,2024-10-13,Tesla Motors,UK,Smart Thermometer,Healthcare,Nova Industrial,Middle East Hub,177,156.69,27734.13,SHP10260,UPS Global,2024-10-18,2024-10-18,Delivered
+10261,2024-12-24,Toyota Motors,South Korea,Light Controller,Home Automation,BlueWave Materials,Asia Hub,30,117.98,3539.4,SHP10261,DHL Express,2024-12-25,2024-12-26,Delivered
+10262,2025-02-22,Intel Corp,Japan,Brake Module,Automotive,Global Tech Parts,Central Europe DC,38,224.49,8530.62,SHP10262,FedEx Logistics,2025-02-23,2025-02-23,Delivered
+10263,2024-11-19,Siemens AG,India,PCB Board,Electronics,Quantum Supplies,Asia Hub,39,435.1,16968.9,SHP10263,FedEx Logistics,2024-11-20,2024-11-20,Delivered
+10264,2024-05-24,Medtronic,India,Voice Assistant,Home Automation,Nova Industrial,Middle East Hub,43,103.19,4437.17,SHP10264,Maersk Shipping,2024-05-26,2024-05-28,Delivered
+10265,2025-04-27,Huawei Tech,India,Voice Assistant,Home Automation,Nova Industrial,East Coast DC,106,103.19,10938.14,SHP10265,FedEx Logistics,2025-04-28,2025-05-04,Delayed
+10266,2024-12-15,Apple Inc,UK,Microcontroller,Electronics,Sunrise Electronics,East Coast DC,57,90.66,5167.62,SHP10266,DHL Express,2024-12-18,2024-12-18,Delivered
+10267,2025-08-25,Intel Corp,Japan,Power Cable,Energy,Sunrise Electronics,Asia Hub,60,90.67,5440.2,SHP10267,UPS Global,2025-08-30,2025-09-03,Delivered
+10268,2024-05-28,Amazon Robotics,Germany,Thermostat,Home Automation,Sunrise Electronics,Central Europe DC,126,418.73,52759.98,SHP10268,Maersk Shipping,2024-05-30,2024-06-04,Delivered
+10269,2024-08-09,Panasonic Corp,Netherlands,Inverter,Energy,Nova Industrial,Asia Hub,18,370.02,6660.36,SHP10269,DHL Express,2024-08-10,2024-08-11,Delivered
+10270,2024-08-07,Ford Motors,South Korea,Inverter,Energy,Nova Industrial,West Coast DC,130,370.02,48102.6,SHP10270,FedEx Logistics,2024-08-08,2024-08-09,Delivered
+10271,2024-02-18,Philips Healthcare,UK,Fuel Injector,Automotive,Nova Industrial,Central Europe DC,132,269.51,35575.32,SHP10271,Maersk Shipping,2024-02-20,2024-02-24,Delivered
+10272,2024-06-06,Apple Inc,UK,Voice Assistant,Home Automation,Nova Industrial,Central Europe DC,71,103.19,7326.49,SHP10272,FedEx Logistics,2024-06-09,2024-06-14,Delivered
+10273,2025-03-15,BYD Auto,USA,Voice Assistant,Home Automation,Nova Industrial,Asia Hub,142,103.19,14652.98,SHP10273,UPS Global,2025-03-20,2025-03-22,Delivered
+10274,2024-04-27,Tesla Motors,UK,Sensor Module,Electronics,Nova Industrial,East Coast DC,104,43.17,4489.68,SHP10274,FedEx Logistics,2024-05-02,2024-05-02,Delivered
+10275,2025-02-04,Sony Corp,Netherlands,Medical Tablet,Healthcare,Quantum Supplies,Asia Hub,52,236.19,12281.88,SHP10275,UPS Global,2025-02-08,2025-02-13,Delivered
+10276,2024-06-27,Cisco Systems,UK,Thermostat,Home Automation,Sunrise Electronics,Central Europe DC,63,418.73,26379.99,SHP10276,Maersk Shipping,2024-07-01,2024-07-03,Delivered
+10277,2025-04-23,LG Electronics,Germany,GPS Unit,Automotive,GreenLeaf Components,West Coast DC,161,156.25,25156.25,SHP10277,DHL Express,2025-04-27,2025-04-28,Delivered
+10278,2024-11-10,Amazon Robotics,Germany,Energy Meter,Energy,GreenLeaf Components,West Coast DC,199,305.35,60764.65,SHP10278,Maersk Shipping,2024-11-12,2024-11-15,Delivered
+10279,2024-12-15,Amazon Robotics,Germany,Smart Thermometer,Healthcare,Nova Industrial,Asia Hub,194,156.69,30397.86,SHP10279,Maersk Shipping,2024-12-18,2024-12-18,Delivered
+10280,2025-02-06,Tesla Motors,UK,Power Cable,Energy,Sunrise Electronics,West Coast DC,112,90.67,10155.04,SHP10280,DHL Express,2025-02-09,2025-02-14,Delivered
+10281,2025-04-08,LG Electronics,Germany,Smart Switch,Home Automation,Quantum Supplies,Asia Hub,117,24.98,2922.66,SHP10281,Maersk Shipping,2025-04-10,2025-04-16,Delayed
+10282,2024-06-30,Philips Healthcare,UK,EV Charger,Automotive,Sunrise Electronics,Asia Hub,25,103.95,2598.75,SHP10282,DHL Express,2024-07-05,2024-07-06,Delivered
+10283,2025-07-19,Panasonic Corp,Netherlands,PCB Board,Electronics,Quantum Supplies,Middle East Hub,149,435.1,64829.9,SHP10283,FedEx Logistics,2025-07-20,2025-07-27,Delayed
+10284,2025-03-20,Samsung Electronics,China,Door Sensor,Home Automation,GreenLeaf Components,Middle East Hub,30,485.41,14562.300000000001,SHP10284,DHL Express,2025-03-22,2025-03-23,Delivered
+10285,2024-12-19,Microsoft Devices,India,Smart Switch,Home Automation,Quantum Supplies,West Coast DC,142,24.98,3547.16,SHP10285,UPS Global,2024-12-20,2024-12-21,Delivered
+10286,2024-01-31,Tesla Motors,UK,Thermostat,Home Automation,Sunrise Electronics,West Coast DC,158,418.73,66159.34,SHP10286,DHL Express,2024-02-02,2024-02-03,Delivered
+10287,2025-02-21,Samsung Electronics,China,Voice Assistant,Home Automation,Nova Industrial,West Coast DC,157,103.19,16200.83,SHP10287,Maersk Shipping,2025-02-26,2025-02-27,Delivered
+10288,2024-09-15,Siemens AG,India,Lithium Battery,Energy,Quantum Supplies,East Coast DC,42,196.65,8259.300000000001,SHP10288,Maersk Shipping,2024-09-18,2024-09-19,Delivered
+10289,2024-12-01,Huawei Tech,India,Power Cable,Energy,Sunrise Electronics,East Coast DC,45,90.67,4080.15,SHP10289,Maersk Shipping,2024-12-06,2024-12-11,Delivered
+10290,2024-03-02,Siemens AG,India,Brake Module,Automotive,Global Tech Parts,Asia Hub,44,224.49,9877.560000000001,SHP10290,UPS Global,2024-03-05,2024-03-05,Delivered
+10291,2024-05-28,Medtronic,India,WiFi Module,Electronics,BlueWave Materials,West Coast DC,40,358.42,14336.800000000001,SHP10291,UPS Global,2024-05-30,2024-06-01,Delivered
+10292,2024-03-18,Panasonic Corp,Netherlands,Solar Panel,Energy,Quantum Supplies,Middle East Hub,69,476.1,32850.9,SHP10292,UPS Global,2024-03-23,2024-03-25,Delivered
+10293,2024-05-28,General Electric,China,Oximeter,Healthcare,Sunrise Electronics,Middle East Hub,125,192.69,24086.25,SHP10293,Maersk Shipping,2024-06-01,2024-06-01,Delivered
+10294,2025-07-04,Amazon Robotics,Germany,Smart Switch,Home Automation,Quantum Supplies,Middle East Hub,178,24.98,4446.4400000000005,SHP10294,UPS Global,2025-07-09,2025-07-16,Delayed
+10295,2024-05-26,Intel Corp,Japan,Oximeter,Healthcare,Sunrise Electronics,West Coast DC,159,192.69,30637.71,SHP10295,FedEx Logistics,2024-05-29,2024-05-30,Delivered
+10296,2025-02-08,Sony Corp,Netherlands,Inverter,Energy,Nova Industrial,Central Europe DC,147,370.02,54392.939999999995,SHP10296,FedEx Logistics,2025-02-13,2025-02-13,Delivered
+10297,2025-04-28,BYD Auto,USA,Medical Tablet,Healthcare,Quantum Supplies,Middle East Hub,134,236.19,31649.46,SHP10297,FedEx Logistics,2025-04-29,2025-05-06,Delayed
+10298,2024-05-24,Cisco Systems,UK,Brake Module,Automotive,Global Tech Parts,West Coast DC,140,224.49,31428.600000000002,SHP10298,FedEx Logistics,2024-05-25,2024-05-26,Delivered
+10299,2025-03-27,Ford Motors,South Korea,ECG Sensor,Healthcare,GreenLeaf Components,West Coast DC,124,311.75,38657.0,SHP10299,UPS Global,2025-03-30,2025-04-04,Delivered
+10300,2024-10-11,LG Electronics,Germany,Light Controller,Home Automation,BlueWave Materials,Middle East Hub,172,117.98,20292.56,SHP10300,DHL Express,2024-10-15,2024-10-20,Delivered
+10301,2025-06-16,General Electric,China,Power Cable,Energy,Sunrise Electronics,Middle East Hub,54,90.67,4896.18,SHP10301,UPS Global,2025-06-18,2025-06-19,Delivered
+10302,2025-01-12,BYD Auto,USA,LED Driver,Electronics,Sunrise Electronics,West Coast DC,90,306.54,27588.600000000002,SHP10302,Maersk Shipping,2025-01-15,2025-01-20,Delivered
+10303,2024-03-15,NIO Inc,India,Fuel Injector,Automotive,Nova Industrial,West Coast DC,40,269.51,10780.4,SHP10303,DHL Express,2024-03-18,2024-03-25,Delayed
+10304,2024-08-08,Tesla Motors,UK,Thermostat,Home Automation,Sunrise Electronics,West Coast DC,182,418.73,76208.86,SHP10304,Maersk Shipping,2024-08-09,2024-08-16,Delayed
+10305,2024-06-15,Sony Corp,Netherlands,Power Cable,Energy,Sunrise Electronics,Asia Hub,109,90.67,9883.03,SHP10305,DHL Express,2024-06-19,2024-06-24,Delivered
+10306,2025-05-09,Intel Corp,Japan,Brake Module,Automotive,Global Tech Parts,Central Europe DC,159,224.49,35693.91,SHP10306,Maersk Shipping,2025-05-12,2025-05-15,Delivered
+10307,2024-09-14,Samsung Electronics,China,Energy Meter,Energy,GreenLeaf Components,Central Europe DC,16,305.35,4885.6,SHP10307,UPS Global,2024-09-17,2024-09-21,Delivered
+10308,2024-02-21,Samsung Electronics,China,Engine Sensor,Automotive,Global Tech Parts,West Coast DC,100,162.56,16256.0,SHP10308,Maersk Shipping,2024-02-25,2024-02-29,Delivered
+10309,2025-03-11,Tesla Motors,UK,Inverter,Energy,Nova Industrial,Asia Hub,160,370.02,59203.2,SHP10309,Maersk Shipping,2025-03-13,2025-03-18,Delivered
+10310,2024-04-10,NIO Inc,India,Thermostat,Home Automation,Sunrise Electronics,Middle East Hub,120,418.73,50247.600000000006,SHP10310,FedEx Logistics,2024-04-13,2024-04-17,Delivered
+10311,2024-07-30,Amazon Robotics,Germany,Thermostat,Home Automation,Sunrise Electronics,Middle East Hub,109,418.73,45641.57,SHP10311,Maersk Shipping,2024-08-01,2024-08-07,Delayed
+10312,2025-08-21,Huawei Tech,India,Microcontroller,Electronics,Sunrise Electronics,Central Europe DC,112,90.66,10153.92,SHP10312,Maersk Shipping,2025-08-26,2025-08-27,Delivered
+10313,2024-04-12,NIO Inc,India,Oximeter,Healthcare,Sunrise Electronics,East Coast DC,23,192.69,4431.87,SHP10313,FedEx Logistics,2024-04-13,2024-04-14,Delivered
+10314,2024-09-03,Siemens AG,India,LED Driver,Electronics,Sunrise Electronics,Central Europe DC,72,306.54,22070.88,SHP10314,FedEx Logistics,2024-09-08,2024-09-09,Delivered
+10315,2024-01-17,Ford Motors,South Korea,Light Controller,Home Automation,BlueWave Materials,Asia Hub,137,117.98,16163.26,SHP10315,FedEx Logistics,2024-01-18,2024-01-25,Delayed
+10316,2025-04-15,NIO Inc,India,ECG Sensor,Healthcare,GreenLeaf Components,Central Europe DC,153,311.75,47697.75,SHP10316,DHL Express,2025-04-16,2025-04-16,Delivered
+10317,2024-09-24,Toyota Motors,South Korea,Power Cable,Energy,Sunrise Electronics,Central Europe DC,62,90.67,5621.54,SHP10317,FedEx Logistics,2024-09-27,2024-09-30,Delivered
+10318,2025-02-28,Medtronic,India,Light Controller,Home Automation,BlueWave Materials,East Coast DC,74,117.98,8730.52,SHP10318,Maersk Shipping,2025-03-05,2025-03-09,Delivered
+10319,2025-02-11,Panasonic Corp,Netherlands,Solar Panel,Energy,Quantum Supplies,Central Europe DC,149,476.1,70938.90000000001,SHP10319,DHL Express,2025-02-12,2025-02-16,Delivered
+10320,2025-04-25,LG Electronics,Germany,ECG Sensor,Healthcare,GreenLeaf Components,East Coast DC,160,311.75,49880.0,SHP10320,FedEx Logistics,2025-04-29,2025-05-04,Delivered
+10321,2025-06-26,Microsoft Devices,India,Door Sensor,Home Automation,GreenLeaf Components,East Coast DC,163,485.41,79121.83,SHP10321,UPS Global,2025-06-29,2025-07-06,Delayed
+10322,2024-08-16,Medtronic,India,Light Controller,Home Automation,BlueWave Materials,Asia Hub,47,117.98,5545.06,SHP10322,DHL Express,2024-08-21,2024-08-26,Delivered
+10323,2024-12-11,Amazon Robotics,Germany,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,196,306.54,60081.840000000004,SHP10323,Maersk Shipping,2024-12-14,2024-12-21,Delayed
+10324,2025-05-13,Siemens AG,India,Solar Panel,Energy,Quantum Supplies,East Coast DC,26,476.1,12378.6,SHP10324,UPS Global,2025-05-17,2025-05-20,Delivered
+10325,2025-05-09,Philips Healthcare,UK,Voice Assistant,Home Automation,Nova Industrial,Asia Hub,191,103.19,19709.29,SHP10325,DHL Express,2025-05-10,2025-05-16,Delayed
+10326,2025-02-05,NIO Inc,India,Solar Panel,Energy,Quantum Supplies,West Coast DC,39,476.1,18567.9,SHP10326,Maersk Shipping,2025-02-09,2025-02-13,Delivered
+10327,2024-09-17,General Electric,China,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,159,485.41,77180.19,SHP10327,UPS Global,2024-09-21,2024-09-25,Delivered
+10328,2024-05-28,NIO Inc,India,Smart Switch,Home Automation,Quantum Supplies,Middle East Hub,72,24.98,1798.56,SHP10328,Maersk Shipping,2024-06-02,2024-06-03,Delivered
+10329,2025-08-17,General Electric,China,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,114,485.41,55336.740000000005,SHP10329,UPS Global,2025-08-19,2025-08-26,Delayed
+10330,2025-03-08,Microsoft Devices,India,Medical Tablet,Healthcare,Quantum Supplies,Asia Hub,75,236.19,17714.25,SHP10330,UPS Global,2025-03-11,2025-03-12,Delivered
+10331,2025-07-08,Ford Motors,South Korea,ECG Sensor,Healthcare,GreenLeaf Components,West Coast DC,191,311.75,59544.25,SHP10331,DHL Express,2025-07-13,2025-07-14,Delivered
+10332,2025-04-09,Apple Inc,UK,Engine Sensor,Automotive,Global Tech Parts,Asia Hub,55,162.56,8940.8,SHP10332,DHL Express,2025-04-10,2025-04-10,Delivered
+10333,2024-12-14,Medtronic,India,WiFi Module,Electronics,BlueWave Materials,East Coast DC,151,358.42,54121.420000000006,SHP10333,FedEx Logistics,2024-12-17,2024-12-18,Delivered
+10334,2024-05-09,Huawei Tech,India,Engine Sensor,Automotive,Global Tech Parts,Central Europe DC,186,162.56,30236.16,SHP10334,Maersk Shipping,2024-05-11,2024-05-12,Delivered
+10335,2024-04-23,BYD Auto,USA,Inverter,Energy,Nova Industrial,Asia Hub,48,370.02,17760.96,SHP10335,DHL Express,2024-04-28,2024-05-01,Delivered
+10336,2024-12-30,BYD Auto,USA,Thermostat,Home Automation,Sunrise Electronics,East Coast DC,68,418.73,28473.64,SHP10336,FedEx Logistics,2024-12-31,2025-01-02,Delivered
+10337,2025-06-12,Toyota Motors,South Korea,Fuel Injector,Automotive,Nova Industrial,Central Europe DC,163,269.51,43930.13,SHP10337,UPS Global,2025-06-16,2025-06-21,Delivered
+10338,2024-08-10,Bosch GmbH,UK,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Asia Hub,146,82.65,12066.900000000001,SHP10338,UPS Global,2024-08-14,2024-08-14,Delivered
+10339,2024-03-25,Medtronic,India,Light Controller,Home Automation,BlueWave Materials,Central Europe DC,12,117.98,1415.76,SHP10339,DHL Express,2024-03-30,2024-04-02,Delivered
+10340,2025-04-04,General Electric,China,WiFi Module,Electronics,BlueWave Materials,Middle East Hub,22,358.42,7885.240000000001,SHP10340,UPS Global,2025-04-07,2025-04-11,Delivered
+10341,2025-03-18,Tesla Motors,UK,WiFi Module,Electronics,BlueWave Materials,West Coast DC,133,358.42,47669.86,SHP10341,Maersk Shipping,2025-03-22,2025-03-24,Delivered
+10342,2025-08-19,Sony Corp,Netherlands,Smart Thermometer,Healthcare,Nova Industrial,West Coast DC,166,156.69,26010.54,SHP10342,Maersk Shipping,2025-08-23,2025-08-28,Delivered
+10343,2025-02-19,NIO Inc,India,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,164,306.54,50272.560000000005,SHP10343,UPS Global,2025-02-23,2025-02-23,Delivered
+10344,2024-11-10,Medtronic,India,Sensor Module,Electronics,Nova Industrial,Asia Hub,119,43.17,5137.2300000000005,SHP10344,UPS Global,2024-11-15,2024-11-15,Delivered
+10345,2024-05-20,Tesla Motors,UK,Light Controller,Home Automation,BlueWave Materials,Asia Hub,75,117.98,8848.5,SHP10345,FedEx Logistics,2024-05-25,2024-05-30,Delivered
+10346,2024-08-10,Tesla Motors,UK,Lithium Battery,Energy,Quantum Supplies,Middle East Hub,72,196.65,14158.800000000001,SHP10346,UPS Global,2024-08-13,2024-08-17,Delivered
+10347,2024-02-10,Toyota Motors,South Korea,Power Cable,Energy,Sunrise Electronics,West Coast DC,18,90.67,1632.06,SHP10347,Maersk Shipping,2024-02-13,2024-02-16,Delivered
+10348,2024-08-29,BYD Auto,USA,WiFi Module,Electronics,BlueWave Materials,West Coast DC,180,358.42,64515.600000000006,SHP10348,UPS Global,2024-09-01,2024-09-03,Delivered
+10349,2024-07-30,Panasonic Corp,Netherlands,Engine Sensor,Automotive,Global Tech Parts,West Coast DC,86,162.56,13980.16,SHP10349,Maersk Shipping,2024-08-04,2024-08-09,Delivered
+10350,2025-02-02,Bosch GmbH,UK,Brake Module,Automotive,Global Tech Parts,Middle East Hub,77,224.49,17285.73,SHP10350,Maersk Shipping,2025-02-07,2025-02-09,Delivered
+10351,2024-05-05,BYD Auto,USA,Voice Assistant,Home Automation,Nova Industrial,East Coast DC,91,103.19,9390.289999999999,SHP10351,UPS Global,2024-05-08,2024-05-12,Delivered
+10352,2025-01-07,Tesla Motors,UK,Microcontroller,Electronics,Sunrise Electronics,West Coast DC,113,90.66,10244.58,SHP10352,FedEx Logistics,2025-01-09,2025-01-13,Delivered
+10353,2024-03-28,Microsoft Devices,India,Microcontroller,Electronics,Sunrise Electronics,Central Europe DC,123,90.66,11151.18,SHP10353,FedEx Logistics,2024-04-02,2024-04-07,Delivered
+10354,2024-07-19,Amazon Robotics,Germany,Thermostat,Home Automation,Sunrise Electronics,East Coast DC,8,418.73,3349.84,SHP10354,FedEx Logistics,2024-07-22,2024-07-26,Delivered
+10355,2024-09-07,Huawei Tech,India,Light Controller,Home Automation,BlueWave Materials,Asia Hub,174,117.98,20528.52,SHP10355,Maersk Shipping,2024-09-09,2024-09-13,Delivered
+10356,2025-07-07,LG Electronics,Germany,Sensor Module,Electronics,Nova Industrial,East Coast DC,11,43.17,474.87,SHP10356,UPS Global,2025-07-12,2025-07-13,Delivered
+10357,2025-03-07,Tesla Motors,UK,LED Driver,Electronics,Sunrise Electronics,West Coast DC,101,306.54,30960.54,SHP10357,Maersk Shipping,2025-03-09,2025-03-11,Delivered
+10358,2024-06-07,Ford Motors,South Korea,Blood Pressure Monitor,Healthcare,GreenLeaf Components,West Coast DC,143,82.65,11818.95,SHP10358,Maersk Shipping,2024-06-08,2024-06-12,Delivered
+10359,2024-09-27,Philips Healthcare,UK,Medical Tablet,Healthcare,Quantum Supplies,Central Europe DC,105,236.19,24799.95,SHP10359,DHL Express,2024-10-02,2024-10-08,Delayed
+10360,2024-01-27,Ford Motors,South Korea,Power Cable,Energy,Sunrise Electronics,Central Europe DC,142,90.67,12875.14,SHP10360,UPS Global,2024-01-28,2024-01-31,Delivered
+10361,2025-05-21,Microsoft Devices,India,Lithium Battery,Energy,Quantum Supplies,Middle East Hub,179,196.65,35200.35,SHP10361,FedEx Logistics,2025-05-22,2025-05-27,Delivered
+10362,2024-10-14,Tesla Motors,UK,Lithium Battery,Energy,Quantum Supplies,West Coast DC,123,196.65,24187.95,SHP10362,DHL Express,2024-10-17,2024-10-21,Delivered
+10363,2024-04-26,Siemens AG,India,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,96,306.54,29427.840000000004,SHP10363,DHL Express,2024-04-27,2024-05-01,Delivered
+10364,2024-06-08,Tesla Motors,UK,Thermostat,Home Automation,Sunrise Electronics,East Coast DC,126,418.73,52759.98,SHP10364,UPS Global,2024-06-11,2024-06-16,Delivered
+10365,2024-04-01,Siemens AG,India,Lithium Battery,Energy,Quantum Supplies,West Coast DC,81,196.65,15928.65,SHP10365,DHL Express,2024-04-03,2024-04-10,Delayed
+10366,2025-02-01,Cisco Systems,UK,Door Sensor,Home Automation,GreenLeaf Components,Middle East Hub,23,485.41,11164.43,SHP10366,FedEx Logistics,2025-02-06,2025-02-08,Delivered
+10367,2024-04-01,Samsung Electronics,China,Light Controller,Home Automation,BlueWave Materials,Central Europe DC,77,117.98,9084.460000000001,SHP10367,DHL Express,2024-04-03,2024-04-04,Delivered
+10368,2025-03-21,Philips Healthcare,UK,Sensor Module,Electronics,Nova Industrial,East Coast DC,187,43.17,8072.79,SHP10368,DHL Express,2025-03-23,2025-03-30,Delayed
+10369,2024-01-08,Cisco Systems,UK,Smart Switch,Home Automation,Quantum Supplies,Middle East Hub,54,24.98,1348.92,SHP10369,UPS Global,2024-01-13,2024-01-15,Delivered
+10370,2024-11-27,Huawei Tech,India,GPS Unit,Automotive,GreenLeaf Components,Asia Hub,130,156.25,20312.5,SHP10370,UPS Global,2024-12-02,2024-12-09,Delayed
+10371,2025-03-10,NIO Inc,India,Thermostat,Home Automation,Sunrise Electronics,Central Europe DC,9,418.73,3768.57,SHP10371,DHL Express,2025-03-12,2025-03-17,Delivered
+10372,2024-09-24,Medtronic,India,Fuel Injector,Automotive,Nova Industrial,West Coast DC,69,269.51,18596.19,SHP10372,UPS Global,2024-09-28,2024-09-30,Delivered
+10373,2024-12-14,Panasonic Corp,Netherlands,Engine Sensor,Automotive,Global Tech Parts,Middle East Hub,34,162.56,5527.04,SHP10373,UPS Global,2024-12-15,2024-12-19,Delivered
+10374,2025-07-31,BYD Auto,USA,ECG Sensor,Healthcare,GreenLeaf Components,Central Europe DC,182,311.75,56738.5,SHP10374,FedEx Logistics,2025-08-03,2025-08-03,Delivered
+10375,2024-11-12,General Electric,China,Brake Module,Automotive,Global Tech Parts,Asia Hub,74,224.49,16612.260000000002,SHP10375,Maersk Shipping,2024-11-17,2024-11-17,Delivered
+10376,2024-08-05,Toyota Motors,South Korea,Door Sensor,Home Automation,GreenLeaf Components,East Coast DC,78,485.41,37861.98,SHP10376,DHL Express,2024-08-06,2024-08-13,Delayed
+10377,2025-02-28,Toyota Motors,South Korea,Blood Pressure Monitor,Healthcare,GreenLeaf Components,West Coast DC,198,82.65,16364.7,SHP10377,FedEx Logistics,2025-03-05,2025-03-11,Delayed
+10378,2024-11-23,Samsung Electronics,China,ECG Sensor,Healthcare,GreenLeaf Components,West Coast DC,85,311.75,26498.75,SHP10378,DHL Express,2024-11-26,2024-11-30,Delivered
+10379,2024-10-22,Philips Healthcare,UK,Solar Panel,Energy,Quantum Supplies,Asia Hub,127,476.1,60464.700000000004,SHP10379,FedEx Logistics,2024-10-25,2024-10-30,Delivered
+10380,2024-04-16,Samsung Electronics,China,Light Controller,Home Automation,BlueWave Materials,Asia Hub,57,117.98,6724.860000000001,SHP10380,FedEx Logistics,2024-04-21,2024-04-23,Delivered
+10381,2024-03-06,Sony Corp,Netherlands,Smart Switch,Home Automation,Quantum Supplies,West Coast DC,7,24.98,174.86,SHP10381,DHL Express,2024-03-11,2024-03-11,Delivered
+10382,2024-11-28,Medtronic,India,Brake Module,Automotive,Global Tech Parts,Central Europe DC,44,224.49,9877.560000000001,SHP10382,Maersk Shipping,2024-12-02,2024-12-08,Delayed
+10383,2025-08-22,Intel Corp,Japan,Medical Tablet,Healthcare,Quantum Supplies,Middle East Hub,67,236.19,15824.73,SHP10383,Maersk Shipping,2025-08-27,2025-08-28,Delivered
+10384,2025-06-06,Huawei Tech,India,Smart Switch,Home Automation,Quantum Supplies,East Coast DC,84,24.98,2098.32,SHP10384,DHL Express,2025-06-11,2025-06-11,Delivered
+10385,2024-06-17,Microsoft Devices,India,Inverter,Energy,Nova Industrial,Asia Hub,156,370.02,57723.119999999995,SHP10385,DHL Express,2024-06-20,2024-06-22,Delivered
+10386,2025-03-26,Microsoft Devices,India,Fuel Injector,Automotive,Nova Industrial,Middle East Hub,15,269.51,4042.6499999999996,SHP10386,DHL Express,2025-03-27,2025-04-03,Delayed
+10387,2025-02-27,Huawei Tech,India,Blood Pressure Monitor,Healthcare,GreenLeaf Components,West Coast DC,49,82.65,4049.8500000000004,SHP10387,Maersk Shipping,2025-03-02,2025-03-02,Delivered
+10388,2025-01-29,Medtronic,India,Microcontroller,Electronics,Sunrise Electronics,West Coast DC,102,90.66,9247.32,SHP10388,DHL Express,2025-02-01,2025-02-08,Delayed
+10389,2024-08-11,Tesla Motors,UK,Smart Thermometer,Healthcare,Nova Industrial,Asia Hub,160,156.69,25070.4,SHP10389,UPS Global,2024-08-12,2024-08-19,Delayed
+10390,2024-11-18,Medtronic,India,LED Driver,Electronics,Sunrise Electronics,Central Europe DC,119,306.54,36478.26,SHP10390,FedEx Logistics,2024-11-19,2024-11-21,Delivered
+10391,2024-03-15,NIO Inc,India,Door Sensor,Home Automation,GreenLeaf Components,East Coast DC,31,485.41,15047.710000000001,SHP10391,Maersk Shipping,2024-03-19,2024-03-23,Delivered
+10392,2025-01-23,BYD Auto,USA,Brake Module,Automotive,Global Tech Parts,Middle East Hub,11,224.49,2469.3900000000003,SHP10392,FedEx Logistics,2025-01-25,2025-01-25,Delivered
+10393,2024-08-04,Panasonic Corp,Netherlands,Medical Tablet,Healthcare,Quantum Supplies,Asia Hub,176,236.19,41569.44,SHP10393,FedEx Logistics,2024-08-09,2024-08-15,Delayed
+10394,2024-08-29,Panasonic Corp,Netherlands,GPS Unit,Automotive,GreenLeaf Components,Middle East Hub,50,156.25,7812.5,SHP10394,UPS Global,2024-08-30,2024-09-04,Delivered
+10395,2025-04-17,Bosch GmbH,UK,Light Controller,Home Automation,BlueWave Materials,Asia Hub,83,117.98,9792.34,SHP10395,FedEx Logistics,2025-04-20,2025-04-20,Delivered
+10396,2025-04-09,Panasonic Corp,Netherlands,Door Sensor,Home Automation,GreenLeaf Components,Asia Hub,130,485.41,63103.3,SHP10396,FedEx Logistics,2025-04-10,2025-04-16,Delayed
+10397,2024-05-02,NIO Inc,India,Engine Sensor,Automotive,Global Tech Parts,Asia Hub,23,162.56,3738.88,SHP10397,Maersk Shipping,2024-05-05,2024-05-11,Delayed
+10398,2024-09-13,Microsoft Devices,India,GPS Unit,Automotive,GreenLeaf Components,Asia Hub,146,156.25,22812.5,SHP10398,UPS Global,2024-09-14,2024-09-16,Delivered
+10399,2025-05-20,Intel Corp,Japan,Voice Assistant,Home Automation,Nova Industrial,East Coast DC,13,103.19,1341.47,SHP10399,Maersk Shipping,2025-05-21,2025-05-25,Delivered
+10400,2025-05-23,Ford Motors,South Korea,WiFi Module,Electronics,BlueWave Materials,Middle East Hub,83,358.42,29748.86,SHP10400,Maersk Shipping,2025-05-26,2025-05-27,Delivered
+10401,2025-07-15,Siemens AG,India,Energy Meter,Energy,GreenLeaf Components,Middle East Hub,164,305.35,50077.4,SHP10401,UPS Global,2025-07-20,2025-07-23,Delivered
+10402,2024-06-27,Ford Motors,South Korea,Energy Meter,Energy,GreenLeaf Components,Middle East Hub,65,305.35,19847.75,SHP10402,DHL Express,2024-06-28,2024-07-04,Delayed
+10403,2024-03-26,Microsoft Devices,India,Solar Panel,Energy,Quantum Supplies,Central Europe DC,102,476.1,48562.200000000004,SHP10403,DHL Express,2024-03-29,2024-04-03,Delivered
+10404,2024-11-21,Tesla Motors,UK,Smart Switch,Home Automation,Quantum Supplies,Central Europe DC,126,24.98,3147.48,SHP10404,DHL Express,2024-11-23,2024-11-28,Delivered
+10405,2025-03-01,General Electric,China,Oximeter,Healthcare,Sunrise Electronics,East Coast DC,178,192.69,34298.82,SHP10405,Maersk Shipping,2025-03-04,2025-03-11,Delayed
+10406,2024-11-12,Intel Corp,Japan,Inverter,Energy,Nova Industrial,Asia Hub,88,370.02,32561.76,SHP10406,DHL Express,2024-11-15,2024-11-19,Delivered
+10407,2025-01-27,Cisco Systems,UK,Smart Switch,Home Automation,Quantum Supplies,Middle East Hub,142,24.98,3547.16,SHP10407,UPS Global,2025-01-31,2025-02-01,Delivered
+10408,2025-01-08,Huawei Tech,India,Lithium Battery,Energy,Quantum Supplies,Central Europe DC,116,196.65,22811.4,SHP10408,FedEx Logistics,2025-01-13,2025-01-16,Delivered
+10409,2025-06-15,Sony Corp,Netherlands,Brake Module,Automotive,Global Tech Parts,West Coast DC,88,224.49,19755.120000000003,SHP10409,DHL Express,2025-06-18,2025-06-24,Delayed
+10410,2024-03-29,Intel Corp,Japan,EV Charger,Automotive,Sunrise Electronics,Central Europe DC,5,103.95,519.75,SHP10410,FedEx Logistics,2024-04-01,2024-04-06,Delivered
+10411,2024-01-22,Apple Inc,UK,EV Charger,Automotive,Sunrise Electronics,Central Europe DC,37,103.95,3846.15,SHP10411,Maersk Shipping,2024-01-26,2024-01-31,Delivered
+10412,2024-02-13,Samsung Electronics,China,Smart Switch,Home Automation,Quantum Supplies,Middle East Hub,72,24.98,1798.56,SHP10412,Maersk Shipping,2024-02-15,2024-02-19,Delivered
+10413,2025-07-26,Cisco Systems,UK,PCB Board,Electronics,Quantum Supplies,West Coast DC,71,435.1,30892.100000000002,SHP10413,FedEx Logistics,2025-07-27,2025-08-01,Delivered
+10414,2024-05-01,Ford Motors,South Korea,ECG Sensor,Healthcare,GreenLeaf Components,West Coast DC,182,311.75,56738.5,SHP10414,DHL Express,2024-05-03,2024-05-09,Delayed
+10415,2024-08-19,NIO Inc,India,WiFi Module,Electronics,BlueWave Materials,West Coast DC,181,358.42,64874.020000000004,SHP10415,Maersk Shipping,2024-08-20,2024-08-27,Delayed
+10416,2024-03-31,BYD Auto,USA,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Asia Hub,178,82.65,14711.7,SHP10416,Maersk Shipping,2024-04-05,2024-04-06,Delivered
+10417,2025-07-31,Amazon Robotics,Germany,Lithium Battery,Energy,Quantum Supplies,Asia Hub,136,196.65,26744.4,SHP10417,FedEx Logistics,2025-08-05,2025-08-08,Delivered
+10418,2024-06-20,Ford Motors,South Korea,Inverter,Energy,Nova Industrial,Central Europe DC,42,370.02,15540.84,SHP10418,FedEx Logistics,2024-06-22,2024-06-28,Delayed
+10419,2024-02-24,Samsung Electronics,China,Sensor Module,Electronics,Nova Industrial,Asia Hub,192,43.17,8288.64,SHP10419,UPS Global,2024-02-29,2024-03-03,Delivered
+10420,2024-03-06,BYD Auto,USA,EV Charger,Automotive,Sunrise Electronics,Middle East Hub,82,103.95,8523.9,SHP10420,FedEx Logistics,2024-03-09,2024-03-15,Delayed
+10421,2024-01-08,Apple Inc,UK,LED Driver,Electronics,Sunrise Electronics,East Coast DC,126,306.54,38624.04,SHP10421,FedEx Logistics,2024-01-12,2024-01-18,Delayed
+10422,2024-04-23,Medtronic,India,Oximeter,Healthcare,Sunrise Electronics,Central Europe DC,184,192.69,35454.96,SHP10422,Maersk Shipping,2024-04-26,2024-05-02,Delayed
+10423,2025-02-28,BYD Auto,USA,Solar Panel,Energy,Quantum Supplies,West Coast DC,29,476.1,13806.900000000001,SHP10423,UPS Global,2025-03-01,2025-03-05,Delivered
+10424,2025-08-12,Sony Corp,Netherlands,PCB Board,Electronics,Quantum Supplies,Middle East Hub,138,435.1,60043.8,SHP10424,FedEx Logistics,2025-08-13,2025-08-17,Delivered
+10425,2024-10-18,Apple Inc,UK,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,197,306.54,60388.380000000005,SHP10425,FedEx Logistics,2024-10-19,2024-10-26,Delayed
+10426,2024-11-30,NIO Inc,India,Smart Thermometer,Healthcare,Nova Industrial,East Coast DC,129,156.69,20213.01,SHP10426,UPS Global,2024-12-04,2024-12-11,Delayed
+10427,2024-06-08,Ford Motors,South Korea,Inverter,Energy,Nova Industrial,Middle East Hub,92,370.02,34041.84,SHP10427,FedEx Logistics,2024-06-10,2024-06-12,Delivered
+10428,2025-07-02,Apple Inc,UK,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Asia Hub,31,82.65,2562.15,SHP10428,Maersk Shipping,2025-07-05,2025-07-05,Delivered
+10429,2024-01-19,Ford Motors,South Korea,EV Charger,Automotive,Sunrise Electronics,West Coast DC,147,103.95,15280.65,SHP10429,FedEx Logistics,2024-01-23,2024-01-28,Delivered
+10430,2024-04-15,Cisco Systems,UK,LED Driver,Electronics,Sunrise Electronics,East Coast DC,46,306.54,14100.84,SHP10430,UPS Global,2024-04-18,2024-04-24,Delayed
+10431,2024-11-21,Toyota Motors,South Korea,Microcontroller,Electronics,Sunrise Electronics,East Coast DC,39,90.66,3535.74,SHP10431,UPS Global,2024-11-22,2024-11-22,Delivered
+10432,2024-11-12,Ford Motors,South Korea,Oximeter,Healthcare,Sunrise Electronics,Asia Hub,48,192.69,9249.119999999999,SHP10432,FedEx Logistics,2024-11-16,2024-11-20,Delivered
+10433,2025-08-21,Apple Inc,UK,Microcontroller,Electronics,Sunrise Electronics,Asia Hub,31,90.66,2810.46,SHP10433,UPS Global,2025-08-22,2025-08-26,Delivered
+10434,2024-04-09,Amazon Robotics,Germany,Engine Sensor,Automotive,Global Tech Parts,Central Europe DC,134,162.56,21783.04,SHP10434,FedEx Logistics,2024-04-11,2024-04-13,Delivered
+10435,2024-04-17,NIO Inc,India,EV Charger,Automotive,Sunrise Electronics,West Coast DC,106,103.95,11018.7,SHP10435,UPS Global,2024-04-18,2024-04-18,Delivered
+10436,2025-08-03,Medtronic,India,Medical Tablet,Healthcare,Quantum Supplies,Asia Hub,38,236.19,8975.22,SHP10436,Maersk Shipping,2025-08-08,2025-08-10,Delivered
+10437,2025-08-26,Samsung Electronics,China,Fuel Injector,Automotive,Nova Industrial,East Coast DC,23,269.51,6198.73,SHP10437,FedEx Logistics,2025-08-31,2025-09-02,Delivered
+10438,2025-01-28,General Electric,China,Inverter,Energy,Nova Industrial,West Coast DC,45,370.02,16650.899999999998,SHP10438,UPS Global,2025-01-30,2025-01-30,Delivered
+10439,2024-07-01,Tesla Motors,UK,Voice Assistant,Home Automation,Nova Industrial,East Coast DC,36,103.19,3714.84,SHP10439,UPS Global,2024-07-06,2024-07-08,Delivered
+10440,2025-02-02,Toyota Motors,South Korea,Lithium Battery,Energy,Quantum Supplies,Central Europe DC,126,196.65,24777.9,SHP10440,Maersk Shipping,2025-02-03,2025-02-09,Delayed
+10441,2024-07-19,Bosch GmbH,UK,Light Controller,Home Automation,BlueWave Materials,East Coast DC,153,117.98,18050.940000000002,SHP10441,FedEx Logistics,2024-07-24,2024-07-29,Delivered
+10442,2025-06-16,Huawei Tech,India,WiFi Module,Electronics,BlueWave Materials,East Coast DC,54,358.42,19354.68,SHP10442,Maersk Shipping,2025-06-19,2025-06-20,Delivered
+10443,2025-07-28,Siemens AG,India,Oximeter,Healthcare,Sunrise Electronics,East Coast DC,135,192.69,26013.15,SHP10443,Maersk Shipping,2025-08-01,2025-08-01,Delivered
+10444,2024-04-27,Toyota Motors,South Korea,Energy Meter,Energy,GreenLeaf Components,West Coast DC,199,305.35,60764.65,SHP10444,Maersk Shipping,2024-04-28,2024-04-28,Delivered
+10445,2024-06-23,General Electric,China,PCB Board,Electronics,Quantum Supplies,Middle East Hub,130,435.1,56563.0,SHP10445,DHL Express,2024-06-24,2024-06-25,Delivered
+10446,2024-12-03,Huawei Tech,India,EV Charger,Automotive,Sunrise Electronics,East Coast DC,159,103.95,16528.05,SHP10446,FedEx Logistics,2024-12-04,2024-12-05,Delivered
+10447,2024-03-19,Panasonic Corp,Netherlands,Power Cable,Energy,Sunrise Electronics,West Coast DC,69,90.67,6256.2300000000005,SHP10447,FedEx Logistics,2024-03-23,2024-03-24,Delivered
+10448,2025-05-18,Philips Healthcare,UK,Smart Thermometer,Healthcare,Nova Industrial,Central Europe DC,13,156.69,2036.97,SHP10448,UPS Global,2025-05-20,2025-05-24,Delivered
+10449,2025-08-16,Microsoft Devices,India,Inverter,Energy,Nova Industrial,East Coast DC,148,370.02,54762.96,SHP10449,DHL Express,2025-08-21,2025-08-25,Delivered
+10450,2024-07-13,Bosch GmbH,UK,Smart Thermometer,Healthcare,Nova Industrial,West Coast DC,142,156.69,22249.98,SHP10450,FedEx Logistics,2024-07-18,2024-07-23,Delivered
+10451,2025-07-03,Sony Corp,Netherlands,Light Controller,Home Automation,BlueWave Materials,Middle East Hub,144,117.98,16989.12,SHP10451,FedEx Logistics,2025-07-06,2025-07-10,Delivered
+10452,2024-11-05,Samsung Electronics,China,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Asia Hub,185,82.65,15290.250000000002,SHP10452,Maersk Shipping,2024-11-06,2024-11-09,Delivered
+10453,2024-10-06,Philips Healthcare,UK,Thermostat,Home Automation,Sunrise Electronics,Asia Hub,41,418.73,17167.93,SHP10453,UPS Global,2024-10-09,2024-10-11,Delivered
+10454,2025-02-24,Sony Corp,Netherlands,Thermostat,Home Automation,Sunrise Electronics,Asia Hub,143,418.73,59878.39,SHP10454,DHL Express,2025-02-26,2025-03-04,Delayed
+10455,2024-01-06,Microsoft Devices,India,Solar Panel,Energy,Quantum Supplies,Middle East Hub,166,476.1,79032.6,SHP10455,Maersk Shipping,2024-01-11,2024-01-17,Delayed
+10456,2024-05-29,Toyota Motors,South Korea,Medical Tablet,Healthcare,Quantum Supplies,West Coast DC,134,236.19,31649.46,SHP10456,UPS Global,2024-06-01,2024-06-03,Delivered
+10457,2025-05-12,Sony Corp,Netherlands,Blood Pressure Monitor,Healthcare,GreenLeaf Components,East Coast DC,145,82.65,11984.25,SHP10457,FedEx Logistics,2025-05-16,2025-05-20,Delivered
+10458,2024-06-23,Toyota Motors,South Korea,Power Cable,Energy,Sunrise Electronics,East Coast DC,140,90.67,12693.800000000001,SHP10458,FedEx Logistics,2024-06-26,2024-06-26,Delivered
+10459,2024-01-14,Toyota Motors,South Korea,Medical Tablet,Healthcare,Quantum Supplies,Middle East Hub,45,236.19,10628.55,SHP10459,Maersk Shipping,2024-01-15,2024-01-15,Delivered
+10460,2024-01-28,Medtronic,India,Voice Assistant,Home Automation,Nova Industrial,East Coast DC,186,103.19,19193.34,SHP10460,Maersk Shipping,2024-02-02,2024-02-08,Delayed
+10461,2025-08-25,Panasonic Corp,Netherlands,EV Charger,Automotive,Sunrise Electronics,Asia Hub,167,103.95,17359.65,SHP10461,UPS Global,2025-08-30,2025-08-31,Delivered
+10462,2025-01-06,BYD Auto,USA,Smart Thermometer,Healthcare,Nova Industrial,Middle East Hub,50,156.69,7834.5,SHP10462,DHL Express,2025-01-10,2025-01-14,Delivered
+10463,2024-04-08,Siemens AG,India,Oximeter,Healthcare,Sunrise Electronics,Asia Hub,130,192.69,25049.7,SHP10463,Maersk Shipping,2024-04-09,2024-04-16,Delayed
+10464,2025-03-15,BYD Auto,USA,Inverter,Energy,Nova Industrial,Central Europe DC,139,370.02,51432.78,SHP10464,Maersk Shipping,2025-03-16,2025-03-22,Delayed
+10465,2024-09-01,Toyota Motors,South Korea,Voice Assistant,Home Automation,Nova Industrial,West Coast DC,185,103.19,19090.149999999998,SHP10465,FedEx Logistics,2024-09-06,2024-09-11,Delivered
+10466,2024-07-07,Panasonic Corp,Netherlands,Door Sensor,Home Automation,GreenLeaf Components,Middle East Hub,134,485.41,65044.94,SHP10466,UPS Global,2024-07-11,2024-07-16,Delivered
+10467,2025-02-18,Apple Inc,UK,PCB Board,Electronics,Quantum Supplies,Asia Hub,67,435.1,29151.7,SHP10467,UPS Global,2025-02-19,2025-02-21,Delivered
+10468,2025-08-24,Amazon Robotics,Germany,Lithium Battery,Energy,Quantum Supplies,Middle East Hub,89,196.65,17501.850000000002,SHP10468,UPS Global,2025-08-25,2025-08-30,Delivered
+10469,2025-06-11,Siemens AG,India,Engine Sensor,Automotive,Global Tech Parts,Central Europe DC,90,162.56,14630.4,SHP10469,UPS Global,2025-06-12,2025-06-17,Delivered
+10470,2024-07-14,Intel Corp,Japan,Energy Meter,Energy,GreenLeaf Components,West Coast DC,195,305.35,59543.25000000001,SHP10470,Maersk Shipping,2024-07-19,2024-07-23,Delivered
+10471,2025-01-09,Tesla Motors,UK,ECG Sensor,Healthcare,GreenLeaf Components,Middle East Hub,198,311.75,61726.5,SHP10471,UPS Global,2025-01-10,2025-01-17,Delayed
+10472,2025-05-04,Panasonic Corp,Netherlands,ECG Sensor,Healthcare,GreenLeaf Components,West Coast DC,143,311.75,44580.25,SHP10472,Maersk Shipping,2025-05-06,2025-05-11,Delivered
+10473,2024-03-19,Ford Motors,South Korea,Energy Meter,Energy,GreenLeaf Components,East Coast DC,28,305.35,8549.800000000001,SHP10473,FedEx Logistics,2024-03-23,2024-03-28,Delivered
+10474,2024-03-22,Huawei Tech,India,Engine Sensor,Automotive,Global Tech Parts,West Coast DC,56,162.56,9103.36,SHP10474,FedEx Logistics,2024-03-26,2024-03-28,Delivered
+10475,2024-12-26,Ford Motors,South Korea,Solar Panel,Energy,Quantum Supplies,Central Europe DC,129,476.1,61416.9,SHP10475,DHL Express,2024-12-29,2024-12-31,Delivered
+10476,2024-02-14,Toyota Motors,South Korea,WiFi Module,Electronics,BlueWave Materials,East Coast DC,199,358.42,71325.58,SHP10476,UPS Global,2024-02-18,2024-02-20,Delivered
+10477,2024-08-11,Cisco Systems,UK,Solar Panel,Energy,Quantum Supplies,West Coast DC,166,476.1,79032.6,SHP10477,FedEx Logistics,2024-08-13,2024-08-16,Delivered
+10478,2024-08-31,Toyota Motors,South Korea,Energy Meter,Energy,GreenLeaf Components,Asia Hub,18,305.35,5496.3,SHP10478,UPS Global,2024-09-02,2024-09-08,Delayed
+10479,2024-10-05,Apple Inc,UK,Energy Meter,Energy,GreenLeaf Components,Asia Hub,158,305.35,48245.3,SHP10479,UPS Global,2024-10-08,2024-10-09,Delivered
+10480,2024-10-25,LG Electronics,Germany,Smart Switch,Home Automation,Quantum Supplies,Asia Hub,182,24.98,4546.36,SHP10480,Maersk Shipping,2024-10-26,2024-11-01,Delayed
+10481,2025-03-27,Siemens AG,India,Microcontroller,Electronics,Sunrise Electronics,Central Europe DC,105,90.66,9519.3,SHP10481,Maersk Shipping,2025-03-29,2025-04-05,Delayed
+10482,2025-02-08,Panasonic Corp,Netherlands,Fuel Injector,Automotive,Nova Industrial,Middle East Hub,134,269.51,36114.34,SHP10482,UPS Global,2025-02-10,2025-02-12,Delivered
+10483,2024-08-01,Huawei Tech,India,Door Sensor,Home Automation,GreenLeaf Components,East Coast DC,53,485.41,25726.73,SHP10483,Maersk Shipping,2024-08-02,2024-08-05,Delivered
+10484,2024-07-10,Panasonic Corp,Netherlands,LED Driver,Electronics,Sunrise Electronics,Asia Hub,60,306.54,18392.4,SHP10484,FedEx Logistics,2024-07-12,2024-07-17,Delivered
+10485,2025-05-12,Medtronic,India,ECG Sensor,Healthcare,GreenLeaf Components,Asia Hub,194,311.75,60479.5,SHP10485,FedEx Logistics,2025-05-17,2025-05-21,Delivered
+10486,2024-11-07,Philips Healthcare,UK,Lithium Battery,Energy,Quantum Supplies,East Coast DC,130,196.65,25564.5,SHP10486,Maersk Shipping,2024-11-10,2024-11-11,Delivered
+10487,2024-06-29,Toyota Motors,South Korea,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,139,485.41,67471.99,SHP10487,FedEx Logistics,2024-07-01,2024-07-03,Delivered
+10488,2025-02-02,Bosch GmbH,UK,Voice Assistant,Home Automation,Nova Industrial,Middle East Hub,13,103.19,1341.47,SHP10488,DHL Express,2025-02-03,2025-02-03,Delivered
+10489,2024-09-09,BYD Auto,USA,Fuel Injector,Automotive,Nova Industrial,East Coast DC,77,269.51,20752.27,SHP10489,DHL Express,2024-09-14,2024-09-17,Delivered
+10490,2025-05-15,Cisco Systems,UK,GPS Unit,Automotive,GreenLeaf Components,West Coast DC,172,156.25,26875.0,SHP10490,DHL Express,2025-05-16,2025-05-16,Delivered
+10491,2024-04-13,LG Electronics,Germany,WiFi Module,Electronics,BlueWave Materials,Asia Hub,70,358.42,25089.4,SHP10491,DHL Express,2024-04-18,2024-04-19,Delivered
+10492,2025-01-17,BYD Auto,USA,Solar Panel,Energy,Quantum Supplies,Central Europe DC,91,476.1,43325.1,SHP10492,UPS Global,2025-01-19,2025-01-19,Delivered
+10493,2025-01-20,LG Electronics,Germany,Smart Switch,Home Automation,Quantum Supplies,Central Europe DC,56,24.98,1398.88,SHP10493,UPS Global,2025-01-24,2025-01-28,Delivered
+10494,2024-09-09,Tesla Motors,UK,Medical Tablet,Healthcare,Quantum Supplies,East Coast DC,165,236.19,38971.35,SHP10494,DHL Express,2024-09-14,2024-09-14,Delivered
+10495,2024-06-13,Intel Corp,Japan,LED Driver,Electronics,Sunrise Electronics,Central Europe DC,22,306.54,6743.88,SHP10495,Maersk Shipping,2024-06-18,2024-06-25,Delayed
+10496,2024-12-02,Huawei Tech,India,Medical Tablet,Healthcare,Quantum Supplies,Central Europe DC,193,236.19,45584.67,SHP10496,DHL Express,2024-12-06,2024-12-07,Delivered
+10497,2024-07-26,Bosch GmbH,UK,WiFi Module,Electronics,BlueWave Materials,Asia Hub,89,358.42,31899.38,SHP10497,UPS Global,2024-07-30,2024-07-31,Delivered
+10498,2025-08-17,Medtronic,India,Brake Module,Automotive,Global Tech Parts,Middle East Hub,92,224.49,20653.08,SHP10498,FedEx Logistics,2025-08-18,2025-08-24,Delayed
+10499,2024-10-05,Sony Corp,Netherlands,Inverter,Energy,Nova Industrial,West Coast DC,85,370.02,31451.699999999997,SHP10499,DHL Express,2024-10-07,2024-10-10,Delivered
+10500,2025-06-20,Medtronic,India,Medical Tablet,Healthcare,Quantum Supplies,West Coast DC,22,236.19,5196.18,SHP10500,FedEx Logistics,2025-06-24,2025-06-29,Delivered
+10501,2024-05-13,General Electric,China,GPS Unit,Automotive,GreenLeaf Components,Asia Hub,140,156.25,21875.0,SHP10501,Maersk Shipping,2024-05-16,2024-05-17,Delivered
+10502,2025-08-17,Toyota Motors,South Korea,Solar Panel,Energy,Quantum Supplies,West Coast DC,71,476.1,33803.1,SHP10502,FedEx Logistics,2025-08-22,2025-08-26,Delivered
+10503,2024-08-05,Panasonic Corp,Netherlands,ECG Sensor,Healthcare,GreenLeaf Components,Middle East Hub,25,311.75,7793.75,SHP10503,UPS Global,2024-08-10,2024-08-11,Delivered
+10504,2025-02-02,Huawei Tech,India,Light Controller,Home Automation,BlueWave Materials,Central Europe DC,67,117.98,7904.66,SHP10504,DHL Express,2025-02-05,2025-02-10,Delivered
+10505,2024-09-01,Cisco Systems,UK,Medical Tablet,Healthcare,Quantum Supplies,West Coast DC,67,236.19,15824.73,SHP10505,FedEx Logistics,2024-09-04,2024-09-05,Delivered
+10506,2024-06-01,Intel Corp,Japan,WiFi Module,Electronics,BlueWave Materials,Central Europe DC,154,358.42,55196.68,SHP10506,Maersk Shipping,2024-06-04,2024-06-04,Delivered
+10507,2025-08-15,BYD Auto,USA,Engine Sensor,Automotive,Global Tech Parts,West Coast DC,116,162.56,18856.96,SHP10507,FedEx Logistics,2025-08-17,2025-08-21,Delivered
+10508,2025-02-22,Siemens AG,India,ECG Sensor,Healthcare,GreenLeaf Components,Middle East Hub,87,311.75,27122.25,SHP10508,DHL Express,2025-02-25,2025-02-28,Delivered
+10509,2024-02-09,Apple Inc,UK,Lithium Battery,Energy,Quantum Supplies,Central Europe DC,41,196.65,8062.650000000001,SHP10509,Maersk Shipping,2024-02-12,2024-02-16,Delivered
+10510,2024-08-21,LG Electronics,Germany,EV Charger,Automotive,Sunrise Electronics,Middle East Hub,116,103.95,12058.2,SHP10510,Maersk Shipping,2024-08-24,2024-08-30,Delayed
+10511,2024-01-29,Panasonic Corp,Netherlands,EV Charger,Automotive,Sunrise Electronics,East Coast DC,120,103.95,12474.0,SHP10511,Maersk Shipping,2024-02-01,2024-02-02,Delivered
+10512,2024-01-28,Philips Healthcare,UK,Smart Thermometer,Healthcare,Nova Industrial,Middle East Hub,128,156.69,20056.32,SHP10512,Maersk Shipping,2024-02-02,2024-02-05,Delivered
+10513,2024-09-07,BYD Auto,USA,Inverter,Energy,Nova Industrial,West Coast DC,100,370.02,37002.0,SHP10513,FedEx Logistics,2024-09-12,2024-09-15,Delivered
+10514,2025-02-04,Medtronic,India,Medical Tablet,Healthcare,Quantum Supplies,Central Europe DC,21,236.19,4959.99,SHP10514,FedEx Logistics,2025-02-06,2025-02-12,Delayed
+10515,2024-03-25,Apple Inc,UK,Voice Assistant,Home Automation,Nova Industrial,Asia Hub,71,103.19,7326.49,SHP10515,Maersk Shipping,2024-03-29,2024-03-29,Delivered
+10516,2025-04-14,Sony Corp,Netherlands,GPS Unit,Automotive,GreenLeaf Components,East Coast DC,13,156.25,2031.25,SHP10516,DHL Express,2025-04-16,2025-04-18,Delivered
+10517,2024-05-04,BYD Auto,USA,Power Cable,Energy,Sunrise Electronics,Middle East Hub,57,90.67,5168.1900000000005,SHP10517,FedEx Logistics,2024-05-09,2024-05-14,Delivered
+10518,2024-10-25,Panasonic Corp,Netherlands,PCB Board,Electronics,Quantum Supplies,Middle East Hub,143,435.1,62219.3,SHP10518,FedEx Logistics,2024-10-30,2024-11-04,Delivered
+10519,2024-05-09,LG Electronics,Germany,Microcontroller,Electronics,Sunrise Electronics,West Coast DC,30,90.66,2719.7999999999997,SHP10519,FedEx Logistics,2024-05-10,2024-05-14,Delivered
+10520,2024-07-24,Philips Healthcare,UK,PCB Board,Electronics,Quantum Supplies,Central Europe DC,103,435.1,44815.3,SHP10520,UPS Global,2024-07-25,2024-07-25,Delivered
+10521,2024-09-14,Amazon Robotics,Germany,Blood Pressure Monitor,Healthcare,GreenLeaf Components,East Coast DC,70,82.65,5785.5,SHP10521,Maersk Shipping,2024-09-16,2024-09-23,Delayed
+10522,2024-09-23,LG Electronics,Germany,Solar Panel,Energy,Quantum Supplies,Asia Hub,33,476.1,15711.300000000001,SHP10522,Maersk Shipping,2024-09-26,2024-10-01,Delivered
+10523,2024-01-06,Samsung Electronics,China,Power Cable,Energy,Sunrise Electronics,East Coast DC,190,90.67,17227.3,SHP10523,FedEx Logistics,2024-01-11,2024-01-13,Delivered
+10524,2025-02-28,Bosch GmbH,UK,Medical Tablet,Healthcare,Quantum Supplies,East Coast DC,132,236.19,31177.079999999998,SHP10524,UPS Global,2025-03-03,2025-03-06,Delivered
+10525,2025-01-03,Sony Corp,Netherlands,Door Sensor,Home Automation,GreenLeaf Components,Central Europe DC,102,485.41,49511.82,SHP10525,UPS Global,2025-01-06,2025-01-08,Delivered
+10526,2024-12-25,Amazon Robotics,Germany,Light Controller,Home Automation,BlueWave Materials,East Coast DC,155,117.98,18286.9,SHP10526,DHL Express,2024-12-30,2025-01-06,Delayed
+10527,2025-03-17,NIO Inc,India,Microcontroller,Electronics,Sunrise Electronics,East Coast DC,120,90.66,10879.199999999999,SHP10527,FedEx Logistics,2025-03-20,2025-03-22,Delivered
+10528,2024-08-21,Siemens AG,India,Smart Thermometer,Healthcare,Nova Industrial,Asia Hub,8,156.69,1253.52,SHP10528,UPS Global,2024-08-22,2024-08-25,Delivered
+10529,2025-05-28,Philips Healthcare,UK,WiFi Module,Electronics,BlueWave Materials,East Coast DC,91,358.42,32616.22,SHP10529,DHL Express,2025-06-01,2025-06-04,Delivered
+10530,2024-03-05,Panasonic Corp,Netherlands,Voice Assistant,Home Automation,Nova Industrial,Central Europe DC,160,103.19,16510.4,SHP10530,UPS Global,2024-03-06,2024-03-10,Delivered
+10531,2024-09-12,Tesla Motors,UK,Solar Panel,Energy,Quantum Supplies,West Coast DC,105,476.1,49990.5,SHP10531,Maersk Shipping,2024-09-15,2024-09-16,Delivered
+10532,2024-06-19,Tesla Motors,UK,Inverter,Energy,Nova Industrial,West Coast DC,135,370.02,49952.7,SHP10532,FedEx Logistics,2024-06-20,2024-06-21,Delivered
+10533,2025-06-12,Philips Healthcare,UK,WiFi Module,Electronics,BlueWave Materials,Asia Hub,173,358.42,62006.66,SHP10533,UPS Global,2025-06-13,2025-06-13,Delivered
+10534,2024-12-08,Apple Inc,UK,Sensor Module,Electronics,Nova Industrial,Central Europe DC,75,43.17,3237.75,SHP10534,DHL Express,2024-12-09,2024-12-12,Delivered
+10535,2025-08-22,Ford Motors,South Korea,Brake Module,Automotive,Global Tech Parts,Middle East Hub,138,224.49,30979.620000000003,SHP10535,Maersk Shipping,2025-08-27,2025-08-29,Delivered
+10536,2025-08-18,Tesla Motors,UK,Engine Sensor,Automotive,Global Tech Parts,Middle East Hub,140,162.56,22758.4,SHP10536,UPS Global,2025-08-22,2025-08-23,Delivered
+10537,2024-03-26,Toyota Motors,South Korea,Engine Sensor,Automotive,Global Tech Parts,Middle East Hub,111,162.56,18044.16,SHP10537,FedEx Logistics,2024-03-30,2024-03-31,Delivered
+10538,2024-03-24,Samsung Electronics,China,ECG Sensor,Healthcare,GreenLeaf Components,West Coast DC,6,311.75,1870.5,SHP10538,UPS Global,2024-03-29,2024-03-30,Delivered
+10539,2024-04-19,Medtronic,India,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Asia Hub,49,82.65,4049.8500000000004,SHP10539,UPS Global,2024-04-22,2024-04-25,Delivered
+10540,2024-04-15,NIO Inc,India,Oximeter,Healthcare,Sunrise Electronics,Middle East Hub,135,192.69,26013.15,SHP10540,DHL Express,2024-04-20,2024-04-22,Delivered
+10541,2024-10-28,LG Electronics,Germany,Lithium Battery,Energy,Quantum Supplies,Asia Hub,31,196.65,6096.150000000001,SHP10541,UPS Global,2024-11-02,2024-11-05,Delivered
+10542,2025-03-23,Bosch GmbH,UK,Energy Meter,Energy,GreenLeaf Components,Central Europe DC,37,305.35,11297.95,SHP10542,DHL Express,2025-03-28,2025-03-31,Delivered
+10543,2025-03-29,Bosch GmbH,UK,WiFi Module,Electronics,BlueWave Materials,Central Europe DC,139,358.42,49820.380000000005,SHP10543,UPS Global,2025-03-30,2025-03-31,Delivered
+10544,2025-01-24,Intel Corp,Japan,PCB Board,Electronics,Quantum Supplies,Central Europe DC,87,435.1,37853.700000000004,SHP10544,UPS Global,2025-01-27,2025-01-30,Delivered
+10545,2024-08-07,Sony Corp,Netherlands,Smart Thermometer,Healthcare,Nova Industrial,Middle East Hub,158,156.69,24757.02,SHP10545,FedEx Logistics,2024-08-09,2024-08-14,Delivered
+10546,2025-02-28,Sony Corp,Netherlands,Lithium Battery,Energy,Quantum Supplies,Middle East Hub,95,196.65,18681.75,SHP10546,DHL Express,2025-03-04,2025-03-05,Delivered
+10547,2024-07-14,Philips Healthcare,UK,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Middle East Hub,97,82.65,8017.05,SHP10547,DHL Express,2024-07-15,2024-07-20,Delivered
+10548,2024-04-21,Tesla Motors,UK,Brake Module,Automotive,Global Tech Parts,Middle East Hub,110,224.49,24693.9,SHP10548,DHL Express,2024-04-22,2024-04-27,Delivered
+10549,2025-04-17,Toyota Motors,South Korea,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,52,306.54,15940.080000000002,SHP10549,UPS Global,2025-04-18,2025-04-25,Delayed
+10550,2024-01-25,Ford Motors,South Korea,Fuel Injector,Automotive,Nova Industrial,Asia Hub,149,269.51,40156.99,SHP10550,FedEx Logistics,2024-01-28,2024-01-30,Delivered
+10551,2024-09-12,Bosch GmbH,UK,WiFi Module,Electronics,BlueWave Materials,Central Europe DC,67,358.42,24014.14,SHP10551,FedEx Logistics,2024-09-14,2024-09-14,Delivered
+10552,2025-03-20,Samsung Electronics,China,EV Charger,Automotive,Sunrise Electronics,West Coast DC,96,103.95,9979.2,SHP10552,DHL Express,2025-03-22,2025-03-26,Delivered
+10553,2025-03-02,Cisco Systems,UK,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Asia Hub,176,82.65,14546.400000000001,SHP10553,UPS Global,2025-03-05,2025-03-12,Delayed
+10554,2025-01-09,Cisco Systems,UK,EV Charger,Automotive,Sunrise Electronics,Asia Hub,165,103.95,17151.75,SHP10554,DHL Express,2025-01-12,2025-01-13,Delivered
+10555,2025-08-11,NIO Inc,India,Fuel Injector,Automotive,Nova Industrial,Asia Hub,120,269.51,32341.199999999997,SHP10555,UPS Global,2025-08-12,2025-08-16,Delivered
+10556,2024-10-02,Philips Healthcare,UK,ECG Sensor,Healthcare,GreenLeaf Components,West Coast DC,34,311.75,10599.5,SHP10556,DHL Express,2024-10-03,2024-10-06,Delivered
+10557,2024-06-22,NIO Inc,India,Oximeter,Healthcare,Sunrise Electronics,West Coast DC,198,192.69,38152.62,SHP10557,DHL Express,2024-06-24,2024-06-28,Delivered
+10558,2025-02-07,Intel Corp,Japan,Engine Sensor,Automotive,Global Tech Parts,East Coast DC,61,162.56,9916.16,SHP10558,FedEx Logistics,2025-02-12,2025-02-16,Delivered
+10559,2024-07-11,NIO Inc,India,PCB Board,Electronics,Quantum Supplies,Central Europe DC,17,435.1,7396.700000000001,SHP10559,FedEx Logistics,2024-07-16,2024-07-18,Delivered
+10560,2024-04-08,General Electric,China,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Middle East Hub,66,82.65,5454.900000000001,SHP10560,FedEx Logistics,2024-04-09,2024-04-13,Delivered
+10561,2025-05-15,Samsung Electronics,China,Sensor Module,Electronics,Nova Industrial,Middle East Hub,143,43.17,6173.31,SHP10561,UPS Global,2025-05-19,2025-05-26,Delayed
+10562,2025-04-19,Huawei Tech,India,Medical Tablet,Healthcare,Quantum Supplies,West Coast DC,6,236.19,1417.1399999999999,SHP10562,UPS Global,2025-04-20,2025-04-24,Delivered
+10563,2025-01-23,General Electric,China,Oximeter,Healthcare,Sunrise Electronics,Middle East Hub,20,192.69,3853.8,SHP10563,Maersk Shipping,2025-01-27,2025-01-30,Delivered
+10564,2025-07-12,Amazon Robotics,Germany,Power Cable,Energy,Sunrise Electronics,Middle East Hub,152,90.67,13781.84,SHP10564,UPS Global,2025-07-16,2025-07-18,Delivered
+10565,2024-07-14,Cisco Systems,UK,Smart Thermometer,Healthcare,Nova Industrial,Middle East Hub,5,156.69,783.45,SHP10565,DHL Express,2024-07-18,2024-07-19,Delivered
+10566,2024-05-09,Apple Inc,UK,Oximeter,Healthcare,Sunrise Electronics,Central Europe DC,184,192.69,35454.96,SHP10566,DHL Express,2024-05-13,2024-05-15,Delivered
+10567,2024-07-03,Bosch GmbH,UK,WiFi Module,Electronics,BlueWave Materials,West Coast DC,116,358.42,41576.72,SHP10567,Maersk Shipping,2024-07-08,2024-07-08,Delivered
+10568,2024-11-23,BYD Auto,USA,Thermostat,Home Automation,Sunrise Electronics,Central Europe DC,82,418.73,34335.86,SHP10568,UPS Global,2024-11-26,2024-12-01,Delivered
+10569,2025-03-26,Intel Corp,Japan,Door Sensor,Home Automation,GreenLeaf Components,Middle East Hub,141,485.41,68442.81,SHP10569,UPS Global,2025-03-27,2025-03-31,Delivered
+10570,2025-08-19,NIO Inc,India,Voice Assistant,Home Automation,Nova Industrial,East Coast DC,85,103.19,8771.15,SHP10570,Maersk Shipping,2025-08-21,2025-08-26,Delivered
+10571,2024-08-14,Microsoft Devices,India,Medical Tablet,Healthcare,Quantum Supplies,Middle East Hub,114,236.19,26925.66,SHP10571,Maersk Shipping,2024-08-15,2024-08-18,Delivered
+10572,2024-08-15,Huawei Tech,India,Smart Switch,Home Automation,Quantum Supplies,West Coast DC,186,24.98,4646.28,SHP10572,FedEx Logistics,2024-08-16,2024-08-20,Delivered
+10573,2025-07-04,Philips Healthcare,UK,Thermostat,Home Automation,Sunrise Electronics,West Coast DC,152,418.73,63646.96000000001,SHP10573,Maersk Shipping,2025-07-08,2025-07-09,Delivered
+10574,2024-06-07,Medtronic,India,Smart Thermometer,Healthcare,Nova Industrial,East Coast DC,60,156.69,9401.4,SHP10574,DHL Express,2024-06-11,2024-06-11,Delivered
+10575,2025-03-17,BYD Auto,USA,WiFi Module,Electronics,BlueWave Materials,Central Europe DC,168,358.42,60214.560000000005,SHP10575,DHL Express,2025-03-21,2025-03-21,Delivered
+10576,2024-12-07,Samsung Electronics,China,Smart Switch,Home Automation,Quantum Supplies,East Coast DC,12,24.98,299.76,SHP10576,DHL Express,2024-12-08,2024-12-13,Delivered
+10577,2024-06-06,Philips Healthcare,UK,Fuel Injector,Automotive,Nova Industrial,Middle East Hub,149,269.51,40156.99,SHP10577,DHL Express,2024-06-07,2024-06-12,Delivered
+10578,2025-06-25,NIO Inc,India,Fuel Injector,Automotive,Nova Industrial,East Coast DC,69,269.51,18596.19,SHP10578,DHL Express,2025-06-28,2025-07-05,Delayed
+10579,2025-05-04,Microsoft Devices,India,Lithium Battery,Energy,Quantum Supplies,Middle East Hub,84,196.65,16518.600000000002,SHP10579,DHL Express,2025-05-06,2025-05-13,Delayed
+10580,2025-03-29,Sony Corp,Netherlands,Inverter,Energy,Nova Industrial,East Coast DC,139,370.02,51432.78,SHP10580,Maersk Shipping,2025-03-31,2025-04-07,Delayed
+10581,2025-08-31,Microsoft Devices,India,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Middle East Hub,118,82.65,9752.7,SHP10581,UPS Global,2025-09-02,2025-09-06,Delivered
+10582,2024-07-09,Sony Corp,Netherlands,Voice Assistant,Home Automation,Nova Industrial,Central Europe DC,199,103.19,20534.81,SHP10582,FedEx Logistics,2024-07-11,2024-07-14,Delivered
+10583,2025-02-11,Panasonic Corp,Netherlands,Fuel Injector,Automotive,Nova Industrial,West Coast DC,77,269.51,20752.27,SHP10583,DHL Express,2025-02-14,2025-02-19,Delivered
+10584,2025-03-05,LG Electronics,Germany,Sensor Module,Electronics,Nova Industrial,East Coast DC,139,43.17,6000.63,SHP10584,UPS Global,2025-03-07,2025-03-11,Delivered
+10585,2024-03-09,Bosch GmbH,UK,GPS Unit,Automotive,GreenLeaf Components,Asia Hub,170,156.25,26562.5,SHP10585,Maersk Shipping,2024-03-11,2024-03-15,Delivered
+10586,2024-11-10,Tesla Motors,UK,Door Sensor,Home Automation,GreenLeaf Components,East Coast DC,62,485.41,30095.420000000002,SHP10586,DHL Express,2024-11-12,2024-11-15,Delivered
+10587,2024-07-21,Bosch GmbH,UK,ECG Sensor,Healthcare,GreenLeaf Components,East Coast DC,110,311.75,34292.5,SHP10587,DHL Express,2024-07-22,2024-07-23,Delivered
+10588,2025-05-14,Panasonic Corp,Netherlands,Power Cable,Energy,Sunrise Electronics,West Coast DC,101,90.67,9157.67,SHP10588,DHL Express,2025-05-15,2025-05-15,Delivered
+10589,2025-02-10,Sony Corp,Netherlands,Fuel Injector,Automotive,Nova Industrial,Central Europe DC,196,269.51,52823.96,SHP10589,DHL Express,2025-02-13,2025-02-20,Delayed
+10590,2025-04-12,Intel Corp,Japan,PCB Board,Electronics,Quantum Supplies,Central Europe DC,72,435.1,31327.2,SHP10590,FedEx Logistics,2025-04-13,2025-04-20,Delayed
+10591,2024-07-14,Sony Corp,Netherlands,Brake Module,Automotive,Global Tech Parts,West Coast DC,137,224.49,30755.13,SHP10591,Maersk Shipping,2024-07-19,2024-07-26,Delayed
+10592,2025-05-07,Intel Corp,Japan,Blood Pressure Monitor,Healthcare,GreenLeaf Components,West Coast DC,86,82.65,7107.900000000001,SHP10592,FedEx Logistics,2025-05-09,2025-05-12,Delivered
+10593,2024-03-31,Toyota Motors,South Korea,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,159,485.41,77180.19,SHP10593,FedEx Logistics,2024-04-01,2024-04-01,Delivered
+10594,2024-02-05,BYD Auto,USA,GPS Unit,Automotive,GreenLeaf Components,Middle East Hub,71,156.25,11093.75,SHP10594,UPS Global,2024-02-07,2024-02-13,Delayed
+10595,2024-11-07,Cisco Systems,UK,Brake Module,Automotive,Global Tech Parts,Middle East Hub,134,224.49,30081.66,SHP10595,UPS Global,2024-11-12,2024-11-14,Delivered
+10596,2024-10-04,Ford Motors,South Korea,Thermostat,Home Automation,Sunrise Electronics,East Coast DC,29,418.73,12143.17,SHP10596,FedEx Logistics,2024-10-08,2024-10-15,Delayed
+10597,2025-08-27,Samsung Electronics,China,Lithium Battery,Energy,Quantum Supplies,West Coast DC,99,196.65,19468.350000000002,SHP10597,FedEx Logistics,2025-08-31,2025-08-31,Delivered
+10598,2025-08-25,Sony Corp,Netherlands,Voice Assistant,Home Automation,Nova Industrial,Central Europe DC,84,103.19,8667.96,SHP10598,UPS Global,2025-08-29,2025-09-02,Delivered
+10599,2024-12-01,Apple Inc,UK,Smart Thermometer,Healthcare,Nova Industrial,Middle East Hub,23,156.69,3603.87,SHP10599,DHL Express,2024-12-06,2024-12-11,Delivered
+10600,2025-02-21,Microsoft Devices,India,ECG Sensor,Healthcare,GreenLeaf Components,Asia Hub,70,311.75,21822.5,SHP10600,UPS Global,2025-02-25,2025-02-26,Delivered
+10601,2025-04-24,Ford Motors,South Korea,Lithium Battery,Energy,Quantum Supplies,Central Europe DC,185,196.65,36380.25,SHP10601,DHL Express,2025-04-26,2025-04-29,Delivered
+10602,2025-03-12,Panasonic Corp,Netherlands,Energy Meter,Energy,GreenLeaf Components,East Coast DC,27,305.35,8244.45,SHP10602,UPS Global,2025-03-13,2025-03-15,Delivered
+10603,2024-08-09,Samsung Electronics,China,WiFi Module,Electronics,BlueWave Materials,Central Europe DC,50,358.42,17921.0,SHP10603,UPS Global,2024-08-12,2024-08-18,Delayed
+10604,2025-06-04,LG Electronics,Germany,Voice Assistant,Home Automation,Nova Industrial,West Coast DC,196,103.19,20225.239999999998,SHP10604,UPS Global,2025-06-07,2025-06-09,Delivered
+10605,2024-08-28,Medtronic,India,EV Charger,Automotive,Sunrise Electronics,East Coast DC,173,103.95,17983.350000000002,SHP10605,DHL Express,2024-09-01,2024-09-04,Delivered
+10606,2025-04-26,Huawei Tech,India,Engine Sensor,Automotive,Global Tech Parts,West Coast DC,57,162.56,9265.92,SHP10606,UPS Global,2025-05-01,2025-05-03,Delivered
+10607,2025-05-20,Samsung Electronics,China,GPS Unit,Automotive,GreenLeaf Components,Asia Hub,168,156.25,26250.0,SHP10607,FedEx Logistics,2025-05-21,2025-05-27,Delayed
+10608,2024-02-05,General Electric,China,Sensor Module,Electronics,Nova Industrial,Central Europe DC,84,43.17,3626.28,SHP10608,DHL Express,2024-02-10,2024-02-14,Delivered
+10609,2024-04-07,Medtronic,India,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,154,485.41,74753.14,SHP10609,DHL Express,2024-04-10,2024-04-17,Delayed
+10610,2025-05-09,Philips Healthcare,UK,Light Controller,Home Automation,BlueWave Materials,West Coast DC,122,117.98,14393.560000000001,SHP10610,DHL Express,2025-05-14,2025-05-18,Delivered
+10611,2025-03-16,LG Electronics,Germany,Brake Module,Automotive,Global Tech Parts,East Coast DC,111,224.49,24918.39,SHP10611,Maersk Shipping,2025-03-17,2025-03-23,Delayed
+10612,2024-09-19,LG Electronics,Germany,Fuel Injector,Automotive,Nova Industrial,Central Europe DC,27,269.51,7276.7699999999995,SHP10612,DHL Express,2024-09-23,2024-09-25,Delivered
+10613,2025-06-12,Bosch GmbH,UK,Solar Panel,Energy,Quantum Supplies,Asia Hub,132,476.1,62845.200000000004,SHP10613,UPS Global,2025-06-15,2025-06-19,Delivered
+10614,2025-05-22,Microsoft Devices,India,Solar Panel,Energy,Quantum Supplies,Asia Hub,92,476.1,43801.200000000004,SHP10614,UPS Global,2025-05-26,2025-05-30,Delivered
+10615,2024-12-07,Siemens AG,India,Light Controller,Home Automation,BlueWave Materials,West Coast DC,35,117.98,4129.3,SHP10615,UPS Global,2024-12-10,2024-12-12,Delivered
+10616,2024-05-28,Siemens AG,India,Solar Panel,Energy,Quantum Supplies,East Coast DC,65,476.1,30946.5,SHP10616,FedEx Logistics,2024-05-31,2024-05-31,Delivered
+10617,2024-12-24,BYD Auto,USA,Solar Panel,Energy,Quantum Supplies,West Coast DC,198,476.1,94267.8,SHP10617,Maersk Shipping,2024-12-25,2024-12-28,Delivered
+10618,2025-03-09,Philips Healthcare,UK,Medical Tablet,Healthcare,Quantum Supplies,East Coast DC,193,236.19,45584.67,SHP10618,UPS Global,2025-03-12,2025-03-17,Delivered
+10619,2024-11-17,Philips Healthcare,UK,Fuel Injector,Automotive,Nova Industrial,Middle East Hub,86,269.51,23177.86,SHP10619,FedEx Logistics,2024-11-20,2024-11-22,Delivered
+10620,2025-06-03,Sony Corp,Netherlands,Engine Sensor,Automotive,Global Tech Parts,West Coast DC,48,162.56,7802.88,SHP10620,UPS Global,2025-06-07,2025-06-09,Delivered
+10621,2024-02-02,Panasonic Corp,Netherlands,Medical Tablet,Healthcare,Quantum Supplies,Asia Hub,59,236.19,13935.21,SHP10621,FedEx Logistics,2024-02-06,2024-02-11,Delivered
+10622,2025-08-20,BYD Auto,USA,Power Cable,Energy,Sunrise Electronics,Middle East Hub,80,90.67,7253.6,SHP10622,Maersk Shipping,2025-08-21,2025-08-27,Delayed
+10623,2024-11-15,Bosch GmbH,UK,Brake Module,Automotive,Global Tech Parts,Middle East Hub,39,224.49,8755.11,SHP10623,UPS Global,2024-11-19,2024-11-19,Delivered
+10624,2025-03-13,Tesla Motors,UK,Sensor Module,Electronics,Nova Industrial,Middle East Hub,117,43.17,5050.89,SHP10624,UPS Global,2025-03-15,2025-03-16,Delivered
+10625,2024-02-14,LG Electronics,Germany,Thermostat,Home Automation,Sunrise Electronics,Middle East Hub,128,418.73,53597.44,SHP10625,UPS Global,2024-02-17,2024-02-18,Delivered
+10626,2024-10-20,Amazon Robotics,Germany,EV Charger,Automotive,Sunrise Electronics,West Coast DC,51,103.95,5301.45,SHP10626,Maersk Shipping,2024-10-21,2024-10-21,Delivered
+10627,2025-08-31,Intel Corp,Japan,Smart Switch,Home Automation,Quantum Supplies,Asia Hub,170,24.98,4246.6,SHP10627,UPS Global,2025-09-01,2025-09-03,Delivered
+10628,2024-12-11,LG Electronics,Germany,Smart Thermometer,Healthcare,Nova Industrial,Middle East Hub,59,156.69,9244.71,SHP10628,UPS Global,2024-12-15,2024-12-22,Delayed
+10629,2025-01-01,Medtronic,India,WiFi Module,Electronics,BlueWave Materials,Asia Hub,145,358.42,51970.9,SHP10629,DHL Express,2025-01-05,2025-01-05,Delivered
+10630,2025-02-20,Tesla Motors,UK,Fuel Injector,Automotive,Nova Industrial,West Coast DC,70,269.51,18865.7,SHP10630,UPS Global,2025-02-23,2025-03-02,Delayed
+10631,2025-05-24,Ford Motors,South Korea,Smart Thermometer,Healthcare,Nova Industrial,Asia Hub,98,156.69,15355.619999999999,SHP10631,FedEx Logistics,2025-05-28,2025-05-31,Delivered
+10632,2024-02-06,Intel Corp,Japan,Inverter,Energy,Nova Industrial,East Coast DC,117,370.02,43292.34,SHP10632,DHL Express,2024-02-09,2024-02-14,Delivered
+10633,2024-07-10,Toyota Motors,South Korea,LED Driver,Electronics,Sunrise Electronics,Central Europe DC,184,306.54,56403.36,SHP10633,DHL Express,2024-07-13,2024-07-15,Delivered
+10634,2024-06-15,Tesla Motors,UK,Power Cable,Energy,Sunrise Electronics,Asia Hub,116,90.67,10517.72,SHP10634,Maersk Shipping,2024-06-17,2024-06-19,Delivered
+10635,2024-12-21,Intel Corp,Japan,Power Cable,Energy,Sunrise Electronics,Asia Hub,111,90.67,10064.37,SHP10635,UPS Global,2024-12-23,2024-12-29,Delayed
+10636,2024-02-10,Philips Healthcare,UK,Smart Thermometer,Healthcare,Nova Industrial,Asia Hub,93,156.69,14572.17,SHP10636,FedEx Logistics,2024-02-14,2024-02-19,Delivered
+10637,2024-12-21,BYD Auto,USA,Oximeter,Healthcare,Sunrise Electronics,Asia Hub,140,192.69,26976.6,SHP10637,Maersk Shipping,2024-12-23,2024-12-26,Delivered
+10638,2025-07-21,Toyota Motors,South Korea,Thermostat,Home Automation,Sunrise Electronics,Asia Hub,157,418.73,65740.61,SHP10638,DHL Express,2025-07-22,2025-07-27,Delivered
+10639,2024-04-06,Bosch GmbH,UK,ECG Sensor,Healthcare,GreenLeaf Components,East Coast DC,132,311.75,41151.0,SHP10639,UPS Global,2024-04-09,2024-04-11,Delivered
+10640,2024-01-30,BYD Auto,USA,Fuel Injector,Automotive,Nova Industrial,East Coast DC,115,269.51,30993.649999999998,SHP10640,Maersk Shipping,2024-02-02,2024-02-03,Delivered
+10641,2025-02-07,BYD Auto,USA,Inverter,Energy,Nova Industrial,Middle East Hub,5,370.02,1850.1,SHP10641,UPS Global,2025-02-10,2025-02-17,Delayed
+10642,2024-08-06,Panasonic Corp,Netherlands,WiFi Module,Electronics,BlueWave Materials,West Coast DC,200,358.42,71684.0,SHP10642,UPS Global,2024-08-07,2024-08-08,Delivered
+10643,2025-02-21,Tesla Motors,UK,Engine Sensor,Automotive,Global Tech Parts,Middle East Hub,33,162.56,5364.4800000000005,SHP10643,UPS Global,2025-02-25,2025-02-26,Delivered
+10644,2025-02-20,Philips Healthcare,UK,Engine Sensor,Automotive,Global Tech Parts,East Coast DC,165,162.56,26822.4,SHP10644,UPS Global,2025-02-24,2025-02-26,Delivered
+10645,2025-08-11,Samsung Electronics,China,Energy Meter,Energy,GreenLeaf Components,Asia Hub,136,305.35,41527.600000000006,SHP10645,FedEx Logistics,2025-08-12,2025-08-18,Delayed
+10646,2024-03-22,Sony Corp,Netherlands,Engine Sensor,Automotive,Global Tech Parts,Middle East Hub,160,162.56,26009.6,SHP10646,UPS Global,2024-03-25,2024-03-27,Delivered
+10647,2025-08-03,Amazon Robotics,Germany,Sensor Module,Electronics,Nova Industrial,Asia Hub,173,43.17,7468.41,SHP10647,DHL Express,2025-08-04,2025-08-10,Delayed
+10648,2024-05-06,LG Electronics,Germany,ECG Sensor,Healthcare,GreenLeaf Components,West Coast DC,104,311.75,32422.0,SHP10648,DHL Express,2024-05-09,2024-05-10,Delivered
+10649,2024-10-30,Intel Corp,Japan,Smart Thermometer,Healthcare,Nova Industrial,West Coast DC,62,156.69,9714.78,SHP10649,DHL Express,2024-11-01,2024-11-07,Delayed
+10650,2025-04-26,Bosch GmbH,UK,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,119,306.54,36478.26,SHP10650,DHL Express,2025-04-29,2025-04-29,Delivered
+10651,2024-06-18,General Electric,China,Sensor Module,Electronics,Nova Industrial,West Coast DC,73,43.17,3151.4100000000003,SHP10651,FedEx Logistics,2024-06-21,2024-06-24,Delivered
+10652,2025-08-03,Samsung Electronics,China,Voice Assistant,Home Automation,Nova Industrial,Middle East Hub,174,103.19,17955.06,SHP10652,Maersk Shipping,2025-08-04,2025-08-09,Delivered
+10653,2024-03-02,Medtronic,India,Solar Panel,Energy,Quantum Supplies,Asia Hub,24,476.1,11426.400000000001,SHP10653,UPS Global,2024-03-06,2024-03-12,Delayed
+10654,2025-02-24,Huawei Tech,India,Thermostat,Home Automation,Sunrise Electronics,Central Europe DC,89,418.73,37266.97,SHP10654,DHL Express,2025-02-26,2025-02-27,Delivered
+10655,2024-07-04,NIO Inc,India,Sensor Module,Electronics,Nova Industrial,East Coast DC,132,43.17,5698.4400000000005,SHP10655,UPS Global,2024-07-06,2024-07-12,Delayed
+10656,2024-01-31,Intel Corp,Japan,LED Driver,Electronics,Sunrise Electronics,Asia Hub,199,306.54,61001.46000000001,SHP10656,UPS Global,2024-02-02,2024-02-04,Delivered
+10657,2025-06-10,Sony Corp,Netherlands,Brake Module,Automotive,Global Tech Parts,East Coast DC,141,224.49,31653.09,SHP10657,Maersk Shipping,2025-06-11,2025-06-18,Delayed
+10658,2024-09-03,Apple Inc,UK,Power Cable,Energy,Sunrise Electronics,Central Europe DC,165,90.67,14960.550000000001,SHP10658,UPS Global,2024-09-06,2024-09-11,Delivered
+10659,2025-02-10,Microsoft Devices,India,Engine Sensor,Automotive,Global Tech Parts,Asia Hub,157,162.56,25521.920000000002,SHP10659,Maersk Shipping,2025-02-15,2025-02-16,Delivered
+10660,2024-04-06,Bosch GmbH,UK,Fuel Injector,Automotive,Nova Industrial,Middle East Hub,70,269.51,18865.7,SHP10660,FedEx Logistics,2024-04-07,2024-04-08,Delivered
+10661,2024-04-12,LG Electronics,Germany,Smart Switch,Home Automation,Quantum Supplies,Asia Hub,123,24.98,3072.54,SHP10661,UPS Global,2024-04-13,2024-04-19,Delayed
+10662,2025-07-09,Philips Healthcare,UK,Fuel Injector,Automotive,Nova Industrial,Asia Hub,95,269.51,25603.45,SHP10662,DHL Express,2025-07-11,2025-07-17,Delayed
+10663,2025-03-07,BYD Auto,USA,Engine Sensor,Automotive,Global Tech Parts,Central Europe DC,156,162.56,25359.36,SHP10663,DHL Express,2025-03-09,2025-03-12,Delivered
+10664,2024-08-17,Ford Motors,South Korea,Solar Panel,Energy,Quantum Supplies,West Coast DC,72,476.1,34279.200000000004,SHP10664,FedEx Logistics,2024-08-20,2024-08-23,Delivered
+10665,2024-09-14,Bosch GmbH,UK,Smart Switch,Home Automation,Quantum Supplies,Central Europe DC,87,24.98,2173.26,SHP10665,FedEx Logistics,2024-09-16,2024-09-22,Delayed
+10666,2025-07-15,Panasonic Corp,Netherlands,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,63,306.54,19312.02,SHP10666,FedEx Logistics,2025-07-19,2025-07-21,Delivered
+10667,2024-06-14,Huawei Tech,India,Medical Tablet,Healthcare,Quantum Supplies,East Coast DC,110,236.19,25980.9,SHP10667,UPS Global,2024-06-16,2024-06-16,Delivered
+10668,2025-08-23,Huawei Tech,India,Solar Panel,Energy,Quantum Supplies,Central Europe DC,95,476.1,45229.5,SHP10668,FedEx Logistics,2025-08-28,2025-08-29,Delivered
+10669,2024-08-22,NIO Inc,India,Lithium Battery,Energy,Quantum Supplies,Central Europe DC,87,196.65,17108.55,SHP10669,Maersk Shipping,2024-08-26,2024-09-01,Delayed
+10670,2024-03-19,LG Electronics,Germany,ECG Sensor,Healthcare,GreenLeaf Components,West Coast DC,133,311.75,41462.75,SHP10670,Maersk Shipping,2024-03-23,2024-03-29,Delayed
+10671,2025-01-19,Microsoft Devices,India,LED Driver,Electronics,Sunrise Electronics,West Coast DC,9,306.54,2758.86,SHP10671,UPS Global,2025-01-23,2025-01-27,Delivered
+10672,2024-12-30,Cisco Systems,UK,Light Controller,Home Automation,BlueWave Materials,Middle East Hub,72,117.98,8494.56,SHP10672,Maersk Shipping,2025-01-03,2025-01-03,Delivered
+10673,2024-03-07,Apple Inc,UK,Engine Sensor,Automotive,Global Tech Parts,West Coast DC,185,162.56,30073.600000000002,SHP10673,UPS Global,2024-03-12,2024-03-16,Delivered
+10674,2024-12-11,General Electric,China,Fuel Injector,Automotive,Nova Industrial,Asia Hub,40,269.51,10780.4,SHP10674,DHL Express,2024-12-13,2024-12-13,Delivered
+10675,2024-03-20,Ford Motors,South Korea,Oximeter,Healthcare,Sunrise Electronics,West Coast DC,173,192.69,33335.37,SHP10675,Maersk Shipping,2024-03-24,2024-03-31,Delayed
+10676,2025-07-07,Toyota Motors,South Korea,Brake Module,Automotive,Global Tech Parts,Middle East Hub,9,224.49,2020.41,SHP10676,Maersk Shipping,2025-07-10,2025-07-13,Delivered
+10677,2024-03-02,Ford Motors,South Korea,WiFi Module,Electronics,BlueWave Materials,East Coast DC,107,358.42,38350.94,SHP10677,UPS Global,2024-03-03,2024-03-06,Delivered
+10678,2024-04-15,Apple Inc,UK,Microcontroller,Electronics,Sunrise Electronics,Central Europe DC,59,90.66,5348.94,SHP10678,DHL Express,2024-04-19,2024-04-25,Delayed
+10679,2025-02-04,Apple Inc,UK,Inverter,Energy,Nova Industrial,Middle East Hub,47,370.02,17390.94,SHP10679,FedEx Logistics,2025-02-08,2025-02-12,Delivered
+10680,2025-05-04,Philips Healthcare,UK,GPS Unit,Automotive,GreenLeaf Components,Central Europe DC,153,156.25,23906.25,SHP10680,DHL Express,2025-05-06,2025-05-06,Delivered
+10681,2025-06-08,BYD Auto,USA,Engine Sensor,Automotive,Global Tech Parts,West Coast DC,34,162.56,5527.04,SHP10681,UPS Global,2025-06-10,2025-06-10,Delivered
+10682,2025-07-25,Philips Healthcare,UK,Solar Panel,Energy,Quantum Supplies,East Coast DC,110,476.1,52371.0,SHP10682,UPS Global,2025-07-30,2025-08-05,Delayed
+10683,2024-06-05,Toyota Motors,South Korea,Power Cable,Energy,Sunrise Electronics,Middle East Hub,24,90.67,2176.08,SHP10683,Maersk Shipping,2024-06-06,2024-06-13,Delayed
+10684,2024-05-06,Philips Healthcare,UK,Smart Switch,Home Automation,Quantum Supplies,West Coast DC,44,24.98,1099.1200000000001,SHP10684,DHL Express,2024-05-07,2024-05-10,Delivered
+10685,2025-03-02,Philips Healthcare,UK,Inverter,Energy,Nova Industrial,Asia Hub,52,370.02,19241.04,SHP10685,UPS Global,2025-03-05,2025-03-11,Delayed
+10686,2025-04-07,Sony Corp,Netherlands,Smart Switch,Home Automation,Quantum Supplies,West Coast DC,116,24.98,2897.68,SHP10686,Maersk Shipping,2025-04-09,2025-04-12,Delivered
+10687,2024-12-11,LG Electronics,Germany,WiFi Module,Electronics,BlueWave Materials,Asia Hub,9,358.42,3225.78,SHP10687,Maersk Shipping,2024-12-14,2024-12-14,Delivered
+10688,2024-12-12,BYD Auto,USA,Door Sensor,Home Automation,GreenLeaf Components,Asia Hub,95,485.41,46113.950000000004,SHP10688,FedEx Logistics,2024-12-17,2024-12-17,Delivered
+10689,2025-03-11,Bosch GmbH,UK,Microcontroller,Electronics,Sunrise Electronics,Middle East Hub,193,90.66,17497.38,SHP10689,UPS Global,2025-03-16,2025-03-20,Delivered
+10690,2024-10-19,Apple Inc,UK,Smart Thermometer,Healthcare,Nova Industrial,East Coast DC,71,156.69,11124.99,SHP10690,Maersk Shipping,2024-10-23,2024-10-26,Delivered
+10691,2025-04-21,Tesla Motors,UK,Oximeter,Healthcare,Sunrise Electronics,East Coast DC,200,192.69,38538.0,SHP10691,UPS Global,2025-04-26,2025-04-27,Delivered
+10692,2024-04-16,LG Electronics,Germany,PCB Board,Electronics,Quantum Supplies,East Coast DC,193,435.1,83974.3,SHP10692,FedEx Logistics,2024-04-17,2024-04-17,Delivered
+10693,2025-02-05,Ford Motors,South Korea,Energy Meter,Energy,GreenLeaf Components,West Coast DC,179,305.35,54657.65,SHP10693,UPS Global,2025-02-07,2025-02-11,Delivered
+10694,2025-04-10,Cisco Systems,UK,LED Driver,Electronics,Sunrise Electronics,West Coast DC,83,306.54,25442.820000000003,SHP10694,UPS Global,2025-04-13,2025-04-16,Delivered
+10695,2024-04-08,General Electric,China,Blood Pressure Monitor,Healthcare,GreenLeaf Components,West Coast DC,193,82.65,15951.45,SHP10695,Maersk Shipping,2024-04-10,2024-04-15,Delivered
+10696,2024-10-10,NIO Inc,India,Medical Tablet,Healthcare,Quantum Supplies,Asia Hub,187,236.19,44167.53,SHP10696,UPS Global,2024-10-15,2024-10-22,Delayed
+10697,2025-07-02,Toyota Motors,South Korea,Energy Meter,Energy,GreenLeaf Components,Central Europe DC,142,305.35,43359.700000000004,SHP10697,DHL Express,2025-07-04,2025-07-04,Delivered
+10698,2025-06-20,Philips Healthcare,UK,Sensor Module,Electronics,Nova Industrial,West Coast DC,67,43.17,2892.3900000000003,SHP10698,Maersk Shipping,2025-06-24,2025-06-24,Delivered
+10699,2024-09-13,Cisco Systems,UK,Smart Thermometer,Healthcare,Nova Industrial,Central Europe DC,52,156.69,8147.88,SHP10699,DHL Express,2024-09-18,2024-09-21,Delivered
+10700,2024-12-02,Samsung Electronics,China,Smart Switch,Home Automation,Quantum Supplies,Middle East Hub,105,24.98,2622.9,SHP10700,UPS Global,2024-12-06,2024-12-12,Delayed
+10701,2025-02-02,Huawei Tech,India,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,123,485.41,59705.43,SHP10701,FedEx Logistics,2025-02-04,2025-02-11,Delayed
+10702,2024-09-21,Tesla Motors,UK,Fuel Injector,Automotive,Nova Industrial,Middle East Hub,109,269.51,29376.59,SHP10702,FedEx Logistics,2024-09-24,2024-09-30,Delayed
+10703,2024-11-29,Medtronic,India,Engine Sensor,Automotive,Global Tech Parts,Middle East Hub,157,162.56,25521.920000000002,SHP10703,DHL Express,2024-12-01,2024-12-07,Delayed
+10704,2025-06-09,Toyota Motors,South Korea,Thermostat,Home Automation,Sunrise Electronics,Middle East Hub,141,418.73,59040.93,SHP10704,DHL Express,2025-06-13,2025-06-17,Delivered
+10705,2024-02-07,LG Electronics,Germany,Lithium Battery,Energy,Quantum Supplies,East Coast DC,32,196.65,6292.8,SHP10705,UPS Global,2024-02-10,2024-02-13,Delivered
+10706,2025-08-14,NIO Inc,India,Microcontroller,Electronics,Sunrise Electronics,Middle East Hub,9,90.66,815.9399999999999,SHP10706,UPS Global,2025-08-17,2025-08-22,Delivered
+10707,2024-04-05,Ford Motors,South Korea,LED Driver,Electronics,Sunrise Electronics,West Coast DC,36,306.54,11035.44,SHP10707,UPS Global,2024-04-06,2024-04-13,Delayed
+10708,2025-08-15,NIO Inc,India,Door Sensor,Home Automation,GreenLeaf Components,East Coast DC,163,485.41,79121.83,SHP10708,FedEx Logistics,2025-08-20,2025-08-22,Delivered
+10709,2024-03-12,Sony Corp,Netherlands,Voice Assistant,Home Automation,Nova Industrial,West Coast DC,22,103.19,2270.18,SHP10709,FedEx Logistics,2024-03-14,2024-03-14,Delivered
+10710,2025-03-17,Panasonic Corp,Netherlands,Energy Meter,Energy,GreenLeaf Components,Central Europe DC,122,305.35,37252.700000000004,SHP10710,UPS Global,2025-03-20,2025-03-20,Delivered
+10711,2025-03-13,LG Electronics,Germany,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Middle East Hub,5,82.65,413.25,SHP10711,UPS Global,2025-03-14,2025-03-20,Delayed
+10712,2025-04-16,Philips Healthcare,UK,Energy Meter,Energy,GreenLeaf Components,West Coast DC,70,305.35,21374.5,SHP10712,DHL Express,2025-04-18,2025-04-18,Delivered
+10713,2024-08-18,Siemens AG,India,Microcontroller,Electronics,Sunrise Electronics,Central Europe DC,119,90.66,10788.539999999999,SHP10713,FedEx Logistics,2024-08-20,2024-08-22,Delivered
+10714,2024-01-31,Cisco Systems,UK,EV Charger,Automotive,Sunrise Electronics,Central Europe DC,23,103.95,2390.85,SHP10714,FedEx Logistics,2024-02-02,2024-02-08,Delayed
+10715,2025-04-10,Amazon Robotics,Germany,Power Cable,Energy,Sunrise Electronics,Middle East Hub,88,90.67,7978.96,SHP10715,FedEx Logistics,2025-04-11,2025-04-13,Delivered
+10716,2024-02-14,LG Electronics,Germany,PCB Board,Electronics,Quantum Supplies,Central Europe DC,55,435.1,23930.5,SHP10716,DHL Express,2024-02-17,2024-02-22,Delivered
+10717,2024-10-22,LG Electronics,Germany,Sensor Module,Electronics,Nova Industrial,West Coast DC,177,43.17,7641.09,SHP10717,UPS Global,2024-10-26,2024-10-27,Delivered
+10718,2025-06-23,Cisco Systems,UK,Thermostat,Home Automation,Sunrise Electronics,Central Europe DC,147,418.73,61553.310000000005,SHP10718,FedEx Logistics,2025-06-28,2025-07-04,Delayed
+10719,2024-10-12,Microsoft Devices,India,ECG Sensor,Healthcare,GreenLeaf Components,Central Europe DC,129,311.75,40215.75,SHP10719,Maersk Shipping,2024-10-14,2024-10-16,Delivered
+10720,2025-05-27,Apple Inc,UK,Voice Assistant,Home Automation,Nova Industrial,Central Europe DC,69,103.19,7120.11,SHP10720,UPS Global,2025-05-28,2025-06-04,Delayed
+10721,2025-07-16,Toyota Motors,South Korea,Power Cable,Energy,Sunrise Electronics,East Coast DC,146,90.67,13237.82,SHP10721,DHL Express,2025-07-19,2025-07-22,Delivered
+10722,2024-02-27,LG Electronics,Germany,EV Charger,Automotive,Sunrise Electronics,West Coast DC,168,103.95,17463.600000000002,SHP10722,FedEx Logistics,2024-02-28,2024-02-29,Delivered
+10723,2024-12-23,Medtronic,India,LED Driver,Electronics,Sunrise Electronics,Asia Hub,84,306.54,25749.36,SHP10723,DHL Express,2024-12-27,2024-12-28,Delivered
+10724,2025-02-16,BYD Auto,USA,Inverter,Energy,Nova Industrial,Middle East Hub,13,370.02,4810.26,SHP10724,Maersk Shipping,2025-02-18,2025-02-21,Delivered
+10725,2024-02-22,Ford Motors,South Korea,Engine Sensor,Automotive,Global Tech Parts,Middle East Hub,67,162.56,10891.52,SHP10725,DHL Express,2024-02-26,2024-03-01,Delivered
+10726,2024-01-11,Huawei Tech,India,Inverter,Energy,Nova Industrial,Middle East Hub,182,370.02,67343.64,SHP10726,DHL Express,2024-01-12,2024-01-15,Delivered
+10727,2024-02-06,Bosch GmbH,UK,Medical Tablet,Healthcare,Quantum Supplies,East Coast DC,16,236.19,3779.04,SHP10727,Maersk Shipping,2024-02-07,2024-02-11,Delivered
+10728,2024-02-01,Huawei Tech,India,Brake Module,Automotive,Global Tech Parts,West Coast DC,58,224.49,13020.42,SHP10728,FedEx Logistics,2024-02-04,2024-02-06,Delivered
+10729,2024-10-14,NIO Inc,India,LED Driver,Electronics,Sunrise Electronics,East Coast DC,164,306.54,50272.560000000005,SHP10729,DHL Express,2024-10-17,2024-10-23,Delayed
+10730,2024-07-13,Ford Motors,South Korea,Light Controller,Home Automation,BlueWave Materials,Asia Hub,45,117.98,5309.1,SHP10730,Maersk Shipping,2024-07-15,2024-07-17,Delivered
+10731,2024-04-23,Ford Motors,South Korea,Smart Thermometer,Healthcare,Nova Industrial,East Coast DC,25,156.69,3917.25,SHP10731,FedEx Logistics,2024-04-24,2024-04-26,Delivered
+10732,2024-07-23,Bosch GmbH,UK,Lithium Battery,Energy,Quantum Supplies,Asia Hub,82,196.65,16125.300000000001,SHP10732,Maersk Shipping,2024-07-24,2024-07-29,Delivered
+10733,2024-04-13,Huawei Tech,India,Energy Meter,Energy,GreenLeaf Components,West Coast DC,12,305.35,3664.2000000000003,SHP10733,Maersk Shipping,2024-04-16,2024-04-23,Delayed
+10734,2024-10-23,Medtronic,India,Microcontroller,Electronics,Sunrise Electronics,Middle East Hub,12,90.66,1087.92,SHP10734,Maersk Shipping,2024-10-24,2024-10-24,Delivered
+10735,2024-02-05,Cisco Systems,UK,Smart Switch,Home Automation,Quantum Supplies,East Coast DC,170,24.98,4246.6,SHP10735,Maersk Shipping,2024-02-08,2024-02-12,Delivered
+10736,2025-08-23,Bosch GmbH,UK,ECG Sensor,Healthcare,GreenLeaf Components,Asia Hub,89,311.75,27745.75,SHP10736,FedEx Logistics,2025-08-26,2025-08-28,Delivered
+10737,2024-03-27,NIO Inc,India,Oximeter,Healthcare,Sunrise Electronics,Central Europe DC,117,192.69,22544.73,SHP10737,UPS Global,2024-03-28,2024-04-03,Delayed
+10738,2025-07-23,BYD Auto,USA,Thermostat,Home Automation,Sunrise Electronics,East Coast DC,27,418.73,11305.710000000001,SHP10738,FedEx Logistics,2025-07-28,2025-07-31,Delivered
+10739,2024-03-31,Bosch GmbH,UK,Voice Assistant,Home Automation,Nova Industrial,Central Europe DC,115,103.19,11866.85,SHP10739,FedEx Logistics,2024-04-04,2024-04-09,Delivered
+10740,2025-05-23,Bosch GmbH,UK,PCB Board,Electronics,Quantum Supplies,West Coast DC,177,435.1,77012.7,SHP10740,UPS Global,2025-05-27,2025-05-30,Delivered
+10741,2025-07-31,Bosch GmbH,UK,ECG Sensor,Healthcare,GreenLeaf Components,Asia Hub,122,311.75,38033.5,SHP10741,FedEx Logistics,2025-08-04,2025-08-05,Delivered
+10742,2024-03-27,Philips Healthcare,UK,Door Sensor,Home Automation,GreenLeaf Components,Middle East Hub,176,485.41,85432.16,SHP10742,UPS Global,2024-04-01,2024-04-01,Delivered
+10743,2024-09-25,LG Electronics,Germany,Energy Meter,Energy,GreenLeaf Components,Middle East Hub,11,305.35,3358.8500000000004,SHP10743,UPS Global,2024-09-29,2024-10-04,Delivered
+10744,2024-10-10,Philips Healthcare,UK,Lithium Battery,Energy,Quantum Supplies,West Coast DC,8,196.65,1573.2,SHP10744,UPS Global,2024-10-14,2024-10-19,Delivered
+10745,2024-03-02,Toyota Motors,South Korea,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Central Europe DC,115,82.65,9504.75,SHP10745,FedEx Logistics,2024-03-03,2024-03-05,Delivered
+10746,2025-02-05,Microsoft Devices,India,WiFi Module,Electronics,BlueWave Materials,Middle East Hub,25,358.42,8960.5,SHP10746,FedEx Logistics,2025-02-07,2025-02-12,Delivered
+10747,2024-02-29,Philips Healthcare,UK,Solar Panel,Energy,Quantum Supplies,Middle East Hub,126,476.1,59988.600000000006,SHP10747,FedEx Logistics,2024-03-01,2024-03-01,Delivered
+10748,2024-09-25,Samsung Electronics,China,Lithium Battery,Energy,Quantum Supplies,West Coast DC,110,196.65,21631.5,SHP10748,DHL Express,2024-09-29,2024-10-03,Delivered
+10749,2024-08-27,Huawei Tech,India,Voice Assistant,Home Automation,Nova Industrial,Central Europe DC,131,103.19,13517.89,SHP10749,Maersk Shipping,2024-09-01,2024-09-02,Delivered
+10750,2024-10-02,Medtronic,India,Light Controller,Home Automation,BlueWave Materials,Asia Hub,12,117.98,1415.76,SHP10750,DHL Express,2024-10-07,2024-10-13,Delayed
+10751,2024-05-27,BYD Auto,USA,Voice Assistant,Home Automation,Nova Industrial,East Coast DC,119,103.19,12279.61,SHP10751,DHL Express,2024-05-28,2024-05-30,Delivered
+10752,2024-03-04,BYD Auto,USA,Fuel Injector,Automotive,Nova Industrial,East Coast DC,51,269.51,13745.01,SHP10752,Maersk Shipping,2024-03-07,2024-03-13,Delayed
+10753,2024-11-11,Siemens AG,India,Thermostat,Home Automation,Sunrise Electronics,East Coast DC,115,418.73,48153.950000000004,SHP10753,FedEx Logistics,2024-11-13,2024-11-20,Delayed
+10754,2025-01-30,Ford Motors,South Korea,Sensor Module,Electronics,Nova Industrial,Middle East Hub,58,43.17,2503.86,SHP10754,Maersk Shipping,2025-02-02,2025-02-08,Delayed
+10755,2024-12-28,Apple Inc,UK,Door Sensor,Home Automation,GreenLeaf Components,East Coast DC,52,485.41,25241.32,SHP10755,DHL Express,2025-01-01,2025-01-03,Delivered
+10756,2025-02-09,Bosch GmbH,UK,LED Driver,Electronics,Sunrise Electronics,East Coast DC,146,306.54,44754.840000000004,SHP10756,UPS Global,2025-02-11,2025-02-12,Delivered
+10757,2025-02-09,Medtronic,India,Lithium Battery,Energy,Quantum Supplies,Asia Hub,58,196.65,11405.7,SHP10757,UPS Global,2025-02-12,2025-02-14,Delivered
+10758,2024-06-29,Sony Corp,Netherlands,Inverter,Energy,Nova Industrial,Middle East Hub,182,370.02,67343.64,SHP10758,UPS Global,2024-07-02,2024-07-08,Delayed
+10759,2025-06-04,NIO Inc,India,ECG Sensor,Healthcare,GreenLeaf Components,Central Europe DC,55,311.75,17146.25,SHP10759,DHL Express,2025-06-08,2025-06-10,Delivered
+10760,2024-09-17,Ford Motors,South Korea,Voice Assistant,Home Automation,Nova Industrial,West Coast DC,92,103.19,9493.48,SHP10760,FedEx Logistics,2024-09-19,2024-09-21,Delivered
+10761,2025-07-26,Tesla Motors,UK,Fuel Injector,Automotive,Nova Industrial,Middle East Hub,166,269.51,44738.659999999996,SHP10761,FedEx Logistics,2025-07-28,2025-08-02,Delivered
+10762,2024-10-07,Siemens AG,India,Fuel Injector,Automotive,Nova Industrial,Central Europe DC,114,269.51,30724.14,SHP10762,Maersk Shipping,2024-10-08,2024-10-11,Delivered
+10763,2024-10-30,LG Electronics,Germany,Power Cable,Energy,Sunrise Electronics,Asia Hub,25,90.67,2266.75,SHP10763,DHL Express,2024-11-03,2024-11-04,Delivered
+10764,2025-08-25,Panasonic Corp,Netherlands,Light Controller,Home Automation,BlueWave Materials,Middle East Hub,100,117.98,11798.0,SHP10764,UPS Global,2025-08-26,2025-08-27,Delivered
+10765,2024-11-15,Amazon Robotics,Germany,Medical Tablet,Healthcare,Quantum Supplies,Central Europe DC,100,236.19,23619.0,SHP10765,Maersk Shipping,2024-11-18,2024-11-18,Delivered
+10766,2024-11-25,Panasonic Corp,Netherlands,Oximeter,Healthcare,Sunrise Electronics,West Coast DC,29,192.69,5588.01,SHP10766,UPS Global,2024-11-30,2024-12-06,Delayed
+10767,2024-08-13,Cisco Systems,UK,Thermostat,Home Automation,Sunrise Electronics,Asia Hub,127,418.73,53178.71,SHP10767,FedEx Logistics,2024-08-15,2024-08-15,Delivered
+10768,2025-03-06,Sony Corp,Netherlands,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Middle East Hub,97,82.65,8017.05,SHP10768,FedEx Logistics,2025-03-08,2025-03-13,Delivered
+10769,2025-03-29,NIO Inc,India,WiFi Module,Electronics,BlueWave Materials,East Coast DC,54,358.42,19354.68,SHP10769,Maersk Shipping,2025-04-03,2025-04-04,Delivered
+10770,2025-02-20,Cisco Systems,UK,EV Charger,Automotive,Sunrise Electronics,West Coast DC,48,103.95,4989.6,SHP10770,FedEx Logistics,2025-02-22,2025-02-23,Delivered
+10771,2024-12-26,Toyota Motors,South Korea,Sensor Module,Electronics,Nova Industrial,Central Europe DC,110,43.17,4748.7,SHP10771,Maersk Shipping,2024-12-29,2025-01-05,Delayed
+10772,2025-01-18,Microsoft Devices,India,WiFi Module,Electronics,BlueWave Materials,Asia Hub,130,358.42,46594.6,SHP10772,FedEx Logistics,2025-01-21,2025-01-24,Delivered
+10773,2024-08-26,Ford Motors,South Korea,Energy Meter,Energy,GreenLeaf Components,Middle East Hub,98,305.35,29924.300000000003,SHP10773,DHL Express,2024-08-29,2024-08-30,Delivered
+10774,2025-08-31,Intel Corp,Japan,Blood Pressure Monitor,Healthcare,GreenLeaf Components,East Coast DC,133,82.65,10992.45,SHP10774,FedEx Logistics,2025-09-04,2025-09-08,Delivered
+10775,2025-07-13,Samsung Electronics,China,Solar Panel,Energy,Quantum Supplies,West Coast DC,13,476.1,6189.3,SHP10775,FedEx Logistics,2025-07-18,2025-07-24,Delayed
+10776,2025-04-16,Siemens AG,India,Thermostat,Home Automation,Sunrise Electronics,West Coast DC,132,418.73,55272.36,SHP10776,FedEx Logistics,2025-04-18,2025-04-23,Delivered
+10777,2024-11-25,Samsung Electronics,China,Voice Assistant,Home Automation,Nova Industrial,Middle East Hub,124,103.19,12795.56,SHP10777,Maersk Shipping,2024-11-27,2024-11-28,Delivered
+10778,2024-12-04,Medtronic,India,Solar Panel,Energy,Quantum Supplies,Middle East Hub,25,476.1,11902.5,SHP10778,FedEx Logistics,2024-12-05,2024-12-08,Delivered
+10779,2025-08-24,Tesla Motors,UK,Medical Tablet,Healthcare,Quantum Supplies,West Coast DC,155,236.19,36609.45,SHP10779,DHL Express,2025-08-27,2025-09-02,Delayed
+10780,2024-03-05,General Electric,China,Microcontroller,Electronics,Sunrise Electronics,Middle East Hub,147,90.66,13327.019999999999,SHP10780,DHL Express,2024-03-06,2024-03-07,Delivered
+10781,2025-01-25,Bosch GmbH,UK,Smart Switch,Home Automation,Quantum Supplies,West Coast DC,36,24.98,899.28,SHP10781,FedEx Logistics,2025-01-28,2025-01-28,Delivered
+10782,2024-05-12,Apple Inc,UK,ECG Sensor,Healthcare,GreenLeaf Components,Middle East Hub,125,311.75,38968.75,SHP10782,Maersk Shipping,2024-05-13,2024-05-17,Delivered
+10783,2024-09-20,Huawei Tech,India,Oximeter,Healthcare,Sunrise Electronics,East Coast DC,30,192.69,5780.7,SHP10783,FedEx Logistics,2024-09-21,2024-09-21,Delivered
+10784,2024-10-27,Microsoft Devices,India,Solar Panel,Energy,Quantum Supplies,Asia Hub,19,476.1,9045.9,SHP10784,UPS Global,2024-11-01,2024-11-03,Delivered
+10785,2024-12-15,Huawei Tech,India,Blood Pressure Monitor,Healthcare,GreenLeaf Components,East Coast DC,192,82.65,15868.800000000001,SHP10785,UPS Global,2024-12-20,2024-12-22,Delivered
+10786,2024-09-17,Medtronic,India,Brake Module,Automotive,Global Tech Parts,West Coast DC,58,224.49,13020.42,SHP10786,FedEx Logistics,2024-09-19,2024-09-19,Delivered
+10787,2024-11-27,Huawei Tech,India,Sensor Module,Electronics,Nova Industrial,East Coast DC,160,43.17,6907.200000000001,SHP10787,UPS Global,2024-11-29,2024-11-30,Delivered
+10788,2025-03-19,Cisco Systems,UK,Smart Switch,Home Automation,Quantum Supplies,Central Europe DC,7,24.98,174.86,SHP10788,UPS Global,2025-03-22,2025-03-27,Delivered
+10789,2024-06-26,Siemens AG,India,EV Charger,Automotive,Sunrise Electronics,Middle East Hub,114,103.95,11850.300000000001,SHP10789,Maersk Shipping,2024-06-29,2024-07-05,Delayed
+10790,2024-12-29,Panasonic Corp,Netherlands,Oximeter,Healthcare,Sunrise Electronics,Middle East Hub,151,192.69,29096.19,SHP10790,Maersk Shipping,2024-12-31,2025-01-06,Delayed
+10791,2024-12-02,Tesla Motors,UK,Lithium Battery,Energy,Quantum Supplies,Central Europe DC,13,196.65,2556.4500000000003,SHP10791,FedEx Logistics,2024-12-05,2024-12-05,Delivered
+10792,2024-10-05,BYD Auto,USA,Brake Module,Automotive,Global Tech Parts,Central Europe DC,84,224.49,18857.16,SHP10792,Maersk Shipping,2024-10-08,2024-10-15,Delayed
+10793,2025-03-16,NIO Inc,India,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,19,485.41,9222.79,SHP10793,Maersk Shipping,2025-03-20,2025-03-25,Delivered
+10794,2025-01-24,Siemens AG,India,Inverter,Energy,Nova Industrial,East Coast DC,18,370.02,6660.36,SHP10794,FedEx Logistics,2025-01-25,2025-01-28,Delivered
+10795,2024-05-11,Intel Corp,Japan,Sensor Module,Electronics,Nova Industrial,Asia Hub,75,43.17,3237.75,SHP10795,DHL Express,2024-05-15,2024-05-17,Delivered
+10796,2025-04-17,Bosch GmbH,UK,PCB Board,Electronics,Quantum Supplies,Middle East Hub,35,435.1,15228.5,SHP10796,Maersk Shipping,2025-04-22,2025-04-23,Delivered
+10797,2025-02-03,Apple Inc,UK,Smart Switch,Home Automation,Quantum Supplies,Middle East Hub,79,24.98,1973.42,SHP10797,DHL Express,2025-02-08,2025-02-08,Delivered
+10798,2024-09-25,Apple Inc,UK,Brake Module,Automotive,Global Tech Parts,East Coast DC,146,224.49,32775.54,SHP10798,FedEx Logistics,2024-09-29,2024-10-05,Delayed
+10799,2024-07-07,Sony Corp,Netherlands,Microcontroller,Electronics,Sunrise Electronics,Asia Hub,85,90.66,7706.099999999999,SHP10799,UPS Global,2024-07-10,2024-07-12,Delivered
+10800,2024-02-11,Amazon Robotics,Germany,Voice Assistant,Home Automation,Nova Industrial,Central Europe DC,170,103.19,17542.3,SHP10800,UPS Global,2024-02-14,2024-02-19,Delivered
+10801,2024-08-16,Intel Corp,Japan,Medical Tablet,Healthcare,Quantum Supplies,East Coast DC,118,236.19,27870.42,SHP10801,Maersk Shipping,2024-08-21,2024-08-28,Delayed
+10802,2025-06-01,Cisco Systems,UK,ECG Sensor,Healthcare,GreenLeaf Components,Asia Hub,166,311.75,51750.5,SHP10802,FedEx Logistics,2025-06-04,2025-06-05,Delivered
+10803,2024-10-18,Bosch GmbH,UK,EV Charger,Automotive,Sunrise Electronics,Middle East Hub,151,103.95,15696.45,SHP10803,Maersk Shipping,2024-10-22,2024-10-25,Delivered
+10804,2025-06-07,Panasonic Corp,Netherlands,Energy Meter,Energy,GreenLeaf Components,Middle East Hub,123,305.35,37558.05,SHP10804,DHL Express,2025-06-12,2025-06-18,Delayed
+10805,2024-10-16,Intel Corp,Japan,Microcontroller,Electronics,Sunrise Electronics,Central Europe DC,166,90.66,15049.56,SHP10805,UPS Global,2024-10-20,2024-10-26,Delayed
+10806,2024-01-24,Microsoft Devices,India,EV Charger,Automotive,Sunrise Electronics,Asia Hub,128,103.95,13305.6,SHP10806,UPS Global,2024-01-28,2024-02-04,Delayed
+10807,2025-03-16,General Electric,China,WiFi Module,Electronics,BlueWave Materials,Asia Hub,98,358.42,35125.16,SHP10807,DHL Express,2025-03-20,2025-03-25,Delivered
+10808,2025-06-28,Huawei Tech,India,Brake Module,Automotive,Global Tech Parts,East Coast DC,81,224.49,18183.690000000002,SHP10808,UPS Global,2025-06-30,2025-06-30,Delivered
+10809,2025-01-12,Siemens AG,India,WiFi Module,Electronics,BlueWave Materials,West Coast DC,187,358.42,67024.54000000001,SHP10809,UPS Global,2025-01-13,2025-01-19,Delayed
+10810,2025-02-19,LG Electronics,Germany,Voice Assistant,Home Automation,Nova Industrial,Middle East Hub,13,103.19,1341.47,SHP10810,DHL Express,2025-02-20,2025-02-26,Delayed
+10811,2025-02-06,LG Electronics,Germany,Solar Panel,Energy,Quantum Supplies,Middle East Hub,185,476.1,88078.5,SHP10811,UPS Global,2025-02-07,2025-02-11,Delivered
+10812,2024-02-27,Siemens AG,India,Inverter,Energy,Nova Industrial,Central Europe DC,60,370.02,22201.199999999997,SHP10812,DHL Express,2024-03-03,2024-03-05,Delivered
+10813,2024-06-02,Siemens AG,India,Brake Module,Automotive,Global Tech Parts,Asia Hub,148,224.49,33224.520000000004,SHP10813,UPS Global,2024-06-06,2024-06-10,Delivered
+10814,2024-09-03,BYD Auto,USA,PCB Board,Electronics,Quantum Supplies,West Coast DC,120,435.1,52212.0,SHP10814,Maersk Shipping,2024-09-05,2024-09-09,Delivered
+10815,2024-05-18,General Electric,China,Medical Tablet,Healthcare,Quantum Supplies,West Coast DC,130,236.19,30704.7,SHP10815,DHL Express,2024-05-19,2024-05-23,Delivered
+10816,2025-01-26,Medtronic,India,Medical Tablet,Healthcare,Quantum Supplies,West Coast DC,109,236.19,25744.71,SHP10816,DHL Express,2025-01-30,2025-02-03,Delivered
+10817,2025-03-20,Sony Corp,Netherlands,Fuel Injector,Automotive,Nova Industrial,East Coast DC,113,269.51,30454.629999999997,SHP10817,UPS Global,2025-03-22,2025-03-22,Delivered
+10818,2025-05-13,Sony Corp,Netherlands,Solar Panel,Energy,Quantum Supplies,Central Europe DC,124,476.1,59036.4,SHP10818,FedEx Logistics,2025-05-18,2025-05-25,Delayed
+10819,2025-01-11,Microsoft Devices,India,Smart Thermometer,Healthcare,Nova Industrial,Asia Hub,100,156.69,15669.0,SHP10819,FedEx Logistics,2025-01-16,2025-01-22,Delayed
+10820,2024-11-21,Tesla Motors,UK,LED Driver,Electronics,Sunrise Electronics,East Coast DC,5,306.54,1532.7,SHP10820,Maersk Shipping,2024-11-24,2024-11-24,Delivered
+10821,2024-11-26,Amazon Robotics,Germany,Medical Tablet,Healthcare,Quantum Supplies,Asia Hub,77,236.19,18186.63,SHP10821,Maersk Shipping,2024-12-01,2024-12-03,Delivered
+10822,2024-11-16,LG Electronics,Germany,Door Sensor,Home Automation,GreenLeaf Components,Asia Hub,40,485.41,19416.4,SHP10822,UPS Global,2024-11-21,2024-11-21,Delivered
+10823,2025-07-05,BYD Auto,USA,GPS Unit,Automotive,GreenLeaf Components,Asia Hub,107,156.25,16718.75,SHP10823,UPS Global,2025-07-06,2025-07-08,Delivered
+10824,2024-05-09,Medtronic,India,Smart Thermometer,Healthcare,Nova Industrial,Asia Hub,165,156.69,25853.85,SHP10824,FedEx Logistics,2024-05-12,2024-05-17,Delivered
+10825,2025-08-13,Philips Healthcare,UK,Sensor Module,Electronics,Nova Industrial,Asia Hub,123,43.17,5309.91,SHP10825,Maersk Shipping,2025-08-16,2025-08-19,Delivered
+10826,2025-01-23,Ford Motors,South Korea,Light Controller,Home Automation,BlueWave Materials,Central Europe DC,151,117.98,17814.98,SHP10826,DHL Express,2025-01-27,2025-02-03,Delayed
+10827,2025-05-17,LG Electronics,Germany,Inverter,Energy,Nova Industrial,Middle East Hub,84,370.02,31081.68,SHP10827,UPS Global,2025-05-19,2025-05-20,Delivered
+10828,2024-12-21,Huawei Tech,India,Power Cable,Energy,Sunrise Electronics,East Coast DC,97,90.67,8794.99,SHP10828,UPS Global,2024-12-23,2024-12-27,Delivered
+10829,2024-05-15,Medtronic,India,Medical Tablet,Healthcare,Quantum Supplies,Middle East Hub,91,236.19,21493.29,SHP10829,FedEx Logistics,2024-05-17,2024-05-17,Delivered
+10830,2024-07-15,LG Electronics,Germany,Inverter,Energy,Nova Industrial,Asia Hub,101,370.02,37372.02,SHP10830,DHL Express,2024-07-17,2024-07-17,Delivered
+10831,2024-09-20,LG Electronics,Germany,Energy Meter,Energy,GreenLeaf Components,Asia Hub,143,305.35,43665.05,SHP10831,Maersk Shipping,2024-09-25,2024-09-26,Delivered
+10832,2025-08-09,Medtronic,India,Voice Assistant,Home Automation,Nova Industrial,Central Europe DC,194,103.19,20018.86,SHP10832,UPS Global,2025-08-10,2025-08-17,Delayed
+10833,2024-12-29,Panasonic Corp,Netherlands,Smart Thermometer,Healthcare,Nova Industrial,Central Europe DC,9,156.69,1410.21,SHP10833,FedEx Logistics,2024-12-30,2025-01-05,Delayed
+10834,2024-08-23,BYD Auto,USA,Voice Assistant,Home Automation,Nova Industrial,Central Europe DC,25,103.19,2579.75,SHP10834,DHL Express,2024-08-26,2024-09-02,Delayed
+10835,2025-08-27,LG Electronics,Germany,Thermostat,Home Automation,Sunrise Electronics,Asia Hub,105,418.73,43966.65,SHP10835,DHL Express,2025-08-29,2025-09-04,Delayed
+10836,2024-08-16,Cisco Systems,UK,Energy Meter,Energy,GreenLeaf Components,Asia Hub,95,305.35,29008.250000000004,SHP10836,UPS Global,2024-08-20,2024-08-22,Delivered
+10837,2024-03-28,Microsoft Devices,India,Engine Sensor,Automotive,Global Tech Parts,Middle East Hub,194,162.56,31536.64,SHP10837,DHL Express,2024-04-02,2024-04-03,Delivered
+10838,2024-05-05,General Electric,China,Brake Module,Automotive,Global Tech Parts,West Coast DC,186,224.49,41755.14,SHP10838,UPS Global,2024-05-07,2024-05-10,Delivered
+10839,2025-07-09,Cisco Systems,UK,Engine Sensor,Automotive,Global Tech Parts,Central Europe DC,30,162.56,4876.8,SHP10839,DHL Express,2025-07-13,2025-07-13,Delivered
+10840,2025-07-22,Ford Motors,South Korea,ECG Sensor,Healthcare,GreenLeaf Components,Central Europe DC,5,311.75,1558.75,SHP10840,DHL Express,2025-07-24,2025-07-29,Delivered
+10841,2024-12-05,Sony Corp,Netherlands,WiFi Module,Electronics,BlueWave Materials,Asia Hub,184,358.42,65949.28,SHP10841,DHL Express,2024-12-08,2024-12-15,Delayed
+10842,2025-05-20,Huawei Tech,India,Lithium Battery,Energy,Quantum Supplies,Central Europe DC,135,196.65,26547.75,SHP10842,Maersk Shipping,2025-05-22,2025-05-26,Delivered
+10843,2024-11-26,Philips Healthcare,UK,Solar Panel,Energy,Quantum Supplies,Middle East Hub,163,476.1,77604.3,SHP10843,UPS Global,2024-11-28,2024-11-28,Delivered
+10844,2025-02-02,Tesla Motors,UK,LED Driver,Electronics,Sunrise Electronics,Central Europe DC,125,306.54,38317.5,SHP10844,Maersk Shipping,2025-02-07,2025-02-09,Delivered
+10845,2024-11-30,Bosch GmbH,UK,Door Sensor,Home Automation,GreenLeaf Components,Central Europe DC,180,485.41,87373.8,SHP10845,Maersk Shipping,2024-12-05,2024-12-10,Delivered
+10846,2025-03-05,Microsoft Devices,India,LED Driver,Electronics,Sunrise Electronics,West Coast DC,82,306.54,25136.280000000002,SHP10846,FedEx Logistics,2025-03-09,2025-03-11,Delivered
+10847,2024-09-18,Bosch GmbH,UK,Energy Meter,Energy,GreenLeaf Components,Middle East Hub,119,305.35,36336.65,SHP10847,DHL Express,2024-09-19,2024-09-20,Delivered
+10848,2025-05-30,Toyota Motors,South Korea,LED Driver,Electronics,Sunrise Electronics,Central Europe DC,18,306.54,5517.72,SHP10848,Maersk Shipping,2025-06-04,2025-06-05,Delivered
+10849,2025-07-30,Apple Inc,UK,EV Charger,Automotive,Sunrise Electronics,Central Europe DC,117,103.95,12162.15,SHP10849,Maersk Shipping,2025-08-01,2025-08-01,Delivered
+10850,2025-06-05,Medtronic,India,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,18,485.41,8737.380000000001,SHP10850,FedEx Logistics,2025-06-10,2025-06-17,Delayed
+10851,2024-01-28,Philips Healthcare,UK,Solar Panel,Energy,Quantum Supplies,Asia Hub,163,476.1,77604.3,SHP10851,FedEx Logistics,2024-02-02,2024-02-07,Delivered
+10852,2025-05-07,NIO Inc,India,ECG Sensor,Healthcare,GreenLeaf Components,Middle East Hub,127,311.75,39592.25,SHP10852,UPS Global,2025-05-09,2025-05-16,Delayed
+10853,2025-03-24,Panasonic Corp,Netherlands,PCB Board,Electronics,Quantum Supplies,Middle East Hub,124,435.1,53952.4,SHP10853,DHL Express,2025-03-29,2025-04-03,Delivered
+10854,2025-07-15,Intel Corp,Japan,Energy Meter,Energy,GreenLeaf Components,Central Europe DC,184,305.35,56184.4,SHP10854,Maersk Shipping,2025-07-18,2025-07-18,Delivered
+10855,2024-07-25,Amazon Robotics,Germany,Sensor Module,Electronics,Nova Industrial,West Coast DC,65,43.17,2806.05,SHP10855,FedEx Logistics,2024-07-28,2024-08-01,Delivered
+10856,2025-06-07,Ford Motors,South Korea,Power Cable,Energy,Sunrise Electronics,East Coast DC,85,90.67,7706.95,SHP10856,UPS Global,2025-06-09,2025-06-09,Delivered
+10857,2024-05-27,Tesla Motors,UK,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,90,306.54,27588.600000000002,SHP10857,FedEx Logistics,2024-05-29,2024-05-29,Delivered
+10858,2024-04-02,BYD Auto,USA,Power Cable,Energy,Sunrise Electronics,Middle East Hub,145,90.67,13147.15,SHP10858,Maersk Shipping,2024-04-06,2024-04-10,Delivered
+10859,2024-06-07,Tesla Motors,UK,Blood Pressure Monitor,Healthcare,GreenLeaf Components,East Coast DC,153,82.65,12645.45,SHP10859,UPS Global,2024-06-08,2024-06-14,Delayed
+10860,2024-10-19,LG Electronics,Germany,WiFi Module,Electronics,BlueWave Materials,Central Europe DC,71,358.42,25447.82,SHP10860,FedEx Logistics,2024-10-22,2024-10-26,Delivered
+10861,2025-02-10,Philips Healthcare,UK,Smart Switch,Home Automation,Quantum Supplies,West Coast DC,156,24.98,3896.88,SHP10861,UPS Global,2025-02-14,2025-02-19,Delivered
+10862,2024-06-12,Amazon Robotics,Germany,LED Driver,Electronics,Sunrise Electronics,Central Europe DC,174,306.54,53337.96000000001,SHP10862,FedEx Logistics,2024-06-16,2024-06-16,Delivered
+10863,2024-08-07,Cisco Systems,UK,Medical Tablet,Healthcare,Quantum Supplies,Central Europe DC,63,236.19,14879.97,SHP10863,DHL Express,2024-08-11,2024-08-16,Delivered
+10864,2024-07-10,Medtronic,India,WiFi Module,Electronics,BlueWave Materials,Asia Hub,103,358.42,36917.26,SHP10864,UPS Global,2024-07-11,2024-07-13,Delivered
+10865,2024-11-27,Toyota Motors,South Korea,Door Sensor,Home Automation,GreenLeaf Components,Central Europe DC,144,485.41,69899.04000000001,SHP10865,DHL Express,2024-11-30,2024-11-30,Delivered
+10866,2024-11-26,Cisco Systems,UK,Brake Module,Automotive,Global Tech Parts,Central Europe DC,37,224.49,8306.130000000001,SHP10866,FedEx Logistics,2024-12-01,2024-12-01,Delivered
+10867,2024-12-28,Sony Corp,Netherlands,Brake Module,Automotive,Global Tech Parts,West Coast DC,193,224.49,43326.57,SHP10867,UPS Global,2024-12-30,2025-01-04,Delivered
+10868,2025-04-19,Amazon Robotics,Germany,Light Controller,Home Automation,BlueWave Materials,East Coast DC,132,117.98,15573.36,SHP10868,DHL Express,2025-04-22,2025-04-26,Delivered
+10869,2025-06-07,General Electric,China,Thermostat,Home Automation,Sunrise Electronics,Central Europe DC,114,418.73,47735.22,SHP10869,Maersk Shipping,2025-06-09,2025-06-14,Delivered
+10870,2025-08-02,NIO Inc,India,EV Charger,Automotive,Sunrise Electronics,East Coast DC,196,103.95,20374.2,SHP10870,DHL Express,2025-08-06,2025-08-11,Delivered
+10871,2024-10-09,Intel Corp,Japan,LED Driver,Electronics,Sunrise Electronics,Central Europe DC,194,306.54,59468.76,SHP10871,FedEx Logistics,2024-10-12,2024-10-12,Delivered
+10872,2025-05-13,Ford Motors,South Korea,Microcontroller,Electronics,Sunrise Electronics,Middle East Hub,106,90.66,9609.96,SHP10872,UPS Global,2025-05-15,2025-05-19,Delivered
+10873,2024-12-22,General Electric,China,WiFi Module,Electronics,BlueWave Materials,Asia Hub,61,358.42,21863.620000000003,SHP10873,Maersk Shipping,2024-12-25,2024-12-30,Delivered
+10874,2024-05-25,Ford Motors,South Korea,Fuel Injector,Automotive,Nova Industrial,West Coast DC,40,269.51,10780.4,SHP10874,UPS Global,2024-05-28,2024-06-03,Delayed
+10875,2025-04-07,Medtronic,India,WiFi Module,Electronics,BlueWave Materials,Asia Hub,60,358.42,21505.2,SHP10875,Maersk Shipping,2025-04-12,2025-04-17,Delivered
+10876,2025-06-17,LG Electronics,Germany,PCB Board,Electronics,Quantum Supplies,East Coast DC,63,435.1,27411.300000000003,SHP10876,Maersk Shipping,2025-06-18,2025-06-20,Delivered
+10877,2025-06-21,Panasonic Corp,Netherlands,Smart Thermometer,Healthcare,Nova Industrial,Middle East Hub,44,156.69,6894.36,SHP10877,Maersk Shipping,2025-06-23,2025-06-30,Delayed
+10878,2025-08-01,Toyota Motors,South Korea,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,118,306.54,36171.72,SHP10878,Maersk Shipping,2025-08-04,2025-08-10,Delayed
+10879,2024-06-02,LG Electronics,Germany,Lithium Battery,Energy,Quantum Supplies,Middle East Hub,106,196.65,20844.9,SHP10879,FedEx Logistics,2024-06-05,2024-06-05,Delivered
+10880,2025-02-04,Intel Corp,Japan,GPS Unit,Automotive,GreenLeaf Components,Central Europe DC,107,156.25,16718.75,SHP10880,FedEx Logistics,2025-02-09,2025-02-11,Delivered
+10881,2024-09-26,Philips Healthcare,UK,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,17,485.41,8251.970000000001,SHP10881,Maersk Shipping,2024-09-30,2024-10-01,Delivered
+10882,2024-02-19,Intel Corp,Japan,Smart Thermometer,Healthcare,Nova Industrial,West Coast DC,108,156.69,16922.52,SHP10882,DHL Express,2024-02-24,2024-02-27,Delivered
+10883,2025-01-11,Siemens AG,India,Engine Sensor,Automotive,Global Tech Parts,West Coast DC,52,162.56,8453.12,SHP10883,UPS Global,2025-01-14,2025-01-17,Delivered
+10884,2024-07-25,Cisco Systems,UK,Sensor Module,Electronics,Nova Industrial,East Coast DC,102,43.17,4403.34,SHP10884,Maersk Shipping,2024-07-28,2024-07-28,Delivered
+10885,2024-08-10,Huawei Tech,India,EV Charger,Automotive,Sunrise Electronics,Central Europe DC,150,103.95,15592.5,SHP10885,FedEx Logistics,2024-08-12,2024-08-17,Delivered
+10886,2025-07-24,BYD Auto,USA,Voice Assistant,Home Automation,Nova Industrial,Central Europe DC,110,103.19,11350.9,SHP10886,FedEx Logistics,2025-07-28,2025-08-01,Delivered
+10887,2025-02-04,Cisco Systems,UK,ECG Sensor,Healthcare,GreenLeaf Components,West Coast DC,104,311.75,32422.0,SHP10887,DHL Express,2025-02-06,2025-02-13,Delayed
+10888,2024-12-28,Microsoft Devices,India,Solar Panel,Energy,Quantum Supplies,East Coast DC,94,476.1,44753.4,SHP10888,UPS Global,2024-12-31,2024-12-31,Delivered
+10889,2024-10-10,NIO Inc,India,Door Sensor,Home Automation,GreenLeaf Components,Central Europe DC,32,485.41,15533.12,SHP10889,UPS Global,2024-10-15,2024-10-17,Delivered
+10890,2024-07-12,Intel Corp,Japan,Light Controller,Home Automation,BlueWave Materials,Asia Hub,37,117.98,4365.26,SHP10890,FedEx Logistics,2024-07-14,2024-07-16,Delivered
+10891,2024-09-17,Sony Corp,Netherlands,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,92,306.54,28201.68,SHP10891,UPS Global,2024-09-19,2024-09-20,Delivered
+10892,2024-08-08,Huawei Tech,India,LED Driver,Electronics,Sunrise Electronics,West Coast DC,56,306.54,17166.24,SHP10892,UPS Global,2024-08-11,2024-08-17,Delayed
+10893,2025-08-05,Tesla Motors,UK,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Asia Hub,101,82.65,8347.650000000001,SHP10893,Maersk Shipping,2025-08-10,2025-08-10,Delivered
+10894,2025-03-19,Microsoft Devices,India,Energy Meter,Energy,GreenLeaf Components,West Coast DC,30,305.35,9160.5,SHP10894,DHL Express,2025-03-20,2025-03-27,Delayed
+10895,2025-05-01,Intel Corp,Japan,Brake Module,Automotive,Global Tech Parts,West Coast DC,135,224.49,30306.15,SHP10895,DHL Express,2025-05-03,2025-05-07,Delivered
+10896,2024-04-30,Toyota Motors,South Korea,Solar Panel,Energy,Quantum Supplies,Middle East Hub,91,476.1,43325.1,SHP10896,DHL Express,2024-05-05,2024-05-06,Delivered
+10897,2024-11-12,Siemens AG,India,WiFi Module,Electronics,BlueWave Materials,Middle East Hub,36,358.42,12903.12,SHP10897,FedEx Logistics,2024-11-17,2024-11-18,Delivered
+10898,2024-03-05,Philips Healthcare,UK,EV Charger,Automotive,Sunrise Electronics,East Coast DC,56,103.95,5821.2,SHP10898,UPS Global,2024-03-10,2024-03-13,Delivered
+10899,2024-04-13,Bosch GmbH,UK,ECG Sensor,Healthcare,GreenLeaf Components,Asia Hub,118,311.75,36786.5,SHP10899,Maersk Shipping,2024-04-14,2024-04-19,Delivered
+10900,2025-07-30,Ford Motors,South Korea,Sensor Module,Electronics,Nova Industrial,Central Europe DC,77,43.17,3324.09,SHP10900,Maersk Shipping,2025-08-03,2025-08-10,Delayed
+10901,2024-06-12,Medtronic,India,Oximeter,Healthcare,Sunrise Electronics,Central Europe DC,16,192.69,3083.04,SHP10901,FedEx Logistics,2024-06-13,2024-06-20,Delayed
+10902,2025-08-24,Microsoft Devices,India,Power Cable,Energy,Sunrise Electronics,East Coast DC,43,90.67,3898.81,SHP10902,FedEx Logistics,2025-08-25,2025-08-29,Delivered
+10903,2025-07-24,Amazon Robotics,Germany,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Middle East Hub,55,82.65,4545.75,SHP10903,Maersk Shipping,2025-07-26,2025-07-30,Delivered
+10904,2025-06-13,Apple Inc,UK,Smart Thermometer,Healthcare,Nova Industrial,Middle East Hub,93,156.69,14572.17,SHP10904,Maersk Shipping,2025-06-15,2025-06-22,Delayed
+10905,2025-05-17,Tesla Motors,UK,Solar Panel,Energy,Quantum Supplies,Central Europe DC,172,476.1,81889.2,SHP10905,UPS Global,2025-05-19,2025-05-23,Delivered
+10906,2025-08-20,Huawei Tech,India,Engine Sensor,Automotive,Global Tech Parts,Middle East Hub,53,162.56,8615.68,SHP10906,UPS Global,2025-08-22,2025-08-28,Delayed
+10907,2024-11-02,Huawei Tech,India,Power Cable,Energy,Sunrise Electronics,East Coast DC,37,90.67,3354.79,SHP10907,Maersk Shipping,2024-11-03,2024-11-07,Delivered
+10908,2025-02-22,BYD Auto,USA,EV Charger,Automotive,Sunrise Electronics,Middle East Hub,78,103.95,8108.1,SHP10908,FedEx Logistics,2025-02-25,2025-03-03,Delayed
+10909,2024-03-05,Bosch GmbH,UK,GPS Unit,Automotive,GreenLeaf Components,West Coast DC,8,156.25,1250.0,SHP10909,FedEx Logistics,2024-03-06,2024-03-11,Delivered
+10910,2024-02-03,BYD Auto,USA,Smart Thermometer,Healthcare,Nova Industrial,Asia Hub,129,156.69,20213.01,SHP10910,Maersk Shipping,2024-02-05,2024-02-08,Delivered
+10911,2024-06-06,Panasonic Corp,Netherlands,Inverter,Energy,Nova Industrial,Central Europe DC,123,370.02,45512.46,SHP10911,FedEx Logistics,2024-06-08,2024-06-11,Delivered
+10912,2024-06-13,BYD Auto,USA,Medical Tablet,Healthcare,Quantum Supplies,Asia Hub,138,236.19,32594.22,SHP10912,DHL Express,2024-06-16,2024-06-19,Delivered
+10913,2024-05-21,General Electric,China,GPS Unit,Automotive,GreenLeaf Components,East Coast DC,180,156.25,28125.0,SHP10913,Maersk Shipping,2024-05-26,2024-05-28,Delivered
+10914,2025-06-21,Huawei Tech,India,WiFi Module,Electronics,BlueWave Materials,Central Europe DC,58,358.42,20788.36,SHP10914,DHL Express,2025-06-23,2025-06-30,Delayed
+10915,2024-11-22,Toyota Motors,South Korea,Engine Sensor,Automotive,Global Tech Parts,Middle East Hub,90,162.56,14630.4,SHP10915,DHL Express,2024-11-23,2024-11-27,Delivered
+10916,2025-03-19,Tesla Motors,UK,Medical Tablet,Healthcare,Quantum Supplies,Middle East Hub,59,236.19,13935.21,SHP10916,UPS Global,2025-03-23,2025-03-26,Delivered
+10917,2024-07-23,Huawei Tech,India,Light Controller,Home Automation,BlueWave Materials,West Coast DC,111,117.98,13095.78,SHP10917,UPS Global,2024-07-25,2024-07-27,Delivered
+10918,2024-09-10,Medtronic,India,Oximeter,Healthcare,Sunrise Electronics,Asia Hub,32,192.69,6166.08,SHP10918,FedEx Logistics,2024-09-14,2024-09-15,Delivered
+10919,2025-04-22,Siemens AG,India,Smart Switch,Home Automation,Quantum Supplies,Central Europe DC,13,24.98,324.74,SHP10919,DHL Express,2025-04-23,2025-04-24,Delivered
+10920,2025-07-20,Panasonic Corp,Netherlands,EV Charger,Automotive,Sunrise Electronics,Asia Hub,149,103.95,15488.550000000001,SHP10920,DHL Express,2025-07-22,2025-07-27,Delivered
+10921,2024-03-07,Intel Corp,Japan,Inverter,Energy,Nova Industrial,West Coast DC,79,370.02,29231.579999999998,SHP10921,DHL Express,2024-03-11,2024-03-13,Delivered
+10922,2024-05-21,Bosch GmbH,UK,Brake Module,Automotive,Global Tech Parts,Asia Hub,130,224.49,29183.7,SHP10922,DHL Express,2024-05-26,2024-05-30,Delivered
+10923,2024-11-16,BYD Auto,USA,Energy Meter,Energy,GreenLeaf Components,West Coast DC,13,305.35,3969.55,SHP10923,FedEx Logistics,2024-11-18,2024-11-21,Delivered
+10924,2025-04-10,Toyota Motors,South Korea,GPS Unit,Automotive,GreenLeaf Components,Central Europe DC,138,156.25,21562.5,SHP10924,DHL Express,2025-04-11,2025-04-12,Delivered
+10925,2024-03-27,Panasonic Corp,Netherlands,Inverter,Energy,Nova Industrial,Asia Hub,21,370.02,7770.42,SHP10925,DHL Express,2024-03-29,2024-03-29,Delivered
+10926,2024-05-09,Philips Healthcare,UK,Energy Meter,Energy,GreenLeaf Components,Asia Hub,47,305.35,14351.45,SHP10926,FedEx Logistics,2024-05-11,2024-05-12,Delivered
+10927,2025-02-01,Sony Corp,Netherlands,Engine Sensor,Automotive,Global Tech Parts,West Coast DC,62,162.56,10078.72,SHP10927,DHL Express,2025-02-03,2025-02-03,Delivered
+10928,2024-08-18,Siemens AG,India,Voice Assistant,Home Automation,Nova Industrial,Asia Hub,45,103.19,4643.55,SHP10928,DHL Express,2024-08-20,2024-08-26,Delayed
+10929,2024-08-27,Microsoft Devices,India,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,41,306.54,12568.140000000001,SHP10929,DHL Express,2024-08-28,2024-08-29,Delivered
+10930,2025-06-28,Bosch GmbH,UK,Energy Meter,Energy,GreenLeaf Components,West Coast DC,134,305.35,40916.9,SHP10930,Maersk Shipping,2025-06-30,2025-06-30,Delivered
+10931,2024-04-17,Intel Corp,Japan,Smart Thermometer,Healthcare,Nova Industrial,Central Europe DC,92,156.69,14415.48,SHP10931,Maersk Shipping,2024-04-21,2024-04-22,Delivered
+10932,2025-07-30,Bosch GmbH,UK,Door Sensor,Home Automation,GreenLeaf Components,West Coast DC,79,485.41,38347.39,SHP10932,FedEx Logistics,2025-08-03,2025-08-06,Delivered
+10933,2024-04-09,NIO Inc,India,ECG Sensor,Healthcare,GreenLeaf Components,Middle East Hub,78,311.75,24316.5,SHP10933,Maersk Shipping,2024-04-14,2024-04-21,Delayed
+10934,2025-06-23,Intel Corp,Japan,Fuel Injector,Automotive,Nova Industrial,Middle East Hub,187,269.51,50398.369999999995,SHP10934,DHL Express,2025-06-24,2025-06-29,Delivered
+10935,2024-04-15,Tesla Motors,UK,Lithium Battery,Energy,Quantum Supplies,Central Europe DC,94,196.65,18485.100000000002,SHP10935,DHL Express,2024-04-19,2024-04-21,Delivered
+10936,2025-08-06,Siemens AG,India,Blood Pressure Monitor,Healthcare,GreenLeaf Components,West Coast DC,151,82.65,12480.150000000001,SHP10936,DHL Express,2025-08-09,2025-08-13,Delivered
+10937,2024-04-12,Cisco Systems,UK,Blood Pressure Monitor,Healthcare,GreenLeaf Components,Middle East Hub,102,82.65,8430.300000000001,SHP10937,FedEx Logistics,2024-04-15,2024-04-16,Delivered
+10938,2024-10-12,Panasonic Corp,Netherlands,GPS Unit,Automotive,GreenLeaf Components,West Coast DC,176,156.25,27500.0,SHP10938,Maersk Shipping,2024-10-17,2024-10-20,Delivered
+10939,2024-01-11,Huawei Tech,India,Smart Thermometer,Healthcare,Nova Industrial,West Coast DC,196,156.69,30711.239999999998,SHP10939,DHL Express,2024-01-15,2024-01-20,Delivered
+10940,2024-03-01,LG Electronics,Germany,Door Sensor,Home Automation,GreenLeaf Components,Asia Hub,41,485.41,19901.81,SHP10940,Maersk Shipping,2024-03-06,2024-03-09,Delivered
+10941,2024-04-17,NIO Inc,India,Fuel Injector,Automotive,Nova Industrial,Central Europe DC,101,269.51,27220.51,SHP10941,Maersk Shipping,2024-04-19,2024-04-25,Delayed
+10942,2024-11-01,LG Electronics,Germany,Sensor Module,Electronics,Nova Industrial,West Coast DC,47,43.17,2028.99,SHP10942,DHL Express,2024-11-06,2024-11-11,Delivered
+10943,2025-01-22,Amazon Robotics,Germany,Smart Switch,Home Automation,Quantum Supplies,Central Europe DC,138,24.98,3447.2400000000002,SHP10943,UPS Global,2025-01-24,2025-01-31,Delayed
+10944,2024-07-16,Amazon Robotics,Germany,Microcontroller,Electronics,Sunrise Electronics,Central Europe DC,104,90.66,9428.64,SHP10944,DHL Express,2024-07-17,2024-07-21,Delivered
+10945,2024-02-27,Toyota Motors,South Korea,GPS Unit,Automotive,GreenLeaf Components,Middle East Hub,84,156.25,13125.0,SHP10945,UPS Global,2024-03-03,2024-03-05,Delivered
+10946,2024-11-07,Amazon Robotics,Germany,Door Sensor,Home Automation,GreenLeaf Components,Central Europe DC,129,485.41,62617.89000000001,SHP10946,UPS Global,2024-11-08,2024-11-14,Delayed
+10947,2024-07-23,General Electric,China,GPS Unit,Automotive,GreenLeaf Components,East Coast DC,165,156.25,25781.25,SHP10947,DHL Express,2024-07-26,2024-07-31,Delivered
+10948,2024-10-12,Apple Inc,UK,Voice Assistant,Home Automation,Nova Industrial,Asia Hub,191,103.19,19709.29,SHP10948,DHL Express,2024-10-13,2024-10-16,Delivered
+10949,2024-11-23,Siemens AG,India,Fuel Injector,Automotive,Nova Industrial,Central Europe DC,155,269.51,41774.049999999996,SHP10949,Maersk Shipping,2024-11-24,2024-11-28,Delivered
+10950,2024-01-29,Sony Corp,Netherlands,LED Driver,Electronics,Sunrise Electronics,Asia Hub,124,306.54,38010.96,SHP10950,DHL Express,2024-01-30,2024-02-01,Delivered
+10951,2024-10-03,Samsung Electronics,China,Energy Meter,Energy,GreenLeaf Components,West Coast DC,112,305.35,34199.200000000004,SHP10951,Maersk Shipping,2024-10-08,2024-10-15,Delayed
+10952,2025-05-30,Panasonic Corp,Netherlands,Blood Pressure Monitor,Healthcare,GreenLeaf Components,West Coast DC,34,82.65,2810.1000000000004,SHP10952,UPS Global,2025-06-02,2025-06-05,Delivered
+10953,2024-07-21,Microsoft Devices,India,Brake Module,Automotive,Global Tech Parts,Middle East Hub,135,224.49,30306.15,SHP10953,DHL Express,2024-07-26,2024-07-30,Delivered
+10954,2025-04-24,Medtronic,India,Power Cable,Energy,Sunrise Electronics,East Coast DC,60,90.67,5440.2,SHP10954,UPS Global,2025-04-27,2025-05-02,Delivered
+10955,2024-09-17,Philips Healthcare,UK,Thermostat,Home Automation,Sunrise Electronics,Middle East Hub,117,418.73,48991.41,SHP10955,DHL Express,2024-09-18,2024-09-18,Delivered
+10956,2024-11-16,NIO Inc,India,Engine Sensor,Automotive,Global Tech Parts,Asia Hub,91,162.56,14792.960000000001,SHP10956,Maersk Shipping,2024-11-18,2024-11-21,Delivered
+10957,2024-01-06,Ford Motors,South Korea,Light Controller,Home Automation,BlueWave Materials,Middle East Hub,17,117.98,2005.66,SHP10957,FedEx Logistics,2024-01-09,2024-01-15,Delayed
+10958,2025-06-25,Panasonic Corp,Netherlands,Fuel Injector,Automotive,Nova Industrial,Middle East Hub,45,269.51,12127.949999999999,SHP10958,DHL Express,2025-06-28,2025-06-28,Delivered
+10959,2024-06-26,Huawei Tech,India,Lithium Battery,Energy,Quantum Supplies,East Coast DC,184,196.65,36183.6,SHP10959,DHL Express,2024-06-28,2024-07-02,Delivered
+10960,2025-03-23,Ford Motors,South Korea,Light Controller,Home Automation,BlueWave Materials,East Coast DC,71,117.98,8376.58,SHP10960,FedEx Logistics,2025-03-25,2025-03-30,Delivered
+10961,2024-02-17,Philips Healthcare,UK,Microcontroller,Electronics,Sunrise Electronics,Middle East Hub,60,90.66,5439.599999999999,SHP10961,Maersk Shipping,2024-02-21,2024-02-27,Delayed
+10962,2024-09-10,Microsoft Devices,India,LED Driver,Electronics,Sunrise Electronics,Asia Hub,135,306.54,41382.9,SHP10962,FedEx Logistics,2024-09-12,2024-09-12,Delivered
+10963,2025-04-03,Samsung Electronics,China,Oximeter,Healthcare,Sunrise Electronics,West Coast DC,112,192.69,21581.28,SHP10963,FedEx Logistics,2025-04-07,2025-04-09,Delivered
+10964,2025-03-07,Medtronic,India,Solar Panel,Energy,Quantum Supplies,Asia Hub,18,476.1,8569.800000000001,SHP10964,DHL Express,2025-03-09,2025-03-16,Delayed
+10965,2025-04-29,Ford Motors,South Korea,Engine Sensor,Automotive,Global Tech Parts,Asia Hub,41,162.56,6664.96,SHP10965,FedEx Logistics,2025-05-02,2025-05-04,Delivered
+10966,2024-11-10,BYD Auto,USA,Oximeter,Healthcare,Sunrise Electronics,Asia Hub,150,192.69,28903.5,SHP10966,UPS Global,2024-11-14,2024-11-18,Delivered
+10967,2024-08-22,General Electric,China,Brake Module,Automotive,Global Tech Parts,West Coast DC,89,224.49,19979.61,SHP10967,DHL Express,2024-08-23,2024-08-23,Delivered
+10968,2024-11-07,Samsung Electronics,China,Blood Pressure Monitor,Healthcare,GreenLeaf Components,West Coast DC,192,82.65,15868.800000000001,SHP10968,DHL Express,2024-11-09,2024-11-10,Delivered
+10969,2024-05-05,Amazon Robotics,Germany,WiFi Module,Electronics,BlueWave Materials,Asia Hub,80,358.42,28673.600000000002,SHP10969,DHL Express,2024-05-09,2024-05-13,Delivered
+10970,2025-06-10,Siemens AG,India,PCB Board,Electronics,Quantum Supplies,West Coast DC,54,435.1,23495.4,SHP10970,FedEx Logistics,2025-06-14,2025-06-15,Delivered
+10971,2024-03-26,Huawei Tech,India,GPS Unit,Automotive,GreenLeaf Components,East Coast DC,103,156.25,16093.75,SHP10971,FedEx Logistics,2024-03-30,2024-04-04,Delivered
+10972,2024-02-04,Sony Corp,Netherlands,Sensor Module,Electronics,Nova Industrial,West Coast DC,87,43.17,3755.79,SHP10972,FedEx Logistics,2024-02-06,2024-02-12,Delayed
+10973,2025-06-21,BYD Auto,USA,Fuel Injector,Automotive,Nova Industrial,West Coast DC,130,269.51,35036.299999999996,SHP10973,DHL Express,2025-06-25,2025-06-26,Delivered
+10974,2024-12-14,Bosch GmbH,UK,Thermostat,Home Automation,Sunrise Electronics,West Coast DC,169,418.73,70765.37000000001,SHP10974,FedEx Logistics,2024-12-15,2024-12-16,Delivered
+10975,2024-12-06,Philips Healthcare,UK,Energy Meter,Energy,GreenLeaf Components,Middle East Hub,139,305.35,42443.65,SHP10975,Maersk Shipping,2024-12-07,2024-12-11,Delivered
+10976,2024-04-15,NIO Inc,India,Microcontroller,Electronics,Sunrise Electronics,Central Europe DC,52,90.66,4714.32,SHP10976,UPS Global,2024-04-19,2024-04-25,Delayed
+10977,2025-08-01,Medtronic,India,WiFi Module,Electronics,BlueWave Materials,Central Europe DC,37,358.42,13261.54,SHP10977,DHL Express,2025-08-02,2025-08-02,Delivered
+10978,2025-07-06,Siemens AG,India,Lithium Battery,Energy,Quantum Supplies,West Coast DC,58,196.65,11405.7,SHP10978,FedEx Logistics,2025-07-09,2025-07-09,Delivered
+10979,2024-04-22,Medtronic,India,Door Sensor,Home Automation,GreenLeaf Components,Central Europe DC,111,485.41,53880.51,SHP10979,FedEx Logistics,2024-04-27,2024-05-03,Delayed
+10980,2025-03-03,NIO Inc,India,PCB Board,Electronics,Quantum Supplies,Asia Hub,197,435.1,85714.70000000001,SHP10980,UPS Global,2025-03-05,2025-03-09,Delivered
+10981,2024-11-15,Cisco Systems,UK,Lithium Battery,Energy,Quantum Supplies,Middle East Hub,61,196.65,11995.65,SHP10981,UPS Global,2024-11-18,2024-11-18,Delivered
+10982,2024-03-19,Sony Corp,Netherlands,Medical Tablet,Healthcare,Quantum Supplies,West Coast DC,173,236.19,40860.87,SHP10982,DHL Express,2024-03-21,2024-03-26,Delivered
+10983,2025-04-04,Huawei Tech,India,GPS Unit,Automotive,GreenLeaf Components,East Coast DC,6,156.25,937.5,SHP10983,Maersk Shipping,2025-04-06,2025-04-11,Delivered
+10984,2025-03-26,Amazon Robotics,Germany,Blood Pressure Monitor,Healthcare,GreenLeaf Components,West Coast DC,42,82.65,3471.3,SHP10984,FedEx Logistics,2025-03-27,2025-04-02,Delayed
+10985,2025-03-09,Tesla Motors,UK,Power Cable,Energy,Sunrise Electronics,East Coast DC,17,90.67,1541.39,SHP10985,FedEx Logistics,2025-03-10,2025-03-16,Delayed
+10986,2024-05-01,Medtronic,India,Light Controller,Home Automation,BlueWave Materials,Middle East Hub,161,117.98,18994.78,SHP10986,UPS Global,2024-05-05,2024-05-05,Delivered
+10987,2025-05-29,Toyota Motors,South Korea,PCB Board,Electronics,Quantum Supplies,West Coast DC,153,435.1,66570.3,SHP10987,Maersk Shipping,2025-05-31,2025-06-02,Delivered
+10988,2025-04-28,Huawei Tech,India,Smart Thermometer,Healthcare,Nova Industrial,Middle East Hub,200,156.69,31338.0,SHP10988,FedEx Logistics,2025-04-29,2025-04-30,Delivered
+10989,2024-11-20,Sony Corp,Netherlands,Energy Meter,Energy,GreenLeaf Components,Central Europe DC,165,305.35,50382.75000000001,SHP10989,DHL Express,2024-11-24,2024-11-26,Delivered
+10990,2024-09-29,Intel Corp,Japan,Medical Tablet,Healthcare,Quantum Supplies,Asia Hub,134,236.19,31649.46,SHP10990,Maersk Shipping,2024-10-03,2024-10-08,Delivered
+10991,2024-10-19,General Electric,China,PCB Board,Electronics,Quantum Supplies,West Coast DC,51,435.1,22190.100000000002,SHP10991,UPS Global,2024-10-21,2024-10-23,Delivered
+10992,2025-01-09,Toyota Motors,South Korea,PCB Board,Electronics,Quantum Supplies,West Coast DC,142,435.1,61784.200000000004,SHP10992,UPS Global,2025-01-10,2025-01-16,Delayed
+10993,2025-02-02,LG Electronics,Germany,Oximeter,Healthcare,Sunrise Electronics,Middle East Hub,161,192.69,31023.09,SHP10993,DHL Express,2025-02-07,2025-02-14,Delayed
+10994,2025-03-19,Philips Healthcare,UK,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,89,306.54,27282.06,SHP10994,Maersk Shipping,2025-03-21,2025-03-23,Delivered
+10995,2024-05-14,Tesla Motors,UK,LED Driver,Electronics,Sunrise Electronics,Middle East Hub,148,306.54,45367.920000000006,SHP10995,FedEx Logistics,2024-05-18,2024-05-20,Delivered
+10996,2024-09-24,Apple Inc,UK,Smart Thermometer,Healthcare,Nova Industrial,Middle East Hub,153,156.69,23973.57,SHP10996,FedEx Logistics,2024-09-27,2024-10-04,Delayed
+10997,2024-10-12,Huawei Tech,India,Thermostat,Home Automation,Sunrise Electronics,West Coast DC,64,418.73,26798.72,SHP10997,DHL Express,2024-10-13,2024-10-20,Delayed
+10998,2025-02-18,Panasonic Corp,Netherlands,Lithium Battery,Energy,Quantum Supplies,Middle East Hub,59,196.65,11602.35,SHP10998,DHL Express,2025-02-20,2025-02-24,Delivered
+10999,2025-05-23,Cisco Systems,UK,PCB Board,Electronics,Quantum Supplies,West Coast DC,15,435.1,6526.5,SHP10999,Maersk Shipping,2025-05-25,2025-05-26,Delivered
+11000,2024-09-06,LG Electronics,Germany,Sensor Module,Electronics,Nova Industrial,East Coast DC,145,43.17,6259.650000000001,SHP11000,DHL Express,2024-09-10,2024-09-17,Delayed
