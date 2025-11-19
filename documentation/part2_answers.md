@@ -16,3 +16,23 @@
 
 ---
 
+## Q4: Courier Performance Analysis
+
+**Question**: Using the plot answer the following questions:
+- (a) Which courier had the most delayed deliveries and how many?
+- (b) Which courier had the most on time (delivered) deliveries and how many?
+
+**Answers**:
+- **(a)** Maersk Shipping had the most delayed deliveries: **6,273 orders**
+- **(b)** FedEx Logistics had the most on-time deliveries: **20,469 orders**
+
+**Methodology**:
+- Created vertical bar chart with Quantity Ordered on Rows
+- Added Delivery Status and Transporter Name to Columns
+- Color-coded by Delivery Status for visual separation
+- Analyzed bar heights to identify best and worst performers
+
+**Visualization**: See `screenshots/q4_courier_performance_bar_chart.png`
+
+---
+
