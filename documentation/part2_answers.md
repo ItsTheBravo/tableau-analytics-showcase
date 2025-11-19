@@ -36,3 +36,24 @@
 
 ---
 
+## Section 2.3: Customer Map
+
+**Objective**: Visualize geographic distribution of customers and order quantities
+
+**Methodology**:
+- Created map using Longitude and Latitude (double-click method)
+- Set opacity to 60% to reduce overplotting
+- Added Quantity Ordered to Size for visual proportionality
+- Added Quantity Ordered to Color (as Average) to show quantity intensity
+- Applied Orange-Blue Diverging color palette (reversed)
+- Added Customer Country to Details for tooltip information
+
+**Key Insights**: 
+- Geographic spread across USA, Europe, and Asia
+- Larger circles indicate higher order volumes
+- Color intensity shows average order quantities by location
+
+**Visualization**: See `screenshots/world_map_customer_distribution.png`
+
+---
+
