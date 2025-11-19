@@ -57,3 +57,35 @@
 
 ---
 
+## Q5: Scatterplot Regression Analysis
+
+**Question**: Use the scatterplot to answer the following questions:
+- (a) The slope of the line
+- (b) The intercept
+- (c) The R-squared value
+
+**Answers**:
+- **(a) Slope: 98.3255**
+- **(b) Intercept: 26633**
+- **(c) R-squared: 0.981412**
+
+**Equation**: Total Price = 98.3255 × Unit Price + 26633
+
+**Interpretation**:
+- Strong positive linear relationship between Unit Price and Total Price
+- R² of 0.981 indicates 98.1% of variance in Total Price is explained by Unit Price
+- For every $1 increase in Unit Price, Total Price increases by approximately $98.33
+- P-value < 0.0001 indicates highly significant relationship
+
+**Methodology**:
+- Created scatterplot with Unit Price (x-axis) and Total Price (y-axis)
+- Color-coded by Product Name to show distribution across products
+- Added linear trend line using Analytics pane
+- Extracted regression statistics from trend line description
+
+**Visualizations**: 
+- See `screenshots/q5_scatterplot_with_trendline.png`
+- See `screenshots/q5_regression_statistics.png`
+
+---
+
