@@ -15,3 +15,19 @@
 
 ---
 
+## Q2: Private Room Occupancy in Manhattan
+
+**Question**: How many days on average were 'private' rooms occupied in 'Manhattan' in 2019?
+
+**Answer**: 189.0 days
+
+**Methodology**:
+- Created table with Neighbourhood in Rows
+- Added Days Occupied In 2019 to Text, calculated as Average
+- Filtered by Room Type: Private room
+- Filtered by Neighbourhood: Manhattan
+
+**Visualization**: See `screenshots/q2_manhattan_private_room_occupancy.png`
+
+---
+
