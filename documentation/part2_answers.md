@@ -164,3 +164,38 @@
 
 ---
 
+## Q8: Average Monthly Revenue (Reference Lines)
+
+**Question**: What was the average monthly revenue over this period?
+
+**Answer**: $1,174,538
+
+**Methodology**:
+- Created line chart with continuous Month(Order Date) on x-axis and Total Price on y-axis
+- Added reference line showing average across entire table
+- Configured to display value label
+
+**Visualization**: See `screenshots/q8_monthly_revenue_reference_line.png`
+
+---
+
+## Q9: Revenue Trend Analysis (Trend Lines)
+
+**Question**: Is there an upward or downward trend in the revenue during this period?
+
+**Answer**: **Upward trend**
+
+**Interpretation**:
+- Linear trend line slopes positively from left to right
+- Despite monthly fluctuations, overall revenue trajectory is increasing
+- Company shows healthy growth pattern from 2024 through 2025
+
+**Methodology**:
+- Used same monthly revenue chart from Q8
+- Added linear trend line using Analytics pane
+- Trend line visualizes long-term direction despite short-term volatility
+
+**Visualization**: See `screenshots/q9_monthly_revenue_trend_line.png`
+
+---
+
