@@ -117,3 +117,31 @@
 
 ---
 
+## Q7: Warehouse Performance Analysis
+
+**Question**: Using the visualizations created above answer the following questions:
+- (a) Which Warehouse generated the most revenue?
+- (b) Which Warehouse had the most orders?
+
+**Answers**:
+- **(a) West Coast DC** generated the most revenue: **$5,697,314**
+- **(b) Middle East Hub** had the most orders: **224 orders**
+
+**Methodology**:
+- Created two horizontal bar charts to analyze warehouse performance
+- Chart 1: Total Price by Warehouse Name (revenue analysis)
+- Chart 2: Distinct Count of Order ID by Warehouse Name (order volume analysis)
+- Sorted both charts in descending order for easy comparison
+
+**Key Business Insights**:
+- West Coast DC leads in revenue despite not having the highest order count
+- Middle East Hub processes the most orders but ranks second in revenue
+- Suggests West Coast DC handles higher-value orders on average
+- East Coast DC underperforms in both metrics, may need attention
+
+**Visualizations**: 
+- See `screenshots/q7_warehouse_revenue.png`
+- See `screenshots/q7_warehouse_order_count.png`
+
+---
+
