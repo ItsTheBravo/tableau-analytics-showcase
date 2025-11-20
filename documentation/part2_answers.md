@@ -199,3 +199,34 @@
 
 ---
 
+## Q10: Revenue Forecasting
+
+**Question**: How much revenue do we expect to make in April 2026?
+
+**Answer**: $1,591,607
+
+**Methodology**:
+- Duplicated monthly revenue chart and removed trend line
+- Applied exponential smoothing forecast model using Analytics pane
+- Set forecast length to 12 months to extend through April 2026
+- Tableau automatically detected seasonal patterns (12-month cycle)
+- Forecast includes 95% prediction interval (shaded confidence band)
+
+**Interpretation**:
+- Forecast predicts continued revenue growth into 2026
+- April 2026 expected revenue of ~$1.59M represents significant growth from historical average of $1.17M
+- Wide confidence interval reflects uncertainty typical of longer-term forecasts
+- Upward trajectory aligns with positive trend identified in Q9
+
+**Key Business Insight**:
+- Company positioned for sustained growth with 35%+ increase expected by April 2026
+- Seasonal patterns incorporated into forecast model
+- Management should plan for increased capacity and resources
+
+**Visualization**: See `screenshots/q10_revenue_forecast_april_2026.png`
+
+---
+
+# Summary
+
+All 10 questions completed for Part 2: Supply Chain Analytics! ✅
