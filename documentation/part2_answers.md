@@ -145,3 +145,22 @@
 
 ---
 
+## Section 2.7: Top 10 Customers
+
+**Objective**: Create a bar chart showing the top 10 customers in terms of revenue generated
+
+**Methodology**:
+- Created horizontal bar chart with Customer Name in Rows and Total Price in Columns
+- Applied Top 10 filter based on Sum of Total Price
+- Sorted in descending order by revenue
+
+**Key Insights**:
+- Toyota Motors leads as the top revenue-generating customer
+- NIO Inc and Philips Healthcare are close competitors for second place
+- Top 10 customers show relatively balanced revenue distribution
+- All top customers generate between ~$1.2M - $1.5M in revenue
+
+**Visualization**: See `screenshots/top_10_customers.png`
+
+---
+
