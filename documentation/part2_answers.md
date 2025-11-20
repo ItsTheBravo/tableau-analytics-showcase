@@ -89,3 +89,31 @@
 
 ---
 
+## Q6: Sales Performance Dashboard Insights
+
+**Question**: Using the dashboard answer the following questions:
+- (a) Which supplier generated the least revenue?
+- (b) Which product generated the most revenue?
+- (c) Which two countries generated the most revenue for the country?
+
+**Answers**:
+- **(a) Global Tech Parts** generated the least revenue among suppliers
+- **(b) Solar Panel** generated the most revenue among products
+- **(c) India and UK** were the top two revenue-generating countries
+
+**Methodology**:
+- Created three individual bar charts (Total Price per Product, Supplier, and Country)
+- Combined all three into a unified Sales Performance dashboard
+- Sorted all charts by Total Price in descending order
+- Arranged dashboard with 2x1 layout (Supplier and Country on top, Product on bottom)
+
+**Key Business Insights**:
+- Solar Panel, WiFi Module, and Door Sensor are top revenue drivers
+- India and UK represent the strongest markets
+- Quantum Supplies leads supplier revenue generation
+- Global Tech Parts may need sales strategy review
+
+**Visualization**: See `screenshots/q6_sales_performance_dashboard.png`
+
+---
+
